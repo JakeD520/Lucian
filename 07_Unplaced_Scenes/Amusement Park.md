@@ -1,0 +1,1 @@
+Set to [[LA Guns - Rip and Tear]].  [[Rexus]] showing [[Kaelarys]] good, clean fun at the Amusement park, after her string of self destructive behaviors.  We see [[Kaelarys]] finally letting go of her angst...falling into peaceful, childlike joy.  This scene shows the comradery between [[Rexus]] and [[Kaelarys]].

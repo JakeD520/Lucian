@@ -1,0 +1,5 @@
+- The Architect is the creator.
+- The Architect basically split himself between the nine Caelians.  They are him, and he is them, although the Caelians see him as more of a dogma.  They assume him to have created the seed for the master "Pattern".
+- The Architect is absent.  The Caelians know of his existence, because of memory, of "feeling".  They probably sense him, since he is part of them, basically, he is the embodiment of all of them combined.
+- He created the Caelians to represent certain archetypes, for whatever reasons, like an author creating stories.  He created humans as sort of the aggregate of what was left...like, the noise, the static.  Presumably, he was unaware that the humans, in their lack, and mortality, would be able to create artistry and symbols in the form of crafts, due to their struggles and grief.  This curiosity led to the Caelian practice of snapshotting human creations in [[Serim Aeterna]].
+- Because the Caelians are fragments of him, his thoughts are like whispers to his creations.  It is assumed that his formless consciousness is working through them and humans.
