@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d07471240cfde50",
+        "id": "202be036aef3b753",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd643db440f80df",
+            "id": "ec0a0fed16d28506",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -159,7 +159,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fd643db440f80df",
+  "active": "ec0a0fed16d28506",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "06_Sandbox/Rexus' Saga Arc.md",
