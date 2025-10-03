@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c19ccf5e518b2d",
+        "id": "5e63b7d0634004c6",
         "type": "tabs",
         "children": [
           {
-            "id": "bb759c004821b452",
+            "id": "775a65863eac18ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -159,14 +159,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb759c004821b452",
+  "active": "775a65863eac18ed",
   "lastOpenFiles": [
+    "06_Sandbox/Rexus' Saga Arc.md",
+    "05_Soundtrack/NERD - Lapdance.md",
+    "06_Sandbox/Lyra's Saga Arc.md",
+    "05_Soundtrack/Against Me - Sink, Florida, Sink.md",
+    "05_Soundtrack/Juke Ross - Morning Breeze.md",
+    "05_Soundtrack/The Presidents of the United States of America - Rot in the Sun.md",
+    "05_Soundtrack/The Potato Pirates - Got Time.md",
+    "05_Soundtrack/Pierce the Veil - So Far So Fake.md",
+    "01_Characters/Kaelarys.md",
+    "05_Soundtrack/My Chemical Romance - Famous Last Words.md",
+    "04_Seasons/Season 1.md",
+    "04_Seasons/Season 2.md",
+    "00_Daily/2025-10-02.md",
+    "05_Soundtrack/Lilly Wood and the Prick - Into Trouble.md",
+    "03_Episodes/S01E01/Scene1.md",
+    "05_Soundtrack/Joydrop - Beautiful Like You.md",
+    "05_Soundtrack/Metric - Gold Gun Girls.md",
+    "Untitled",
+    "05_Soundtrack/Kings of Leon - Red Morning Light.md",
+    "05_Soundtrack/Lunar Horizon - Nothing's Wrong.md",
+    "05_Soundtrack/Jamie N Commons - Rumble and Sway.md",
+    "05_Soundtrack/Current Joys - A Different Age.md",
+    "05_Soundtrack/Frank Turner - The Next Storm.md",
+    "05_Soundtrack/Frank Turner - Plain Sailing Weather.md",
     "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md",
     "README.md",
     "Excalidraw/Drawing 2025-10-02 20.47.14.excalidraw.md",
-    "00_Daily/2025-10-02.md",
     "Excalidraw",
-    "/README.md",
     "Untitled 1.base",
     "Untitled.base"
   ]

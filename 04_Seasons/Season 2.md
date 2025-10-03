@@ -1,0 +1,1 @@
+[[Kaelarys]] lets go of being the "responsible one".  She starts engaging self destructive behavior as her pendulum swings.  Ultimately, [[Rexus]] reels her back in.  I'm thinking an amusement park scene to the song [[LA Guns - Rip and Tear]]
