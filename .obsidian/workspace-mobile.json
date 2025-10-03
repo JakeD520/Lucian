@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5df08d1f402e4863",
+        "id": "20570912d3291880",
         "type": "tabs",
         "children": [
           {
-            "id": "5560f249f7cb5e35",
+            "id": "3f39bed87fa1176e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,7 +159,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5560f249f7cb5e35",
+  "active": "32ef0de3daa65848",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "06_Sandbox/Rexus' Saga Arc.md",
