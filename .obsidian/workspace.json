@@ -11,12 +11,14 @@
             "id": "6890e32842ddb1b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md"
+                "file": "06_Sandbox/Kaelarys Saga Arc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-02 20.45.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "Kaelarys Saga Arc"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md",
+                "file": "06_Sandbox/Kaelarys Saga Arc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-10-02 20.45.01.excalidraw"
+              "title": "Backlinks for Kaelarys Saga Arc"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md",
+                "file": "06_Sandbox/Kaelarys Saga Arc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-10-02 20.45.01.excalidraw"
+              "title": "Outgoing links from Kaelarys Saga Arc"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md",
+                "file": "06_Sandbox/Kaelarys Saga Arc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-02 20.45.01.excalidraw"
+              "title": "Outline of Kaelarys Saga Arc"
             }
           },
           {
@@ -176,12 +178,29 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6890e32842ddb1b7",
+  "active": "74d05431c4fb725d",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Excalidraw/Drawing 2025-10-02 20.45.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-02 20.47.14.excalidraw.md",
     "README.md",
     "Excalidraw",
     "00_Daily/2025-10-02.md",
