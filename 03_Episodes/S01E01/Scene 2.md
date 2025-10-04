@@ -240,6 +240,78 @@ But she's already fading.
 
 The strings swell—mournful, inevitable.
 
+Violetta’s voice trembles through her final phrases.  
+Applause swells—polite, reverent, the kind of sound that tries to smooth over death.
+
+**IN THE SKYBOX**
+
+Rexus doesn’t clap. He just watches the curtain fall.
+
+Lucian studies him—knows better than to speak.
+
+The house lights rise halfway. Murmured conversation, the rustle of programs.  
+Patrons stretch, sip champagne, laugh too loudly.  
+The spell breaks.
+
+Rexus leans back, eyes on nothing.
+
+> **REXUS**  
+> They cheer a woman dying… then toast to her courage.  
+> _(beat)_  
+> Mortals make grief look festive.
+
+Lucian doesn’t reply. The orchestra tunes softly below—strings sighing, cellos humming like a low tide.
+
+A VOICE comes over the house speakers, smooth and ceremonial.
+
+> **ANNOUNCER (V.O.)**  
+> Ladies and gentlemen—our next selection,  
+> from _Manon Lescaut_:  
+> “**Sola, perduta, abbandonata**,”  
+> performed by Giulia Ferrani.
+
+Polite applause. Then the lights fade again—slower this time.
+
+Rexus doesn’t move.
+
+---
+
+### **ON STAGE**
+
+The curtain rises on emptiness.  
+A cracked wasteland glows under amber haze.  
+A single figure stands at its center—alone.
+
+Wind machines whisper through the orchestra pit.
+
+The soprano begins, soft but unflinching:
+
+> **SOPRANO (O.S.)**  
+> _“Sola, perduta, abbandonata in landa desolata…”_  
+> _(Alone, lost, abandoned in this desolate land.)_
+
+Her voice climbs the walls, thin as breath, enormous as memory.
+
+---
+
+### **IN THE SKYBOX**
+
+Rexus exhales—barely audible.
+
+Lucian turns; something in his brother’s face has changed.  
+Stillness. Recognition.
+
+> **REXUS**  
+> (quiet, almost to himself)  
+> That word…  
+> _Abbandonata._
+
+The strings deepen, the desert light bleeding across his reflection in the glass.
+
+**HOLD** on the two of them as the aria builds—  
+mortal despair echoing through divine silence.
+
+
 **BACK TO REXUS:**
 
 His jaw tightens. He doesn't look away from the stage.
