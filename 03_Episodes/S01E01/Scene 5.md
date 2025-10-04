@@ -19,7 +19,7 @@ _His fingers gesture lazily, drawing invisible connections in the air._
 
 _He pauses, studying the joint like it contains cosmic wisdom._
 
-**EVANDER (CONT'D)** See, here's where it gets beautiful and terrifying at the same time. Each person deploys whatever weapons they've got access to. The physically strong resort to violence - it's efficient, direct, monkey-brain simple. The socially connected become bullies, use shame and ostracism like a medieval siege. The intellectually gifted will use thier wits to outsmart.
+**EVANDER (CONT'D)** See, here's where it gets beautiful and terrifying at the same time. Each person deploys whatever weapons they've got access to. The physically strong resort to violence - it's efficient, direct, monkey-brain simple. The socially connected become bullies, use shame and ostracism like a medieval siege. The intellectually gifted will use their wits to outsmart.
 
 _He chuckles, a sound both amused and slightly disturbed._
 
