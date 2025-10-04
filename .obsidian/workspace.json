@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Episodes/S01E01/Scene 1.md",
+                "file": "03_Episodes/S01E01/Scene 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene 1"
+              "title": "Scene 2"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
-    "03_Episodes/S01E01/Scene 2.md",
     "03_Episodes/S01E01/Scene 1.md",
+    "03_Episodes/S01E01/Scene 2.md",
     "10_Items/Bayeux Tapestry.md",
     "chalgrave-castle-33bdfc01c2f444498b8acd94e1864ae8.png",
     "alderney-tapestry-coronation.jpg",
