@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Soundtrack/Untitled.md",
+                "file": "05_Soundtrack/Adam Levine - Lost Stars.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Adam Levine - Lost Stars"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6890e32842ddb1b7",
+  "active": "db97a9bf184c7fea",
   "lastOpenFiles": [
+    "05_Soundtrack/Ray LaMontagne - Let It Be Me.md",
+    "05_Soundtrack/Adam Levine - Lost Stars.md",
     "05_Soundtrack/Soul Asylum - Runaway Train.md",
-    "05_Soundtrack/Untitled.md",
     "05_Soundtrack/Crazy Town - Butterfly.md",
     "05_Soundtrack/Jessie Reyez - Figures.md",
     "05_Soundtrack/Taking Back Sunday - MakeDamnSure.md",
@@ -214,7 +215,6 @@
     "04_Seasons/Season 1.md",
     "03_Episodes/S01E01/Scene 8.md",
     "07_Unplaced_Scenes/Untitled.md",
-    "07_Unplaced_Scenes/Untitled 1.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
