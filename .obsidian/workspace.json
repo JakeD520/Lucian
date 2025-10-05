@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Episodes/S01E01/Scene 1.md",
-                "mode": "source",
-                "source": false
+                "file": "10_Items/Opera.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Scene 1"
+              "title": "Opera"
             }
           }
         ]
@@ -178,18 +178,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db97a9bf184c7fea",
+  "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
+    "03_Episodes/S01E01/Scene 2.md",
+    "10_Items/Bayeux Tapestry.md",
+    "03_Episodes/S01E01/Scene 1.md",
     "11_Media",
     "03_Episodes/S01E01/Scene 6.md",
     "03_Episodes/S01E01/Scene 5.md",
     "03_Episodes/S01E01/Scene 4.md",
     "03_Episodes/S01E01/Scene 3.md",
-    "03_Episodes/S01E01/Scene 2.md",
     "06_Sandbox/Kaelarys Saga Arc.md",
     "10_Items/Opera.md",
-    "03_Episodes/S01E01/Scene 1.md",
-    "10_Items/Bayeux Tapestry.md",
     "11_Media/chalgrave-castle-33bdfc01c2f444498b8acd94e1864ae8.png",
     "11_Media/alderney-tapestry-coronation.jpg",
     "11_Media/Bayeux.png",

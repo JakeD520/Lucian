@@ -4,7 +4,7 @@
 
 **EXT. ROYAL OPERA HOUSE – NIGHT**
 
-London. Grand architecture. Carriages, limousines. Patrons in gowns and tuxedos ascending the steps.
+London. Grand architecture. Patrons in gowns and tuxedos ascending the steps.
 
 Wealth. Status. Ceremony.
 
