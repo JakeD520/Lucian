@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Soundtrack/Kaleo - Run No More.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kaleo - Run No More"
+              "title": "README"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
-    "05_Soundtrack/My Chemical Romance - Famous Last Words.md",
     "05_Soundtrack/Kaleo - Run No More.md",
+    "05_Soundtrack/My Chemical Romance - Famous Last Words.md",
     "10_Items/Opera.md",
     "03_Episodes/S01E01/Scene 2.md",
     "10_Items/Bayeux Tapestry.md",
