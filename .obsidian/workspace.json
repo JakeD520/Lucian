@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Soundtrack/Crazytown - Butterfly.md",
+                "file": "05_Soundtrack/Soul Asylum - Runaway Train.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Crazytown - Butterfly"
+              "title": "Soul Asylum - Runaway Train"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74d05431c4fb725d",
+  "active": "db97a9bf184c7fea",
   "lastOpenFiles": [
+    "05_Soundtrack/Crazy Town - Butterfly.md",
+    "05_Soundtrack/Soul Asylum - Runaway Train.md",
     "05_Soundtrack/Jessie Reyez - Figures.md",
-    "05_Soundtrack/Crazytown - Butterfly.md",
     "05_Soundtrack/Taking Back Sunday - MakeDamnSure.md",
     "05_Soundtrack/Arctic Monkeys - I Bet You Look Good on the Dance Floor.md",
     "05_Soundtrack/Live - All Over You.md",
@@ -214,7 +215,6 @@
     "07_Unplaced_Scenes/Untitled.md",
     "07_Unplaced_Scenes/Untitled 1.md",
     "06_Sandbox/Rexus' Saga Arc.md",
-    "06_Sandbox/Lyra's Saga Arc.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
