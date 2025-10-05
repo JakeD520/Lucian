@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "05_Soundtrack/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
+    "README.md",
+    "05_Soundtrack/Untitled.md",
     "05_Soundtrack/Kaleo - Run No More.md",
     "05_Soundtrack/My Chemical Romance - Famous Last Words.md",
     "10_Items/Opera.md",
@@ -213,8 +215,6 @@
     "05_Soundtrack/Juke Ross - Morning Breeze.md",
     "05_Soundtrack/Joydrop - Beautiful Like You.md",
     "05_Soundtrack/Against Me - Sink, Florida, Sink.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
