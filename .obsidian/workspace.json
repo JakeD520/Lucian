@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Episodes/S06E01/Untitled.md",
+                "file": "02_Themes/Archangels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Archangels"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
-    "06_Sandbox/Saga Arc Suggestions.md",
+    "02_Themes/Revelation New Light.md",
+    "02_Themes/Series Themes.md",
+    "04_Seasons/Season 6.md",
     "03_Episodes/S06E01/Untitled.md",
+    "06_Sandbox/Saga Arc Suggestions.md",
     "03_Episodes/S06E01",
     "10_Items/Opera.md",
     "10_Items/Bayeux Tapestry.md",
@@ -213,9 +216,6 @@
     "03_Episodes/S01E01/Scene 5.md",
     "03_Episodes/S01E01/Scene 1.md",
     "07_Unplaced_Scenes/Amusement Park.md",
-    "07_Unplaced_Scenes/Untitled.md",
-    "04_Seasons/Season 1.md",
-    "Welcome.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
