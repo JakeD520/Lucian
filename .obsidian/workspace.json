@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Themes/Archangels.md",
+                "file": "04_Seasons/Season 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archangels"
+              "title": "Season 4"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
+    "02_Themes/Archangels.md",
     "02_Themes/Revelation New Light.md",
     "02_Themes/Series Themes.md",
     "04_Seasons/Season 6.md",
@@ -215,7 +216,6 @@
     "03_Episodes/S01E01/Scene 6.md",
     "03_Episodes/S01E01/Scene 5.md",
     "03_Episodes/S01E01/Scene 1.md",
-    "07_Unplaced_Scenes/Amusement Park.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
