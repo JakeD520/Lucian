@@ -13,9 +13,9 @@ Jazz leans against the window, zoning out — first quiet she’s had in weeks.
 They roll to a halt.  
 She gets out, boots crunching gravel.  
 Camera follows her slow walk into the wide frame of an **abandoned building**, sun-blasted, ivy creeping up concrete.  
-On its wall — a massive, half-faded mural:
+On its wall — a crude mural:
 
-**L U C I A N**, haloed in red spray paint, leading zealots as they **smash servers, burn data stacks,** faceless figures in VR rigs fleeing in terror.  
+**L U C I A N**, haloed in red spray paint, leading zealots as they **smash servers, burn data stacks,** pummel faceless figures in VR rigs fleeing in terror.  
 Across the bottom in bold, shaky letters:
 
 > **“CAN’T HANDLE LIFE? WE’LL HELP YOU GET OUT.”**
