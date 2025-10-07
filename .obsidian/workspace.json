@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Soundtrack/Adam Levine - Lost Stars.md",
+                "file": "04_Seasons/Season 4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adam Levine - Lost Stars"
+              "title": "Season 4"
             }
           }
         ]
@@ -178,10 +178,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db97a9bf184c7fea",
+  "active": "6890e32842ddb1b7",
   "lastOpenFiles": [
-    "05_Soundtrack/Ray LaMontagne - Let It Be Me.md",
+    "04_Seasons/Season 5.md",
+    "04_Seasons/Season 6.md",
     "05_Soundtrack/Adam Levine - Lost Stars.md",
+    "05_Soundtrack/Ray LaMontagne - Let It Be Me.md",
     "05_Soundtrack/Soul Asylum - Runaway Train.md",
     "05_Soundtrack/Crazy Town - Butterfly.md",
     "05_Soundtrack/Jessie Reyez - Figures.md",
@@ -213,8 +215,6 @@
     "03_Episodes/S01E01/Scene 7.md",
     "05_Soundtrack/OK Go - Do What You Want.md",
     "04_Seasons/Season 1.md",
-    "03_Episodes/S01E01/Scene 8.md",
-    "07_Unplaced_Scenes/Untitled.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw"
