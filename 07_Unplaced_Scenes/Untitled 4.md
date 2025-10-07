@@ -28,7 +28,7 @@ Her mouth opens slightly—no words.
 > _(beat)_  
 > **ZADIE (soft, already knowing):** “Come on, Jazz. Leave it.”  
 > **JAZZ:** “They think this is what he means?”  
-> **ZADIE:** “Doesn’t matter what he means. People only ever hear what fits.”
+> **ZADIE:** “Doesn’t matter what he means. They only ever hear what fits.”
 
 She takes a slow step back, eyes still fixed on the wall—equal parts horror and fascination.  
 Then she turns, gets back into the car.  
