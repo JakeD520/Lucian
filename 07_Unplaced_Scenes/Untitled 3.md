@@ -88,7 +88,6 @@ His gaze flicks upward — to **Kaelarys**, standing still, her eyes unwavering.
 She doesn’t speak.  
 Her expression says everything: _hurt Lyra, and you’ll answer to me._
 
-Lucian’s rage drains to exhaustion.  
 He sits for a moment, staring at the empty horizon — the world he tried to save already gone.
 
 Then he rises.
