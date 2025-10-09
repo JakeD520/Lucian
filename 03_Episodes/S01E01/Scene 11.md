@@ -53,7 +53,6 @@ Yes, I think… that would suit you.
 To make something of your own.
 
 (HOLD — silence. Lyra beams, still caught in her imaginings. Kaelarys does not smile. Her eyes fix on the ragged threads, the unfinished edge swaying faintly.)
----
 
 **KAELARYS**  
 (steady, measured)  
@@ -285,4 +284,35 @@ It only predicts.
 And what is a prophecy worth…  
 if the one who wrote it is already gone?
 
-(HOLD — her shoulders sag. The fight drains into dread. Lyra watches her, stricken, terrified.)
+(HOLD — her shoulders sag. The fight drains into dread. She sways, then her knees give. Kaelarys drops, crumpling to the marble floor.)
+
+---
+
+**LYRA**  
+(gasping, rushing forward)  
+Kaelarys!
+
+(she falls to her knees, catching her sister in her arms, holding her close)
+
+---
+
+**KAELARYS**  
+(breath ragged, voice breaking )  
+He’s never coming back.
+
+(beat — she grips Lyra’s hand, eyes wet)
+
+**KAELARYS**  
+Abandoned in His half-made world,  
+clinging to silence as if it were love.
+
+(beat — her voice drops, trembling)
+
+We live as gods…  
+but we’re nothing more than orphans.
+
+(HOLD. The words hang in the silence. Lyra clutches her tighter, trembling, unable to answer. The gallery looms vast, the unfinished tapestry watching over them.)
+
+---
+
+**CUT TO: MONTAGE.**
