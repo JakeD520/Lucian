@@ -1,61 +1,163 @@
-**INT. NIGHTCLUB – VIP BOOTH**
+**INT. SERIM GALLERY – TIMELESS**
 
-The club floor is chaos — bodies in strobe-light seizure, bass rolling like thunder under the skin.
+The Bayeux Tapestry looms. Threads shimmer under timeless light. **Lyra** twirls beneath it, skirts sweeping like a brushstroke. She slows, breathless, eyes locked on the embroidery.
 
-At the far wall, behind a velvet rope and a black-suited bouncer, a **VIP booth** rises like an island. Leather curves in a half-circle, a low table gleaming with bottles, glasses, ice buckets.
+(HOLD. The echo of her spin fades.)
 
-**VAL** reclines at the center — androgynous chic, tailored perfection, every angle catching the light differently with each strobe. To the left, masculine edge in the line of jaw and lean frame. To the right, feminine elegance in the curve of hand, cascade of hair. Eyes predatory, amused, restless.
+**LYRA**  
+Why do we keep these here, anyway? Why in Serim?
 
-Around them, an **entourage** — sycophants, lovers, courtiers in all but name. Laughter too loud, gestures too rehearsed, as though each is auditioning to stay in orbit.
+**KAELARYS**  
+_(fond, almost rote)_  
+We always have. We capture creations at the pinnacle of their being… when they most fully embody their creator's vision.
 
-But Val is detached. The glass dangles loosely in their fingers. They sip without tasting. Their gaze drifts over the crowd, scanning like a sovereign who’s seen this procession a thousand nights.
+(HOLD. Kaelarys' voice lingers against the silence.)
 
-_Every smile looks recycled. Every dance step, choreographed. Every laugh, the same as last night’s laugh._
+**LYRA**  
+The pinnacle?  
+_(beat, her tone light, thoughtful)_  
+But on Earth, this tapestry is faded. Patched, even reworked. Isn't that still art? Doesn't the decay add to it? The stains, the wear… aren't those part of the story?
 
-**VAL** ( in expression) The masque repeats. Different masks, same faces.
+(HOLD. CU: Kaelarys. A flicker of surprise. She didn't expect the question.)
 
-_The entourage roars at some joke. Val doesn’t. They smile faintly, but the eyes say it clearly: boredom._
+**KAELARYS**  
+Decay can reveal beauty, yes…  
+_(beat)_  
+But the vision—the spark that began it—that is what we preserve. The moment it became whole.
 
-The bass swells. The **INTRUDER** enters frame.
+**LYRA**  
+When the creator has moved on?
 
-The BOUNCER straightens, then relaxes. He knows this man. Everyone does. Tall. Tailored. Smile polished like chrome. A WOMAN clings to his arm, radiant, lacquered in the sheen of money well-spent.
+(HOLD. Silence stretches. Kaelarys stiffens. CU: her eyes flicker—something sharp, painful. An intrusive thought.)
 
-They exchange a clasp at the rope — old familiarity. The man leans in, voice low, a conspiratorial murmur. A folded pair of hundreds slip from hand to hand with practiced ease.
+She forces a small smile, brushing it aside.
 
-Not so subtle. Not to VAL’s eyes.
+**KAELARYS**  
+…Well. Yes. In a way. When the vision is complete, it's left to endure.  
+_(beat — her voice softer, but there's tension underneath.)_
 
-VAL watches, glass halfway to their lips. A faint narrowing — irritation? amusement? Hard to tell.
+**LYRA**  
+_(playful, testing)_  
+Do you ever wonder… if I painted something? Or if you sculpted a statue? Would we display it here?
 
-The rope opens. The man steps through without hesitation, as though expected, as though this space were his second home. The entourage hardly notices.
+(HOLD. Kaelarys' smile falters. The silence answers first.)
 
-He slides into the booth opposite Val, the woman tucked neatly against his side. Comfortable. Confident. Certain.
+**KAELARYS**  
+_(quiet, but firm)_  
+That's not what we do, Lyra.
 
-**INTRUDER** (pleasant, declarative) This is the best seat in the house. Thought I’d join you.
+(HOLD. Lyra absorbs it. Her playfulness ebbs away.)
 
-The entourage titter — some notice the new faces, some oblivious. The man lets the line hang, expecting his reputation to do the rest.
+**LYRA**  
+The humans fill their world with works—paintings, poems, cathedrals.  
+_(beat, voice dipping)_  
+And us… nothing.
 
-VAL’s eyes linger. A squint, tiny, surgical. Then… the smile. Slow. Dangerous.
+She turns slightly, catching her reflection on the marble floor.
 
-At last, something to do.
+**LYRA**  
+Funny, isn't it? Everything about me screams 'artist.'
 
-**INTRUDER** (to Val, easy) I’d have remembered seeing you here before. You’re not the sort to blend.
+(HOLD. She spins the charm at her neck, glances down at tattoos, fabrics, wild hair. She laughs softly—uncertain, not joyous.)
 
-_Val arches a brow, not flattered but entertained. They sip, eyes locked._
+**LYRA**  
+But none of it is mine. The style, the ink, the songs I hum… all borrowed. From them.  
+_(beat — quieter, her voice catching)_  
+It's like I'm only wearing the mask. Pretending to be what I can never really be.
 
-**VAL** And you’re not the sort to miss anyone worth remembering.
+Her eyes glisten. She presses her hand into her palm, nails biting.
 
-_The INTRUDER smiles at that, appreciative — not many return his serve with precision. He leans in a little, lowering his voice so it cuts through the music._
+(HOLD. Kaelarys watches, face softening.)
 
-**INTRUDER** I make it a point to know everyone who matters in a room. You? You matter.
+Kaelarys steps closer, slow, deliberate. She takes Lyra's hand, pries the fingers open gently, and traces the **star tattoo** there.
 
-_VAL lets the words hang, then laughs softly — not dismissive, but genuinely pleased. They tip their glass toward him._
+(HOLD. Her thumb moves in slow circles. CU: Lyra's breath trembling.)
 
-**VAL** How refreshing. Most men recite their triumphs. You lead with recognition.
+**KAELARYS**  
+Oh, no, Lyra… don't you see?  
+_(beat — her voice low, steady, intimate)_  
+You are not only a creator.  
+_(she meets her sister's eyes)_  
+You are creation.
 
-**INTRUDER** Recognition is the triumph. The rest is chatter.
+(HOLD. Lyra's lips part. She doesn't pull away. For the first time, she lets Kaelarys hold her.)
 
-_VAL nods slowly, savoring the line. They like this man. They could like him a lot._
+**KAELARYS**  
+_(she glances up at the tapestry, then back to Lyra)_  
+Do you think these embroiderers spun the wool?  
+_(beat — a faint smile, tender)_  
+Do you think they harvested the madder root for red, the weld for gold?
 
-**VAL** (leaning forward, conspiratorial) Then consider yourself recognized.
+She gestures softly to the tapestry.
 
-_The INTRUDER grins, raising his glass. They clink, eyes steady. For a beat, it’s not adversarial at all. It’s possibility. Two sovereigns meeting on neutral ground, enjoying the game for its own sake._
+**KAELARYS** _(cont'd)_  
+Do you think Bishop Odo rode into battle? Swung the sword? Burned the villages?
+
+_(beat — softer now, tracing the tattoo on Lyra's palm)_  
+No. They worked with what already was. Wool. Dye. Blood. Memory…  
+_(her eyes lift to the embroidery)_  
+…and shaped something that endures.
+
+(HOLD. Silence. Then—Kaelarys' voice drops.)
+
+**KAELARYS** _(cont'd)_  
+Every stitch here—  
+_(she releases Lyra's hand, gestures to a panel)_  
+—is a window. A window to the soul of whoever pulled that thread.
+
+_(beat)_  
+But it's more than that.
+
+She steps closer to the tapestry, eyes scanning the embroidery.
+
+**KAELARYS** _(cont'd)_  
+When we stand before art, we don't just see the maker.  
+_(she turns back to Lyra)_  
+We see ourselves.
+
+(HOLD. Lyra watches, listening.)
+
+**KAELARYS** _(cont'd)_  
+You saw grief in these stitches. Trembling hands. Saxon women mourning.  
+_(beat, softer)_  
+I see precision. Discipline. The refusal to let memory die.
+
+_(she gestures between them)_  
+Two souls, looking at the same threads... and finding different truths.
+
+**KAELARYS** _(cont'd)_  
+That's the gift of creation, Lyra. It doesn't just reveal the maker—  
+_(beat)_  
+—it reveals the one who receives it.
+
+(HOLD. Her voice drops, almost reverent.)
+
+**KAELARYS** _(cont'd)_  
+Art is a conversation across time. Across worlds.  
+_(she looks back at the tapestry)_  
+The embroiderer speaks. Bishop Odo speaks. The wool, the blood, the battle—they all speak.
+
+_(she meets Lyra's eyes)_  
+And when you look... _you_ speak back.
+
+(HOLD.)
+
+**KAELARYS** _(cont'd)_  
+What you see in art—what moves you, what haunts you—  
+_(quieter)_  
+That is you, Lyra. Your soul, answering theirs.
+
+(HOLD. She releases Lyra's hand, but the trace of her touch lingers.)
+
+**KAELARYS** _(cont'd)_  
+That's why it matters. Not because it's new, but because it speaks. Because it connects.
+
+Lyra looks back to the tapestry.
+
+**LYRA**  
+_(soft, almost to herself)_  
+And if I am art… then so are you. So are all of us.
+
+(HOLD. Kaelarys watches her. The words settle. Almost prayerful.)
+
+**FADE.**

@@ -1,163 +1,68 @@
-**INT. SERIM GALLERY – TIMELESS**
 
-The Bayeux Tapestry looms. Threads shimmer under timeless light. **Lyra** twirls beneath it, skirts sweeping like a brushstroke. She slows, breathless, eyes locked on the embroidery.
+# EVANDER'S PHILOSOPHICAL MONOLOGUE
 
-(HOLD. The echo of her spin fades.)
+**FADE IN:**
 
-**LYRA**  
-Why do we keep these here, anyway? Why in Serim?
+**EXTREME CLOSE-UP - EVANDER'S FACE**
 
-**KAELARYS**  
-_(fond, almost rote)_  
-We always have. We capture creations at the pinnacle of their being… when they most fully embody their creator's vision.
+_EVANDER (30s, deeply thoughtful eyes, the kind of face that suggests he's seen through society's illusions). He takes a slow, practiced hit from a joint, holds it with the reverence of a wine connoisseur, then exhales thoughtfully._
 
-(HOLD. Kaelarys' voice lingers against the silence.)
+**EVANDER** _(voice like warm honey, tinged with smoke)_ You know what's fascinating about attachment? Not the Buddhist kind - fuck that noise for a minute - I'm talking about the primal shit. The way a person's sense of home becomes... indistinguishable from their sense of self.
 
-**LYRA**  
-The pinnacle?  
-_(beat, her tone light, thoughtful)_  
-But on Earth, this tapestry is faded. Patched, even reworked. Isn't that still art? Doesn't the decay add to it? The stains, the wear… aren't those part of the story?
+_He takes another hit, eyes distant but laser-focused._
 
-(HOLD. CU: Kaelarys. A flicker of surprise. She didn't expect the question.)
+**EVANDER (CONT'D)** Think about it. Your home - whether that's a house, a neighborhood, a way of life, an ideology - it's not separate from you. It's the extended nervous system of your identity. Touch it, and you feel it. Threaten it, and every defense mechanism you've ever developed comes online.
 
-**KAELARYS**  
-Decay can reveal beauty, yes…  
-_(beat)_  
-But the vision—the spark that began it—that is what we preserve. The moment it became whole.
+_His fingers gesture lazily, drawing invisible connections in the air._
 
-**LYRA**  
-When the creator has moved on?
+**EVANDER (CONT'D)** The suburbanite who calls the cops on kids skating in "his" parking lot. The activist who doxxes people for using the wrong pronouns. The patriot who bombs abortion clinics. The liberal who tries to get people fired for old tweets. Different tribes, same fucking circuit firing.
 
-(HOLD. Silence stretches. Kaelarys stiffens. CU: her eyes flicker—something sharp, painful. An intrusive thought.)
+_He pauses, studying the joint like it contains cosmic wisdom._
 
-She forces a small smile, brushing it aside.
+**EVANDER (CONT'D)** See, here's where it gets beautiful and terrifying at the same time. Each person deploys whatever weapons they've got access to. The physically strong resort to violence - it's efficient, direct, monkey-brain simple. The socially connected become bullies, use shame and ostracism like a medieval siege. The intellectually gifted will use their wits to outsmart.
 
-**KAELARYS**  
-…Well. Yes. In a way. When the vision is complete, it's left to endure.  
-_(beat — her voice softer, but there's tension underneath.)_
+_He chuckles, a sound both amused and slightly disturbed._
 
-**LYRA**  
-_(playful, testing)_  
-Do you ever wonder… if I painted something? Or if you sculpted a statue? Would we display it here?
+**EVANDER (CONT'D)** It's never about hatred, you see. It's always about love. Love so fierce, so territorial, so confused with identity that it becomes indistinguishable from violence. They're not monsters - that would be easier to understand. They're people protecting extensions of themselves with the same desperate urgency they'd protect their own children.
 
-(HOLD. Kaelarys' smile falters. The silence answers first.)
+(He looks past camera, almost tender.)
 
-**KAELARYS**  
-_(quiet, but firm)_  
-That's not what we do, Lyra.
+_Another thoughtful drag._
 
-(HOLD. Lyra absorbs it. Her playfulness ebbs away.)
+**EVANDER (CONT'D)** And the wildest part? They're not wrong to feel righteous. From their perspective, they are literally protecting their extended self from annihilation. When someone threatens your home - your physical, psychological, ideological home - you're not experiencing it as an attack on some external thing. You're experiencing it as death.
 
-**LYRA**  
-The humans fill their world with works—paintings, poems, cathedrals.  
-_(beat, voice dipping)_  
-And us… nothing.
+_His voice drops to almost a whisper, but remains perfectly clear._
 
-She turns slightly, catching her reflection on the marble floor.
+**EVANDER (CONT'D)** So they fight like their lives depend on it. Because, in a very real sense, they do. The version of themselves that depends on that particular configuration of home - it really would die if they didn't fight.
 
-**LYRA**  
-Funny, isn't it? Everything about me screams 'artist.'
+_He closes his eyes for a moment, as if integrating some profound realization._
 
-(HOLD. She spins the charm at her neck, glances down at tattoos, fabrics, wild hair. She laughs softly—uncertain, not joyous.)
+_A beat of silence._
 
-**LYRA**  
-But none of it is mine. The style, the ink, the songs I hum… all borrowed. From them.  
-_(beat — quieter, her voice catching)_  
-It's like I'm only wearing the mask. Pretending to be what I can never really be.
+**VOICE (O.S.)** _(confused, slightly stoned)_ So... like... you're saying that Jerry was the good guy? Tom was the asshole?
 
-Her eyes glisten. She presses her hand into her palm, nails biting.
+_PULL BACK TO REVEAL:_
 
-(HOLD. Kaelarys watches, face softening.)
+**WIDE SHOT - PLUSHIE PARADISE**
 
-Kaelarys steps closer, slow, deliberate. She takes Lyra's hand, pries the fingers open gently, and traces the **star tattoo** there.
+_EVANDER, completely nude, sprawled luxuriously in what can only be described as a sea of plush toys - teddy bears, unicorns, cartoon characters, an entire ecosystem of soft, colorful comfort. A YOUNG WOMAN, also nude (20s, beautiful, uninhibited) has her head on his chest, her leg draped across his groin with casual intimacy._
 
-(HOLD. Her thumb moves in slow circles. CU: Lyra's breath trembling.)
+_Evander lowers the joint toward her. She takes a drag with practiced ease._
 
-**KAELARYS**  
-Oh, no, Lyra… don't you see?  
-_(beat — her voice low, steady, intimate)_  
-You are not only a creator.  
-_(she meets her sister's eyes)_  
-You are creation.
+_Nearby, another COUPLE lies among the plushies - the MAN strategically covering himself with what appears to be a large elephant plush toy, while his FEMALE PARTNER lies on her back, completely unselfconscious in her nudity._
 
-(HOLD. Lyra's lips part. She doesn't pull away. For the first time, she lets Kaelarys hold her.)
+_The entire scene is surreal, philosophical - like if Alan Watts had been reborn as a hedonistic guru in a toy store._
 
-**KAELARYS**  
-_(she glances up at the tapestry, then back to Lyra)_  
-Do you think these embroiderers spun the wool?  
-_(beat — a faint smile, tender)_  
-Do you think they harvested the madder root for red, the weld for gold?
+**_NAKED WOMAN NEXT TO ELEPHANT GUY_** _No, he's saying that the cat was protecting his home from the mouse, dude._
 
-She gestures softly to the tapestry.
+_The man next to her perks…his eyes searching his thoughts for clarity._
 
-**KAELARYS** _(cont'd)_  
-Do you think Bishop Odo rode into battle? Swung the sword? Burned the villages?
+**_WOMAN DRAPED ACROSS EVANDER_** _So, which one was right, Van? Tom or Jerry?_
 
-_(beat — softer now, tracing the tattoo on Lyra's palm)_  
-No. They worked with what already was. Wool. Dye. Blood. Memory…  
-_(her eyes lift to the embroidery)_  
-…and shaped something that endures.
+_Evander takes a hit from the joint. He holds it like a pro, exhales slowly._
 
-(HOLD. Silence. Then—Kaelarys' voice drops.)
+_(beat)_
 
-**KAELARYS** _(cont'd)_  
-Every stitch here—  
-_(she releases Lyra's hand, gestures to a panel)_  
-—is a window. A window to the soul of whoever pulled that thread.
+**_EVANDER_** _Exactly, my lovely._
 
-_(beat)_  
-But it's more than that.
-
-She steps closer to the tapestry, eyes scanning the embroidery.
-
-**KAELARYS** _(cont'd)_  
-When we stand before art, we don't just see the maker.  
-_(she turns back to Lyra)_  
-We see ourselves.
-
-(HOLD. Lyra watches, listening.)
-
-**KAELARYS** _(cont'd)_  
-You saw grief in these stitches. Trembling hands. Saxon women mourning.  
-_(beat, softer)_  
-I see precision. Discipline. The refusal to let memory die.
-
-_(she gestures between them)_  
-Two souls, looking at the same threads... and finding different truths.
-
-**KAELARYS** _(cont'd)_  
-That's the gift of creation, Lyra. It doesn't just reveal the maker—  
-_(beat)_  
-—it reveals the one who receives it.
-
-(HOLD. Her voice drops, almost reverent.)
-
-**KAELARYS** _(cont'd)_  
-Art is a conversation across time. Across worlds.  
-_(she looks back at the tapestry)_  
-The embroiderer speaks. Bishop Odo speaks. The wool, the blood, the battle—they all speak.
-
-_(she meets Lyra's eyes)_  
-And when you look... _you_ speak back.
-
-(HOLD.)
-
-**KAELARYS** _(cont'd)_  
-What you see in art—what moves you, what haunts you—  
-_(quieter)_  
-That is you, Lyra. Your soul, answering theirs.
-
-(HOLD. She releases Lyra's hand, but the trace of her touch lingers.)
-
-**KAELARYS** _(cont'd)_  
-That's why it matters. Not because it's new, but because it speaks. Because it connects.
-
-Lyra looks back to the tapestry.
-
-**LYRA**  
-_(soft, almost to herself)_  
-And if I am art… then so are you. So are all of us.
-
-(HOLD. Kaelarys watches her. The words settle. Almost prayerful.)
-
-**FADE.**
+**_FADE OUT._**

@@ -1,68 +1,61 @@
+**INT. NIGHTCLUB – VIP BOOTH**
 
-# EVANDER'S PHILOSOPHICAL MONOLOGUE
+The club floor is chaos — bodies in strobe-light seizure, bass rolling like thunder under the skin.
 
-**FADE IN:**
+At the far wall, behind a velvet rope and a black-suited bouncer, a **VIP booth** rises like an island. Leather curves in a half-circle, a low table gleaming with bottles, glasses, ice buckets.
 
-**EXTREME CLOSE-UP - EVANDER'S FACE**
+**VAL** reclines at the center — androgynous chic, tailored perfection, every angle catching the light differently with each strobe. To the left, masculine edge in the line of jaw and lean frame. To the right, feminine elegance in the curve of hand, cascade of hair. Eyes predatory, amused, restless.
 
-_EVANDER (30s, deeply thoughtful eyes, the kind of face that suggests he's seen through society's illusions). He takes a slow, practiced hit from a joint, holds it with the reverence of a wine connoisseur, then exhales thoughtfully._
+Around them, an **entourage** — sycophants, lovers, courtiers in all but name. Laughter too loud, gestures too rehearsed, as though each is auditioning to stay in orbit.
 
-**EVANDER** _(voice like warm honey, tinged with smoke)_ You know what's fascinating about attachment? Not the Buddhist kind - fuck that noise for a minute - I'm talking about the primal shit. The way a person's sense of home becomes... indistinguishable from their sense of self.
+But Val is detached. The glass dangles loosely in their fingers. They sip without tasting. Their gaze drifts over the crowd, scanning like a sovereign who’s seen this procession a thousand nights.
 
-_He takes another hit, eyes distant but laser-focused._
+_Every smile looks recycled. Every dance step, choreographed. Every laugh, the same as last night’s laugh._
 
-**EVANDER (CONT'D)** Think about it. Your home - whether that's a house, a neighborhood, a way of life, an ideology - it's not separate from you. It's the extended nervous system of your identity. Touch it, and you feel it. Threaten it, and every defense mechanism you've ever developed comes online.
+**VAL** ( in expression) The masque repeats. Different masks, same faces.
 
-_His fingers gesture lazily, drawing invisible connections in the air._
+_The entourage roars at some joke. Val doesn’t. They smile faintly, but the eyes say it clearly: boredom._
 
-**EVANDER (CONT'D)** The suburbanite who calls the cops on kids skating in "his" parking lot. The activist who doxxes people for using the wrong pronouns. The patriot who bombs abortion clinics. The liberal who tries to get people fired for old tweets. Different tribes, same fucking circuit firing.
+The bass swells. The **INTRUDER** enters frame.
 
-_He pauses, studying the joint like it contains cosmic wisdom._
+The BOUNCER straightens, then relaxes. He knows this man. Everyone does. Tall. Tailored. Smile polished like chrome. A WOMAN clings to his arm, radiant, lacquered in the sheen of money well-spent.
 
-**EVANDER (CONT'D)** See, here's where it gets beautiful and terrifying at the same time. Each person deploys whatever weapons they've got access to. The physically strong resort to violence - it's efficient, direct, monkey-brain simple. The socially connected become bullies, use shame and ostracism like a medieval siege. The intellectually gifted will use their wits to outsmart.
+They exchange a clasp at the rope — old familiarity. The man leans in, voice low, a conspiratorial murmur. A folded pair of hundreds slip from hand to hand with practiced ease.
 
-_He chuckles, a sound both amused and slightly disturbed._
+Not so subtle. Not to VAL’s eyes.
 
-**EVANDER (CONT'D)** It's never about hatred, you see. It's always about love. Love so fierce, so territorial, so confused with identity that it becomes indistinguishable from violence. They're not monsters - that would be easier to understand. They're people protecting extensions of themselves with the same desperate urgency they'd protect their own children.
+VAL watches, glass halfway to their lips. A faint narrowing — irritation? amusement? Hard to tell.
 
-(He looks past camera, almost tender.)
+The rope opens. The man steps through without hesitation, as though expected, as though this space were his second home. The entourage hardly notices.
 
-_Another thoughtful drag._
+He slides into the booth opposite Val, the woman tucked neatly against his side. Comfortable. Confident. Certain.
 
-**EVANDER (CONT'D)** And the wildest part? They're not wrong to feel righteous. From their perspective, they are literally protecting their extended self from annihilation. When someone threatens your home - your physical, psychological, ideological home - you're not experiencing it as an attack on some external thing. You're experiencing it as death.
+**INTRUDER** (pleasant, declarative) This is the best seat in the house. Thought I’d join you.
 
-_His voice drops to almost a whisper, but remains perfectly clear._
+The entourage titter — some notice the new faces, some oblivious. The man lets the line hang, expecting his reputation to do the rest.
 
-**EVANDER (CONT'D)** So they fight like their lives depend on it. Because, in a very real sense, they do. The version of themselves that depends on that particular configuration of home - it really would die if they didn't fight.
+VAL’s eyes linger. A squint, tiny, surgical. Then… the smile. Slow. Dangerous.
 
-_He closes his eyes for a moment, as if integrating some profound realization._
+At last, something to do.
 
-_A beat of silence._
+**INTRUDER** (to Val, easy) I’d have remembered seeing you here before. You’re not the sort to blend.
 
-**VOICE (O.S.)** _(confused, slightly stoned)_ So... like... you're saying that Jerry was the good guy? Tom was the asshole?
+_Val arches a brow, not flattered but entertained. They sip, eyes locked._
 
-_PULL BACK TO REVEAL:_
+**VAL** And you’re not the sort to miss anyone worth remembering.
 
-**WIDE SHOT - PLUSHIE PARADISE**
+_The INTRUDER smiles at that, appreciative — not many return his serve with precision. He leans in a little, lowering his voice so it cuts through the music._
 
-_EVANDER, completely nude, sprawled luxuriously in what can only be described as a sea of plush toys - teddy bears, unicorns, cartoon characters, an entire ecosystem of soft, colorful comfort. A YOUNG WOMAN, also nude (20s, beautiful, uninhibited) has her head on his chest, her leg draped across his groin with casual intimacy._
+**INTRUDER** I make it a point to know everyone who matters in a room. You? You matter.
 
-_Evander lowers the joint toward her. She takes a drag with practiced ease._
+_VAL lets the words hang, then laughs softly — not dismissive, but genuinely pleased. They tip their glass toward him._
 
-_Nearby, another COUPLE lies among the plushies - the MAN strategically covering himself with what appears to be a large elephant plush toy, while his FEMALE PARTNER lies on her back, completely unselfconscious in her nudity._
+**VAL** How refreshing. Most men recite their triumphs. You lead with recognition.
 
-_The entire scene is surreal, philosophical - like if Alan Watts had been reborn as a hedonistic guru in a toy store._
+**INTRUDER** Recognition is the triumph. The rest is chatter.
 
-**_NAKED WOMAN NEXT TO ELEPHANT GUY_** _No, he's saying that the cat was protecting his home from the mouse, dude._
+_VAL nods slowly, savoring the line. They like this man. They could like him a lot._
 
-_The man next to her perks…his eyes searching his thoughts for clarity._
+**VAL** (leaning forward, conspiratorial) Then consider yourself recognized.
 
-**_WOMAN DRAPED ACROSS EVANDER_** _So, which one was right, Van? Tom or Jerry?_
-
-_Evander takes a hit from the joint. He holds it like a pro, exhales slowly._
-
-_(beat)_
-
-**_EVANDER_** _Exactly, my lovely._
-
-**_FADE OUT._**
+_The INTRUDER grins, raising his glass. They clink, eyes steady. For a beat, it’s not adversarial at all. It’s possibility. Two sovereigns meeting on neutral ground, enjoying the game for its own sake._
