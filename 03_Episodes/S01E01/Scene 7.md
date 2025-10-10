@@ -1,34 +1,4 @@
-**INT. SKYBOX – ROYAL OPERA HOUSE – NIGHT** (CONTINUATION)
 
-_The aria below reaches a crescendo. Lucian's attention drifts from the stage, the signet ring resuming its slow turn on his finger. Something has shifted—a restlessness, a sense of purpose pulling him elsewhere._
-
-**REXUS** (noticing, low) You're done with this, aren't you?
-
-**LUCIAN** (glancing toward the stage) The performance is exquisite, but—
-
-**REXUS** We have plenty of time for exquisite, my friend.
-
-_Lucian meets his gaze. That silent understanding passes between them—immortals with no concerns of lack._
-
-**LUCIAN** Intermission's not for another twenty minutes.
-
-**REXUS** (grinning) Then we leave them wanting more.
-
-_He rises with fluid grace, turning fully toward Charlotte. Her political advisor immediately tenses, sensing the shift in energy._
-
-**REXUS** (charming, direct to Charlotte) We're stepping out for some air. The soprano's voice is divine, but frankly, you're far more captivating than anything on that stage.
-
-_Charlotte's eyes widen—equal parts scandalized and thrilled. This is exactly the kind of reckless attention her position forbids._
-
-**CHARLOTTE** (breathless, trying for propriety) That's... highly inappropriate.
-
-**REXUS** (with a slight bow) The most interesting conversations usually are.
-
-_Her advisor clears her throat sharply—a warning that goes completely ignored._
-
-**REXUS** (to Charlotte, voice lower) Don't let them bore you to death while we're gone.
-
-_As they move toward the door, Charlotte's soft laugh follows them—reckless and exhilarated._
 
 **INT. ROYAL OPERA HOUSE – GRAND CORRIDOR – NIGHT**
 

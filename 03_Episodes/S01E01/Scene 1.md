@@ -1,11 +1,11 @@
 INT. SERIM GALLERY – TIMELESS
 
 **ECU – BAYEUX TAPESTRY.**  Threads shimmer, unmoving.  Total silence.
-(Hold, 2s.)
+(Hold)
 
 **ECU – KAELARYS’ EYES.**
 A faint reflection of light flickers across her iris.
-(Hold, 3s.)
+(Hold)
 She doesn’t blink.
 
 **CUT TO – TAPESTRY SEGMENTS:**
@@ -13,17 +13,17 @@ She doesn’t blink.
 – **HALLEY’S COMET**
    *SFX: low wind rising — a breath that builds into a distant whoosh, like atmosphere breaking.*
    The stitched star blazes above.  Mortals point skyward, terrified.
-   (Hold, 2s. The wind fades.)
+   (Hold, The wind fades.)
 
 – **EDWARD’S FUNERAL**
    *SFX: muffled sobbing, cloth rustle, one church bell toll.*
    The draped body lies still.  Mourners bend, faces lost in thread.
-   (Hold, 3s. The bell’s ring dies out in reverb.)
+   (Hold, The bell’s ring dies out in reverb.)
 
 – **BURNING HOMES**
    *SFX: crackling fire, timbers snapping, distant screams of women and children.*
    Soldiers drive them out; smoke threads through the embroidery.
-   (Hold, 3s. Screams taper to embers hissing.)
+   (Hold,. Screams taper to embers hissing.)
 
 **PULL BACK – WIDE**
 The sounds collapse into silence as the full tapestry fills the frame.
