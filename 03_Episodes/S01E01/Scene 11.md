@@ -120,15 +120,13 @@ Kaelarys—stop. The Architect gave you purpose—
 
 **KAELARYS**  
 (cuts her off, voice fierce)  
-Purpose? Or leash?
+Purpose? 
 
 (HOLD. Lyra recoils. Kaelarys presses her palm against the tapestry, trembling.)
 
 We are the loose threads.  
 An unfinished embroidery.  
 Fraying at the edge.
-
-And if this is art… what does that make us?
 
 (HOLD — silence stretches. Lyra’s face stricken.)
 
