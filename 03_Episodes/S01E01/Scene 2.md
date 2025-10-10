@@ -1,4 +1,4 @@
-## The Opening Structure:
+**The Opening Structure:**
 
 **FADE IN:**
 
