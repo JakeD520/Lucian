@@ -1,4 +1,5 @@
-Bridge of montage- 
+Bridge of montage, volume drops-
+
 **INT. SERIM GALLERY – TIMELESS**
 
 Kaelarys rests in Lyra’s arms, her head against her sister’s chest. Her eyes are open, calm but wet, fixed on the tapestry’s unfinished edge. Lyra gently strokes her hair, steady and tender.
