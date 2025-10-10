@@ -42,12 +42,12 @@ _Emotion:_ disbelief edging into dread.
 
 ### **0 :35 – 0 :48 | “I’m saving fifty men / I’m treading, sinking still” (revised)**
 
-**Audio:** percussion thickens; distortion creeping in.  
+**Audio:** percussion thickens; distortion creeping in. Violins.  
 **Visual:**
 
 - Subtle Z-fighting shimmer along stone edges; grass tiles duplicate, snapping back.
     
-- The camera passes an  Adam-and-Eve-like pair frozen mid-motion; polygons beneath their skin stutter.
+- The camera passes an Adam-and-Eve-like pair frozen mid-motion; polygons beneath their skin stutter.
     
 - **A single red apple** rests in the foreground — its surface too perfect, specular highlights looping.
     
