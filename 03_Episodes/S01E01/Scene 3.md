@@ -110,7 +110,7 @@ Aella freezes, then pelts him with her napkin.
 
 Zadie cracks up, delighted. Clearly not the first time he's led with Swift in 20 Questions.
 
-**ZADIE** Hey, a guy can hope. Me and my Swiftie brothers live and breathe T-Swizzle.
+**ZADIE** Hey, a guy can hope. Me and my fellow Swifties live and breath T-Swizzle.
 
 **AELLA** T-Swizzle my ass.
 
