@@ -1,6 +1,6 @@
 
 
-**INT. ROYAL OPERA HOUSE – GRAND CORRIDOR – NIGHT**
+**INT. PALAIS GARNIER– GRAND CORRIDOR – NIGHT**
 
 Marble underfoot. Velvet-lined walls. The echo of the aria still rolling. Lucian and Rexus walk side by side—figures cut from the same fabric as the building itself: poised, untouchable.
 
@@ -50,7 +50,7 @@ Lucian steps further in, gaze drifting across the benches — half-painted props
 
 Lucian picks up a prop saber, turns it idly in his hand.
 
-Rexus looks up from the workbench. His mouth starts to open — a question hanging there — then he stops himself. Closes it. He studies Lucian instead, fingers tapping lightly against a discarded crown.
+Rexus looks up from the workbench. His mouth starts to open — his words hanging there — then he stops himself. Closes it. He studies Lucian instead, fingers tapping lightly against a discarded crown.
 
 A long beat.
 
@@ -59,28 +59,58 @@ Finally, Rexus exhales, voice softer than usual.
 **REXUS** (shrugging, as if finishing a story mid-thought)  
 Yeah. I wanted to stay with her.
 
-(beat, he waves a hand vaguely)
-
-Didn’t matter. She died anyway.
-
-He moves on, flipping a sabre off a rack, twirling it without looking.
+He moves on, absently toying with numerous props.
 
 **REXUS** (cont’d, casual, almost mocking himself)  
-Thirty thousand sunsets. She treated each one like the last. I thought maybe I could… I don’t know. Be mortal enough to get it.
+She used to cry at sunsets.
+Not sad. Just... overwhelmed. Said she only had thirty thousand left. Maybe
 
 (he smirks, dry)
 
+I wanted what she had. That... weight. Where things _matter_ because they're slipping away.
 Turns out infinity flattens everything.
 
 Lucian watches from the threshold. He doesn’t interrupt — just lets Rexus talk, lets him drain it out.
 
 (Hold)
 
+**REXUS** (flat, like wrapping up a thought)  
+I kept thinking… what if I just became like her? What if I stopped being… this?
+
+**LUCIAN**  
+You wanted to be mortal.
+
+Rexus glances over, holds his brother’s eyes for a moment — then laughs once, without humor.
+
+**REXUS**  
+I don’t even know if the Architect would allow that. Can we change what we are? Or did He make us… fixed?
+
+**LUCIAN** (careful)  
+I don’t know.
+
+**REXUS** (shrugs, turning away)  
+Nope. Neither do I.
+
+He paces down the bench, knocking aside a half-painted mask.
+
+**REXUS** (cont’d, voice harder now)  
+I saw it coming. The fault line. Fifty years out, I could see the stress building.
+
+(beat, swinging the saber idly)
+
+You’d have seen it earlier. A thousand years, maybe. Seen the whole cascade.
+
+(pause)
+
+But even if I had seen it sooner… could I have stopped it? Or was she always going to die no matter what I did?
+
+(he stops, quieter, tightening)
+
+The Pattern doesn’t care how much you love someone.
+
 Rexus lets the weight of the silence linger just long enough… then breaks it with his trademark, award winning smile.
 
-Lucian exhales — the faintest grin slipping through his usual composure.
-
-Rexus glances down. Notices the saber still in Lucian’s hand, idly turning.
+He glances down. Notices the saber still in Lucian’s hand, idly turning.
 
 **REXUS** (smirk tugging wider) Whatcha gonna do with that, First Light?
 
@@ -88,13 +118,13 @@ Lucian glances at the blade in his hand.
 
 **LUCIAN** Oh, this?
 
-His smile grows as he lifts the sabre, presenting it with a sudden flourish. The motion is effortless, elegant — and for the first time, we glimpse how truly skilled he is. His stance alone betrays a history of precision.
+His smile grows as he lifts the saber, presenting it with a sudden flourish. The motion is effortless, elegant — and for the first time, we glimpse how truly skilled he is. His stance alone betrays a history of precision.
 
 Rexus tilts his head, grin curling.
 
 **REXUS** Careful there, Lucian. Wouldn’t want you to hurt yours—
 
-In a flash, Rexus snatches up a nearby matching sabre, moving quicker than expected.
+In a flash, Rexus snatches up a nearby matching saber, moving quicker than expected.
 
 He strikes. Sharp, playful, but fast.
 
@@ -106,7 +136,7 @@ A spark between them. Playfulness ignited. Gods at play.
 
 A fast montage of gods playing at mortals’ games:
 
-- **Rexus** vaults a workbench, sabre clashing wildly.
+- **Rexus** vaults a workbench, saber clashing wildly.
     
 - **Lucian** meets him mid-air, blade steady, parry inevitable.
     
@@ -116,7 +146,7 @@ A fast montage of gods playing at mortals’ games:
     
 - **Rexus** snatches a _prop pistol,_ fires mock shots.
     
-- **Lucian** flicks them away with his sabre, unflinching.
+- **Lucian** laughs at the weapon change.
     
 - **Rexus** dives, crowns scatter, jewels skitter across the floor.
     
