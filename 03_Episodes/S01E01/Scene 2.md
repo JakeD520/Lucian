@@ -1,22 +1,30 @@
-**The Opening Structure:**
+EXT. PALAIS GARNIER – NIGHT
 
-**FADE IN:**
+Paris. A palace of light.  
+Statues glint gold against the facade, columns bathed in amber glow.  
+Carriages and black cars line the boulevard.  
 
-**EXT. ROYAL OPERA HOUSE – NIGHT**
+Patrons ascend the marble steps — gowns sweeping, tuxedos gleaming.  
+A night to be seen.  
 
-London. Grand architecture. Patrons in gowns and tuxedos ascending the steps.
+INT. PALAIS GARNIER – GRAND STAIRCASE – CONTINUOUS
 
-Wealth. Status. Ceremony.
+White marble. Red carpet.  
+The staircase curves upward in two sweeping arcs,  
+built not just to climb — but to display.  
 
-**INT. ROYAL OPERA HOUSE – LOBBY – CONTINUOUS**
+Couples pause mid-ascent, turning like portraits.  
+Chandeliers blaze. Jewelry flashes.  
+The hush of wealth fills the air.  
 
-Marble. Chandeliers. Champagne flutes on silver trays.
+INT. MAIN AUDITORIUM – CONTINUOUS
 
-Hushed, reverent conversation. Programs rustling.
+Red velvet. Gold leaf.  
+A chandelier the size of a carriage hangs overhead,  
+glowing beneath Chagall’s painted sky.  
 
-**INT. MAIN AUDITORIUM – CONTINUOUS**
-
-Five tiers of balconies. Gold leaf everywhere. A sea of faces upturned toward the stage.
+Five tiers of balconies curve around the stage —  
+a golden horseshoe, every box a frame.  
 
 The lights dim. Silence falls.
 

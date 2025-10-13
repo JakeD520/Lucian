@@ -1,6 +1,11 @@
-**INT. SERIM GALLERY – TIMELESS**
+INT. SERIM GALLERY – TIMELESS
 
-The Bayeux Tapestry looms. Threads shimmer under timeless light. **Lyra** twirls beneath it, skirts sweeping like a brushstroke. She slows, breathless, eyes locked on the embroidery.
+White.  
+Marble.  
+Silence.
+
+
+The Bayeux Tapestry looms. Threads shimmer under timeless light. **Lyra** twirls, skirt sweeping like a brushstroke. She slows, breathless, eyes locked on the embroidery.
 
 (HOLD. The echo of her spin fades.)
 

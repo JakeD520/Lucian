@@ -1,12 +1,10 @@
 INT. SERIM GALLERY – TIMELESS
 
-**ECU – BAYEUX TAPESTRY.**  Threads shimmer, unmoving.  Total silence.
+**ECU – BAYEUX TAPESTRY.**  Threads shimmer.  Total silence.
 (Hold)
 
-**ECU – KAELARYS’ EYES.**
-A faint reflection of light flickers across her iris.
+**ECU – KAELARYS’ EYES.**.
 (Hold)
-She doesn’t blink.
 
 **CUT TO – TAPESTRY SEGMENTS:**
 
@@ -28,13 +26,12 @@ She doesn’t blink.
 **PULL BACK – WIDE**
 The sounds collapse into silence as the full tapestry fills the frame.
 Marble.  Light.  Perfect stillness.
-Only Kaelarys stands before it.
 
-Kaelarys stands before it. Arms crossed. Regal. A portrait of control.  
+Only Kaelarys stands before it. Arms crossed. Regal. A portrait of control.  
 
-(SILENCE. We let it breathe. 10 seconds too long.)  
+(SILENCE. We let it breathe. We experience Kaelarys' silent contemplation. 10 seconds too long..)  
 
-Then—**A HUM.**  
+Then—**A HUMMED SONG.**  
 Low. Cheerful.  
 (HOLD — the note curls through the stillness, fragile but persistent.)  
 
@@ -67,7 +64,7 @@ Every stitch is mourning.
 (HOLD. Kaelarys’ eyes shift.)  
 
 **KAELARYS**  
-Enlighten me. What do you see in their mourning?  
+Enlighten me. What do you see?  
 
 (SLIGHT ACCELERATION — Lyra steps closer, but still soft.)  
 
@@ -81,13 +78,15 @@ They stitched their own wounds into history.
 SFX: Moans, swords clashing.  Battle sounds.
 (HOLD — let the fabric itself speak.)  
 
+Back to Kaelarys.
+
 **KAELARYS**  
 Flaws, I thought.  
 
 **LYRA** (softer still)  
 Saxon women, forced to embroider their defeat. To make beauty of their own undoing.  
 
-Kaelarys moves her arms behind her back.  
+Kaelarys shifts, moves her arms behind her back. She looks at the tapestry, and then to Lyra.  Kaelarys watches Lyra inspect the tapestry, as if studying her.
 (HOLD — silence between them, stretched.)  
 
 **KAELARYS** (measured)  
@@ -109,8 +108,8 @@ Even when the creator is gone.
 
 WIDE SHOT: The entire tapestry, Alone... juxtaposed against the quiet, perfect setting of the gallery.
 
-Kaelarys glances at Lyra.
-(HOLD. Subtext clear. She is not just speaking of artifacts.)  
+Kaelarys holds her gaze on Lyra.
+(HOLD. She is not just speaking of artifacts.)  
 
 Lyra studies her in silence, reading the unspoken.)  
 
@@ -136,16 +135,16 @@ Her lips twitch, then curve into a reluctant smirk.
 **KAELARYS** (dry, amused despite herself)  
 Really? Marble?  
 
-Lyra beams, triumphant. She steps in closer, slipping her arms around Kaelarys in a sudden, unguarded sisterly hug.  
+Lyra beams, triumphant. She steps in closer, slipping her arms around Kaelarys in a sudden, unguarded sisterly side hug.  
 
 Kaelarys stiffens for a fraction of a beat — then releases, allowing herself to be held.  
 The smirk lingers, softening into something rarer: a true smile.  
 
-(HOLD — the two of them, pressed together in quiet, the tapestry looming behind. Stone and song, finally touching.)  
+(HOLD — the two of them, pressed together in quiet, both gazing at the tapestry. Stone and song, finally touching.)  
 
 Lyra tilts her head against Kaelarys’ shoulder, still smiling.
 
-Kaelarys raises her arms, holding them against Lyra's.
+Kaelarys raises her arms, pressing her hands against Lyra's arms.
 
 Lyra grins, emboldened. 
 
@@ -161,21 +160,20 @@ Lyra…
 **LYRA** (playful)  
 Just for a moment. Move with me.
 
-Lyra twirls, fabrics sweeping, humming softly—then she leans back, arms spreading, eyes closing.  
-Letting the gallery hold her. Trusting the space.
+Lyra twirls, fabrics sweeping, humming softly. She pulls on Kaelarys’ arms — Kaelarys remains inert, letting herself be moved through the dance. Lyra leans back, arms spreading, eyes closing. Letting the gallery hold her. Trusting the space.
 
 She leans too far.
 
 Kaelarys catches her immediately—firm hand between her shoulder blades, the other steadying her arm.  
-(HOLD. They stay suspended there, Lyra tilted back, Kaelarys grounding her.)
 
-Lyra opens her eyes, laughs—delighted, not sheepish.
+Lyra opens her eyes, laughs—delighted.
 
-**LYRA** (soft, certain)  
+**LYRA** (soft, joyful)  
 Protector. Preserver. Even of me.
 
-(HOLD. The truth vibrates in the silence.  
 Kaelarys’ expression shifts; she cannot deny it.)  
+
+(Hold.  Kaelarys contemplating.)
 
 **KAELARYS**  
 (quiet, certain)  
@@ -192,17 +190,14 @@ Something subtle passes through her expression; the thought arrives, uninvited.
 She exhales.  The tension in her hands eases.  
 She steadies Lyra upright and lets go, a fraction too slow.
 
-(HOLD. Her words settle heavy in the air. A breath too long.)  
-
 Lyra stays close, smiling — then  eases back, drifting as though unbothered.  
-(HOLD. Fabrics trailing, her hair wisping.)  
 
 She turns, almost twirling, then half-laughs to herself.  
 
-**LYRA** (teasing, light, almost absentminded)  
+**LYRA** (teasing, light, like a passing thought.)  
 I'm not even sure what He wants from us anymore.  
 (beat, playful)  
-Maybe I'm meant to be YOUR protector, pretty marble statue.
+What if I'm meant to be YOUR protector, pretty marble statue.
 
 Her soft laugh spills into a hum, dissolving into melody as she drifts away.  
 
@@ -219,12 +214,13 @@ She glances toward Lyra across the gallery. Distant now. Still humming.
 
 Her gaze lingers. Then slowly, she looks back to the tapestry.
 
-**CUT TO: ECU – THE TAPESTRY'S EDGE.**
+**CUT TO: ECU – PANEL 26.**
 
-The embroidery stops abruptly. Mid-battle.  
-Loose threads dangle, unfinished. Fraying.
+A divine hand reaching from the sky.
 
 (HOLD.)
+
+She glances toward Lyra across the gallery. Distant now. Still humming.
 
 **FADE TO BLACK.**
 

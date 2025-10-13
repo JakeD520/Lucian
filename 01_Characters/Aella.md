@@ -1,4 +1,4 @@
-Natasha Lyonne
+Sophie Lillis
 
 - Red frizzy hair.
 - Sardonic, wry wit.
