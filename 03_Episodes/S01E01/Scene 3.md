@@ -72,7 +72,7 @@ He nods toward their waitress.
 Aella lets a genuine smile slip, appreciative of his romanticizing, then looks back to her plate.
 
 **AELLA** 
-You know what would change my life? More butter. (beat) Do you even have hair?
+You know what would change my life? More butter. (beat, inquisitive) Do you even have hair?
 
 **ZADIE** (raising a fist) 
 Nope. That's a win for me!
@@ -86,14 +86,14 @@ Well…
 
 She shrugs, holding her hands out in expectation.
 
-**ZADIE** 
+**ZADIE** (as if surprised)
 Oh…I'm an olm. 
 
 **AELLA** (sneering)
 What the fuck even is that, Z?
 
 **ZADIE**  
-A sad blind bastard of a salamander that lives in caves and hasn't seen sunlight in like a million years. Only found in—
+Proteus anguinus A sad blind bastard of a salamander that lives in caves and hasn't seen sunlight in like a million years. Only found in—
 
 **AELLA**(cutting him off.  Wagging her fork at him)
 Uh, uh..That doesn’t count.
@@ -106,7 +106,11 @@ He takes another sip of his coffee, pinky out.
 **AELLA** 
 Motherfucker.
 
-The waitress approaches. She takes her time, drops a tiny dish with **one** butter pat, testing them.
+The waitress approaches. 
+
+Aella sits up straight, as if she's been caught doing something wrong.
+
+The Waitress takes her time, drops a tiny dish with **one** butter pat.  She side-eyes Zadie, deliberately imposing on their conversation ... testing them.
 
 Aella glares and the lone butter, then at Zadie.
 
