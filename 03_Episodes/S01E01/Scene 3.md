@@ -74,10 +74,23 @@ Aella lets a genuine smile slip, appreciative of his romanticizing, then looks b
 **AELLA** 
 You know what would change my life? More butter. (beat, inquisitive) Do you even have hair?
 
-**ZADIE** (raising a fist) 
-Nope. That's a win for me!
+**ZADIE**
+Nope. You're outta questions, my dear.
 
-He sips his coffee in celebration.
+He sips his coffee smugly.
+
+(beat)
+
+**AELLA**
+I don't know.  A shaved anteater?
+
+She pauses.  Turns to Zadie.  Focused.
+
+**AELLA** (grinning, sure of herself)
+Wait ... No.   A T-Rex?
+
+**ZADIE**(raising his fist in victory)
+And that's another win for me.
 
 A prolonged moment of silence.
 
