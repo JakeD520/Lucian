@@ -38,17 +38,17 @@ Fluorescents buzz awake. Long benches stretch across the space, cluttered with t
 
 Rexus steps in first, eyes bright.
 
-He strolls along one of the benches, running his hand over unfinished crowns, a drying pistol, the frame of a chandelier waiting for glass. He picks things up, sets them down again, like a kid in someone else’s toybox.
+He strolls along one of the benches, running his hand over unfinished crowns, a drying pistol, the frame of a chandelier waiting for glass. He picks things up, sets them down again, like a kid in someone else’s toy box.
 
 **REXUS** (natural, without looking back) Nice to see you out of Serim for once.
 
 Lucian stands a few paces back, still at the threshold. Watching.
 
-Lucian steps further in, gaze drifting across the benches — half-painted props, sabres on a rack, a mask drying in resin.
+Lucian steps further in, gaze drifting across the benches — half-painted props, sabers on a rack, a mask drying in resin.
 
 **LUCIAN** Yeah. I’ve been doing a lot of… thinking.
 
-Lucian picks up a prop sabre, turns it idly in his hand.
+Lucian picks up a prop saber, turns it idly in his hand.
 
 Rexus looks up from the workbench. His mouth starts to open — a question hanging there — then he stops himself. Closes it. He studies Lucian instead, fingers tapping lightly against a discarded crown.
 
@@ -56,33 +56,31 @@ A long beat.
 
 Finally, Rexus exhales, voice softer than usual.
 
-**REXUS** I’ve noticed you and Lyra have been spending a lot of time together.
+**REXUS** (shrugging, as if finishing a story mid-thought)  
+Yeah. I wanted to stay with her.
 
-Lucian pauses. The silence stretches — a little longer than comfortable. His grip tightens slightly on the sabre in his hand.
+(beat, he waves a hand vaguely)
 
-When he speaks, it’s slower, more deliberate than usual.
+Didn’t matter. She died anyway.
 
-**LUCIAN** I’ve known her for so long… (beat) Yet I’ve never seen her quite the way I have lately.
+He moves on, flipping a sabre off a rack, twirling it without looking.
 
-He exhales, struggling for the words.
+**REXUS** (cont’d, casual, almost mocking himself)  
+Thirty thousand sunsets. She treated each one like the last. I thought maybe I could… I don’t know. Be mortal enough to get it.
 
-**LUCIAN** (cont’d) She… challenges me. Makes me look at things differently. Her way of seeing Serim… Earth… (he hesitates, then finally) …the humans.
+(he smirks, dry)
 
-Lucian falters, at a loss.
+Turns out infinity flattens everything.
 
-**LUCIAN** (cont’d) It’s— (beat, searching) …I can’t explain it.
+Lucian watches from the threshold. He doesn’t interrupt — just lets Rexus talk, lets him drain it out.
 
-Rexus studies him quietly. No smirk, no banter — only care. He steps closer, lays a hand on Lucian’s shoulder.
-
-The touch says what he doesn’t: _I hear you. I accept this._
-
-Lucian meets his gaze. The silence between them holds steady — unspoken, but full.
+(Hold)
 
 Rexus lets the weight of the silence linger just long enough… then breaks it with his trademark, award winning smile.
 
 Lucian exhales — the faintest grin slipping through his usual composure.
 
-Rexus glances down. Notices the sabre still in Lucian’s hand, idly turning.
+Rexus glances down. Notices the saber still in Lucian’s hand, idly turning.
 
 **REXUS** (smirk tugging wider) Whatcha gonna do with that, First Light?
 
