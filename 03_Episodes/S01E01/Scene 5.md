@@ -40,29 +40,29 @@ VAL’s eyes linger. A squint, tiny, surgical. Then… the smile. Slow. Dangerou
 At last, something to do.
 
 **INTRUDER** (to Val, easy) 
-I’d have remembered seeing you here before. You’re not the sort to blend.
+I make it a point to know everyone who matters in a room. You? You matter.
 
 _Val arches a brow, not flattered but entertained. They sip, eyes locked._
 
 **VAL** 
-Mattering is not what I seek.  I merely looking for-
+Mattering is not what I seek.  I am merely looking for-
 
 A pause.  Too long.
 Val breaks for a beat, let's their gaze drift around the space.
 
 **VAL**
-... Experiences.
+... experiences.
 
 _The INTRUDER smiles at that, appreciative — not many return his serve with precision. He leans in a little, lowering his voice so it cuts through the music._
 
 **INTRUDER** 
-I make it a point to know everyone who matters in a room. You? You matter.
+I’d have remembered seeing you here before. You’re not the sort to blend.
 
 _VAL lets the words hang, then laughs softly — not dismissive, but genuinely pleased. They tip their glass toward him._
 
 **VAL** How refreshing. Most men recite their triumphs. You lead with recognition.
 
-**INTRUDER** Recognition is the triumph.my friend. The rest is fucking chatter.
+**INTRUDER** Recognition IS the triumph, my friend. The rest is just fucking chatter.
 
 _VAL nods slowly, savoring the line. They like this man. They could like him a lot._
 
@@ -71,7 +71,7 @@ _VAL nods slowly, savoring the line. They like this man. They could like him a l
 The INTRUDER grins.  Settling into the cushions a bit more confident.
 
 **CUT TO:**
-The club, outside the booth.  Push through the crowd.  Camera captures the vibe.  The noise.  The beat.  Hypnotic.  Revelers dancing, as if in a trance.  Lasers. Lights. Silhouettes against the backdrop of techno bliss.
+Music volume increases.  The club, outside the booth.  Push through the crowd.  Camera captures the vibe.   Hypnotic.  Alive.  Revelers dancing, as if in a trance.  Lasers. Lights. Silhouettes against the backdrop of techno bliss.
 
 Stay with the environment.  A living organism in its own right.
 
@@ -89,5 +89,102 @@ Val lets his gaze move - slowly - to the INTRUDER.
 A pause.
 
 **VAL**
+Do you know much about medieval conquest?
 
+(beat — Intruder tilts his head, curious)
 
+**VAL**  
+The empires were masters at taking. They rode in with banners high, crowns heavy, blades dripping. And yes… they took.
+
+(Val swirls their glass, gaze drifting across the booth)
+
+**VAL**  
+But here’s the truth no one likes to admit — they took _because they had no power._
+
+(beat, a faint smirk)
+
+**VAL**  
+Always hungry, always reaching. The strong don’t need to seize. The weak… compensate.
+
+(Val sips, finally looks back at the Intruder, smile faint, unreadable.)
+
+Intruder - Pausing. Thinking.
+
+(HOLD)
+
+Music volume increases. Circle the booth.  We move back out to the dance floor.  Float through the bodies again.  Revisit the Dance-club organism.  Let it seep, become our tone.
+
+**BACK AT BOOTH**
+
+**WIDE SHOT** — Val and the Intruder, locked. A tableau. Predator and predator, testing edges.
+
+(Hold)
+
+**INTRUDER**  
+You make a good point. Perhaps I place too much effort where I don’t need to.
+
+He gestures at the woman beside him.
+
+**INTRUDER**  
+Like this one. Presented herself to me like a gift.
+
+The woman flinches, barely. Her smile stays fixed.
+
+Val watches her. A glance that lingers too long. Then, slowly, their eyes drift back to the Intruder. The smile remains, but the warmth has bled out of it.
+
+(beat — we let the silence breathe)
+
+Val doesn’t answer. Doesn’t need to. They lean back, crossing one leg over the other, eyes glinting under the pulse of lasers.
+
+The bass drops — _BOOM, BOOM, BOOM_ — as if synced to their heartbeat.
+
+**CAMERA DRIFT:** The lens pulls slowly away from the booth, back into the writhing mass of dancers. Faces blur, lights smear, sweat and shadow mixing into one organism. The music consumes dialogue, reducing voices to shapes of sound.
+
+**INTERCUT – STROBE SEQUENCE:**
+
+- **VAL** — smile sharp as glass.
+    
+- **INTRUDER** — leaning back, king of the booth.
+    
+- **THE ENTOURAGE** — laughing too loud, faces blurred in neon.
+    
+
+_FLASH_
+
+- **VAL** — smile gone. Eyes like a scalpel.
+    
+- **INTRUDER** — grin falters, jaw tight, calculating.
+    
+- **THE WOMAN** — radiant for a half-second, then swallowed by shadow, smile brittle.
+    
+
+_FLASH_
+
+- **VAL** — head tilted, bored, amused.
+    
+- **INTRUDER** — laughter, too wide, like a bluff.
+    
+- **THE DJ** — framed in silhouette, hands raised, summoning the drop.
+    
+
+_FLASH_
+
+- **VAL** — motionless, but the eyes burn.
+    
+- **INTRUDER** — sweat at his temple, confidence slipping in half-beats.
+    
+- **THE CROWD** — bodies jerking like marionettes, hypnotic, faceless.
+    
+
+---
+
+**THE LIGHT MAKES LIARS OF THEM ALL.**
+
+One final strobe holds —
+
+**VAL** — leaning forward at last, smile erased. Predator revealed.
+
+**THE DROP HITS.**  
+Bass detonates, the booth swallowed by light and sound.
+
+**SMASH TO BLACK.**
