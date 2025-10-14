@@ -1,6 +1,4 @@
 
-
-
 **FADE IN:**
 
 **EXTREME CLOSE-UP - EVANDER'S FACE**

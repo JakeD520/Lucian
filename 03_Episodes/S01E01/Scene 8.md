@@ -83,6 +83,10 @@ He staggers down the block, still bragging to no one.
 
 Aella exhales smoke, shaking her head.
 
+The two continue on.
+
+(HOLD)
+
 **AELLA**  
 I'm bored.  City of millions.  All I get is pancakes and silence?  Where's the chaos, where's the pulse?
 
@@ -277,12 +281,11 @@ The crowd hits the chorus.
 
 Aella _gives in_. She throws her head back and joins them, off-key but loud, laughing between lines, swept up in the absurdity.
 
-Zadie exhales, crooked grin tugging at his mouth. He doesn’t sing, but sways.  He smiles at Aella — some judgment, mostly affection.
+Zadie chuckles, lights a cigarette. He doesn’t sing, but sways.  He smiles at Aella — some judgment, mostly affection.
 
 **WIDE – THE ROOM**  
 Petals flying, tambourines rattling, voices ragged and joyous.  
 Aella in the middle, singing her heart out.  
-Zadie beside her, the too-cool foil, letting her have it.
+Zadie beside her, letting her have it.
 
 FADE OUT.
-

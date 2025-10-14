@@ -82,7 +82,7 @@ The intruder is relaxed now.  His companion, settled, yet stiff.  An accessory. 
 Val is sitting back, one leg crossed over the other.  Like royalty on a throne.
 
 **INTRUDER:**(to Val)
-Tell me, Where would I have seen you?  This booth ... I've been here many times.  It's reserved for the best of the best.  A-list celebs, NFL elites, spoiled rich trust fund kids.  All little bitches, in my opinion.  You seem like you can stand on your own two feet.  I respect that.  Like me.  I want something, I fucking take it.
+Tell me, Where would I have seen you?  This booth ... I've been here many times.  It's reserved for the best of the best.  A-list celebs, NFL elites, spoiled rich trust fund kids.  All little bitches, in my opinion.  You seem like you can stand on your own two feet.  I respect that.  You're like me.  We want something, we fucking take it.
 
 Val lets his gaze move - slowly - to the INTRUDER.
 
@@ -104,9 +104,9 @@ But here’s the truth no one likes to admit — they took _because they had no 
 (beat, a faint smirk)
 
 **VAL**  
-Always hungry, always reaching. The strong don’t need to seize. The weak… compensate.
+Always hungry, always reaching.  (beat) The strong don’t need to seize. (beat) The weak… they compensate.
 
-(Val sips, finally looks back at the Intruder, smile faint, unreadable.)
+(Val sips, looks back at the Intruder, smile faint, unreadable.)
 
 Intruder - Pausing. Thinking.
 

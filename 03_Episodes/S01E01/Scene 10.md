@@ -1,7 +1,10 @@
-### **INT. NIGHTCLUB – VIP BOOTH – CONTINUOUS**
+##### **INT. NIGHTCLUB – VIP BOOTH**
 
-The glasses clink. Bass hums beneath, steady as a heartbeat.  
-Val and **ADRIAN** hold each other’s gaze — a kingdom and a conqueror, deciding which is which.
+Bass thumps through velvet walls, muffled but constant — a heartbeat under every breath. Neon spills across low glass tables littered with half-empty bottles and scattered limes. The crowd beyond is all blur and strobe, but here, in the booth, time slows.
+
+The INTRUDER - ADRIAN and his companion are sitting across from them.  His arms stretched across the seat, his legs spread, one ankle resting on his knee ... taking up more space than necessary. 
+
+Val leans forward, voice steady, eyes warm.
 
 **VAL**  
 (to the woman, gentle)  
@@ -26,7 +29,7 @@ He straightens, smooth grin sharpening.
 (laughs)  
 He has a name.  
 Adrian Vey.  
-You’ve probably heard it once or twice — cars, clubs, the fights in Monaco.
+You’ve probably heard it once or twice — cars, social media, the fights in Monaco.
 
 He says it like a headline, confident, waiting for the flicker of recognition.
 
@@ -51,12 +54,14 @@ You mistake this for an audition.
 
 The booth stills. The bass drops into a low, heavy roll.
 
+(HOLD - The shift is sharp.  Jarring.)
+
 Adrian blinks, then forces an easy grin.
 
-**ADRIAN**  
+**ADRIAN**  (confident, aggressive)
 I don’t audition. I arrive.  
 Rooms open, people listen.  
-That’s not trespass — that’s presence.
+That’s not a tryout — that’s presence.
 
 Val considers him like a scientist might study fire.
 
@@ -69,22 +74,54 @@ To stride into another kingdom uninvited, to sit upon its throne, whisper to its
 Confidence.  
 You should try it sometime.
 
-**VAL**  
-(conspiratorial smile)  
-Conquest is an old game, Adrian.  
-The tapestry of history is woven from it.  
-But even conquerors know the courtesy of sending word ahead.
+Move through the club organism again.  Music. Bass. Dancing.  Lasers.  We are ingested by this being.  Floating between bodies and revelry.
 
-**ADRIAN**  
-Respect’s earned, not handed out.  
-You take it, you keep it, that’s the rule.
+**BACK AT BOOTH**
+
+Val takes a sip from their glass.  Adrian is speaking directly in Candace's ear.  She is fully focused  on him. 
+
+**VAL**  
+You say you arrive, Adrian —  
+but arrival is nothing.  
+Anyone can cross a threshold,  
+sit where they don’t belong.
+
+They tilt their head, studying him like a riddle.
+
+**VAL**  
+The weight isn’t in arrival.  
+It’s in being received.  
+Otherwise. are you presence  —  
+Or are you trespass.
 
 Val’s tone drops — softer, deadlier.
 
 **VAL**  
-Courtesy is survival.
+
+(they lean in, eyes steady)  
+Yes, Adrian… I know you.  
+You and your brother.  
+Your millions of disciples — boys, mostly —  
+hungry for a father’s voice.  
+Hungry in the same way you were.
+
+Adrian's finger drumming against his glass.  Stills.
+
+(quiet, assured)  
+You grew up never quite good aenough for your father.  
+Always chasing the nod, the hand on the shoulder that never came.  
+And now you  (beat) _arrive_ — loud, certain — so the room will give you what he wouldn’t.
+
+Their tone softens, but the weight doesn’t ease.
+
+**VAL**  
+You weren’t cared for enough to receive it.  
+So now you give it, dressed as confidence.  
+But it still tastes like hunger.
 
 A hush radiates from the booth — sound bending around the words.
+
+Adrian shifts back in the booth’s cushion, putting an inch more distance between them.
 
 **VAL (cont’d)**  
 Make no mistake: you didn’t _arrive_, Adrian.  
@@ -96,25 +133,25 @@ Bore me, presume beyond your station, and this kingdom will remind you how short
 Adrian’s grin twitches, caught between laughter and fear.  
 He checks Cadence’s eyes — she’s silent, unsure which way to lean.
 
+(HOLD.  Dark Techno music is louder. Let the tension build. )
+
 He exhales, gathers himself, then stands — smooth again, loud again.
 
 **ADRIAN**  
 Hey, relax. All good vibes.  
-I’ve got another party waiting anyway. Tyla’s expecting me.
+I’ve got another party waiting anyway. Tyla, you know the hot little singer from Johannesburg.  She's expecting me.
 
 He squeezes Cadence’s hand, flashes one last grin.
 
 **ADRIAN (cont’d)**  
-Pleasure, Val. Nice empire you’ve got.
+Pleasure. Nice empire you’ve got.
 
-He disappears through the rope, already re-narrating himself to the crowd.
+He slips through the rope. The crowd folds around him instantly, hungry for the story he’s already retelling. His voice is swallowed by bass — distorted, mechanical, relentless.
 
-Val watches, motionless.  
-Then, a small smile — equal parts satisfaction and boredom.
+**ON VAL**  
+Unmoved. A small smile.  
+They raise their glass, a lone still point against the strobe and the beat’s dark pulse.
 
-**VAL**  
-(quiet, to themself)  
-Every century invents its own barbarians.
-
-A sip. A flicker of strobe.  
-**FADE OUT.**
+ The music carries us.
+ 
+**CUT TO BLACK**
