@@ -4,24 +4,24 @@
 
 **CLOSE ON** _Evander’s face — smoke curling, eyes soft with thought._
 
-A YOUNG WOMAN (20s, radiant, mischievous) lies across his chest, skin on skin amid a riot of plush toys. Her leg drapes over him lazily.
+A YOUNG WOMAN -JENNIFER (20s, radiant, mischievous) lies across his chest, skin on skin amid a riot of plush toys. Her leg drapes over him lazily.
 
 She studies him for a long moment, tracing idle circles on his ribs.
 
-**WOMAN**  
-You talk like a poet who got bored of hearing himself.  
+**JENNIFER**  
+You talk like a poet who contemplates everything.  
 (sly smile)  
 You ever stop thinking and just… float?
 
 Evander grins faintly, eyes half-lidded.  
 She giggles, then rummages into the mountain of plushies beside her. A small glittery purse emerges.
 
-**WOMAN (cont’d)**  
+**JENNIFER (cont’d)**  
 I have something for that.
 
 She opens the purse, fishes out a tiny strip of LSD tabs, the edges catching neon light from somewhere unseen.
 
-**WOMAN (teasing)**  
+**JENNIFER (teasing)**  
 When’s the last time you saw God?
 
 Evander chuckles, deep and slow. Her tone is a joke — his answer isn’t.
@@ -34,7 +34,7 @@ I suppose it’s been quite a while.
 Their eyes meet — hers curious, his remembering.  
 She laughs softly, tears off two tabs.
 
-**WOMAN**  
+**JENNIFER**  
 Open up, sexy.
 
 Evander obeys with amused grace.  
@@ -42,7 +42,7 @@ She places a tab gently on his tongue — and then another on her own.
 
 She sinks back onto his chest. Silence. The plush world seems to pulse with their breathing.
 
-**WOMAN**  
+**JENNIFER**  
 What does the Divine look like to you?
 
 Evander exhales through a smile, searching his memory — not metaphor, but memory.
@@ -56,7 +56,7 @@ As fathers and sons often do.
 
 She chuckles, thinking it’s a line.
 
-**WOMAN**  
+**JENNIFER**  
 You close with your family?
 
 Evander takes a slow breath, eyes unfocused — a thousand years of something flickering behind them.
@@ -67,9 +67,9 @@ Yes.
 I believe so.  
 We’ve spent… well… it seems like forever together.
 
-The woman grins, charmed by what she thinks is stoner poetry. She presses a soft kiss to his chest.
+Jennifer grins, charmed by what she thinks is stoner poetry. She presses a soft kiss to his chest.
 
-**WOMAN**  
+**JENNIFER**  
 Tell me about them.
 
 Evander’s eyes drift upward, the smoke haloing him like memory.
@@ -82,17 +82,17 @@ And one who prefers to be both.
 
 The woman’s eyebrows lift — impressed, amused.
 
-**WOMAN**  
-That’s… complicated.
+**JENNIFER**  
+That’s… a big family.
 
 **EVANDER**  
-Most families are.  
+Its what I know.  
 (beat, soft smile)  
 Ours just… takes longer to get through dinner.
 
 She laughs, nestling back against him.  
 
-**WOMAN**  
+**JENNIFER**  
 Your mother?
 
 Evander pauses. His fingers still, the smoke curling slowly upward.
@@ -104,7 +104,7 @@ I hardly remember my father.
 
 She frowns — exaggerated, sweetly drunk empathy. Her palm rubs slow circles on his chest.
 
-**WOMAN**  
+**JENNIFER**  
 Boo, that’s so sad.  
 I’m sure they had their reasons.  
 (beat, earnest)  
@@ -121,7 +121,7 @@ Another WOMAN, also nude, strolls lazily past the plushie pile. Her skin glows i
 
 Evander watches her go.
 
-**WOMAN (on Evander)**  
+**JENNIFER**  
 That’s such a good attitude.  
 Like… when life gives you lemons, right?
 
@@ -131,13 +131,9 @@ Evander chuckles — low, genuine, ancient.
 Yes.  
 Something like that.
 
-**EVANDER**  
-Yes.  
-Something like that.
-
 They lie there a moment, her head rising and falling with his breathing. The muffled laughter of others filters through the plush landscape — distant, harmless.
 
-**WOMAN**  
+**JENNIFER**  
 You know, I used to think I’d have it all figured out by now.  
 (beat)  
 Like there was going to be a day where I’d wake up and just… _know._  
@@ -147,7 +143,7 @@ Like the goalpost moves when I’m not looking.
 
 Evander listens quietly, eyes half-closed.
 
-**WOMAN (cont’d)**  
+**JENNIFER (cont’d)**  
 My mom says that’s what growing up is.  
 But I don’t think she ever stopped pretending she knew either.
 
@@ -161,7 +157,7 @@ But the floor always moves, eventually.
 
 She studies him, curious.
 
-**WOMAN**  
+**JENNIFER**  
 You sound like you’ve been through it.  
 Was there ever a time you didn’t know who you were?
 
@@ -170,19 +166,19 @@ He considers. The pause is long, but not uncomfortable.
 **EVANDER**  
 Once.  
 Long ago.  
-When I thought being alive meant belonging somewhere.
+When I thought being alive meant having purpose.
 
 Her gaze softens; she’s moved but doesn’t quite understand.
 
-**WOMAN**  
+**JENNIFER**  
 And now?
 
 **EVANDER**  
-Now I think belonging’s just another way of saying _afraid to leave._
+Now I think purpose is just another way of saying _afraid of the unknown._
 
 She chuckles softly, half-confused, half-impressed.
 
-**WOMAN**  
+**JENNIFER**  (playful)
 You’re kind of impossible, you know that?  
 Every answer just raises three more questions.
 
@@ -191,29 +187,11 @@ Then perhaps we’re making progress.
 
 She laughs, presses a lazy kiss to his collarbone, and sighs — a genuine, grounded sound.
 
-**WOMAN**  
-Sometimes I wish I could turn my brain off.  
-Stop worrying about rent and exes and if I said the wrong thing to someone at brunch.  
-Just… _exist._
-
-**EVANDER**  
-You already do.  
-You just keep remembering you’re supposed to be someone.
-
-She tilts her head up toward him, eyes shining — something between flirtation and awe.
-
-**WOMAN**  
-You make that sound easy.
-
-**EVANDER**  
-It isn’t.  
-But neither is pretending.
-
 A small silence settles — soft, magnetic. The background laughter swells for a moment, then fades again.
 
 She traces a line down his chest, thoughtful.
 
-**WOMAN**  
+**JENNIFER**  
 You really don’t remember your father?
 
 **EVANDER**  
@@ -225,11 +203,7 @@ She nods, quietly absorbing it.
 
 Another laugh rings out nearby — **the other woman** drifting closer now, curiosity and mischief in her eyes.
 
-**INT. EVANDER'S LOFT – CONTINUOUS**
-
-The scene shifts to a softer glow. Evander reclines on plush cushions, Jennifer draped across his chest, her fingers tracing lazy patterns on his skin. The ambient music pulses gently.
-
-A WOMAN approaches from the shadows — **MANDY**, mid-twenties, confident stride. She settles onto the cushions opposite Jennifer, completing the triangle.
+She approaches  — **MANDY**, mid-twenties, confident stride. She settles onto the plushies,  opposite Jennifer, completing the triangle.
 
 **MANDY**  
 Hi. I'm Mandy.  
