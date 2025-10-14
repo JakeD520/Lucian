@@ -2,20 +2,17 @@
 
 **EXT. NEW YORK STREET – 2AM**
 
-Zadie flicks his lighter, shielding the flame from the wind. Offers it to Aella. She leans in, lips curled around the cigarette, eyes on him. They start walking, cigarettes glowing. Neon buzz, puddles reflecting signs, a siren far off.
+Zadie, still with his shades on,  flicks his lighter, shielding the flame from the wind. Offers it to Aella. She leans in, lips curled around the cigarette, eyes on him. They start walking, strolling,  cigarettes glowing. Neon buzz, puddles reflecting signs, a siren far off.
+
+A woman ducks into an alley, squats without shame.
 
 **ZADIE**  
 This is what I love about this place.
 
-He gestures casually down the block.
-
-**ZADIE** (cont'd)  
-You never know what you're gonna see.
-
-A woman ducks into an alley, squats without shame.
+He gestures casually towards her.
 
 **ZADIE** (grinning)  
-Like that. Where else do you get that kind of authenticity?
+Where else do you get that kind of authenticity?
 
 Aella smirks, exhales smoke.
 
@@ -30,65 +27,39 @@ You know… Rome stank of blood. The coliseum wasn't all marble and glory. It re
 We cheered anyway.
 
 **ZADIE** (grinning)  
-Of course we did. Bread, circuses. Same as this place.
-
-They pass an eccentric in glitter boots arguing with a parking meter. Zadie gestures.
-
-**ZADIE**  
-See? Coliseum hasn't gone anywhere. Just traded lions for late fees.
+Of course we did. What's the saying?  Oh yeah ... When in Rome?
 
 Aella chuckles, shakes her head.
 
-**AELLA**  
-Sometimes I think humanity's greatest creation… is excuses.
-
-**ZADIE**  
-And its greatest flaw?  
-(beat)  
-Not knowing it.
-
 They walk a few steps in silence. Smoke trailing.
-
-**AELLA** (suddenly, a spark of memory)  
-You know what I did love? The philosophers. Greeks under olive trees, tearing each other apart with questions.  
-(she exhales smoke)  
-Where the hell are those fuckers these days?
 
 Up ahead, a drunk twenty-something in a wrinkled polo stumbles out of a bodega — **CHIP**. He blocks half the sidewalk, arms flung wide, sloshing a can of hard seltzer.
 
 **CHIP**  
 Do you know who I am? Huh? _Do you even know?_  
 (grinning)  
-I closed three deals today. Three. Count 'em. Crypto, baby. Changing the world.
+Chip Duggan  ... Crypto King, baby! I hit the jackpot today. Changing the world.
 
 Zadie and Aella slow just enough to watch him wobble.
 
 **CHIP**  
-My dad says I got more hustle than he ever did. And that man built an empire from scratch. Do you know what it's like to have greatness in your blood?  
+My dad says I got more hustle than he ever did. And that man built his empire from scratch. Do you know what it's like to have greatness in your blood?  
 (beat, sways)  
 Course you don't. Look at you.
 
-**ZADIE** (mock-serious)  
-You mean Chip doesn't count?  
-(beat, to Aella)  
-"Life is pain unless you're Chip." That's some heavy doctrine.
+Aella and Zadie share a conspiratorial glance.  If Chip even knew.
 
 Chip thrusts his hand up for a high five, wobbling.
 
 **CHIP**  
-Yo! Big night for me, guys. Huge. Closed deals, made bank. I'm basically unstoppable.
+Yo! Big night for me, guys. Huge. Made bank. unstoppable.
 
 Zadie eyes the hand, smirks.
 
 **ZADIE**  
-Mmm… yeah, no. How about elbows, Chip buddy? Let's bring back that timeless COVID greet.
+Mmm… yeah, no. How about elbows, Chip buddy? Let's bring back that timeless COVID greeting.  Old school.
 
 He offers an elbow. Chip squints, then lunges too slow. Their elbows don't connect.
-
-**CHIP**  
-Wait, wait—do it again. I got this.
-
-Zadie obliges, half-laughing. Chip still misses, stumbles sideways into the lamppost.
 
 **ZADIE** (mock-serious)  
 Seamless execution. Wall Street precision, right there.
@@ -100,10 +71,10 @@ That's me, man. Precision. I don't miss. Not ever.
 
 Aella takes a drag, completely unbothered. She looks down at Chip's khakis, soaked from the knee down.
 
-**AELLA**  
-Except everything. Including your pants.
+**AELLA**
+You sure about that, Chipster?
 
-Chip glances down at the damp stain, then shrugs like it doesn't matter.
+Chip glances down at the damp stain on his crotch, then shrugs like it doesn't matter.
 
 **CHIP**  
 Whatever. Winners don't care.
@@ -113,111 +84,205 @@ He staggers down the block, still bragging to no one.
 Aella exhales smoke, shaking her head.
 
 **AELLA**  
+I'm bored.  City of millions.  All I get is pancakes and silence?  Where's the chaos, where's the pulse?
+
+**ZADIE**  
+Humans like their REM cycles, Ael.
+
+They walk on, smoke trailing, laughter faint. The city hums around them — neon, oddballs, a drunk bro yelling at a cab.
+
+**AELLA** (suddenly, a spark of memory)  
+You know what I did love? The philosophers. Greeks under olive trees, tearing each other apart with questions.  
+(she exhales smoke)  
+Where the hell are those fuckers these days?
+
+**Zadie**
+What about the wise words of Chip?
+
+**AELLA**  
 If Chip's the pinnacle of human wisdom, the species is truly doomed.
 
 **ZADIE**  
 Eh. Socrates probably slurred too.
 
-She smirks despite herself. They keep walking, the city unfolding in all its absurdity around them.
+AELLA’s breath fogs in the stale air. She’s got that bright, dangerous look — ready to pry life out of a dead city. ZADIE follows, hands in pockets, smirking.
+
+SOUNDS: muffled bass.
+
+AELLA  
+(whispers)  
+Hear that?
+
+ZADIE  
+Probably a very committed bar in the final death throes of the night.
+
+AELLA grins, follows the sound to back alley door.  She pauses and then yanks the  door open. Light spills out — warm, colorful.
+
+Aella smiles big and steps inside.
+
+---
+
+**INT.  PARTY – 2:23 A.M.**
+
+BOOM — sound, light, movement. A pulse that doesn’t belong to the city above.
+
+AELLA steps in first, eyes wide, already grinning. Behind her, ZADIE strolls in with hands deep in his jacket, sunglasses still on, smirk locked.
+
+They make their way down the steps.
 
 **AELLA**  
-That's humanity's legacy right there.
+Holy shit.
 
-**ZADIE** (mock-grave, hand over chest)  
-Nothing, my crimson goddess.  
-(beat, smirks)  
-This world being fucked up — that's its charm. Like a ten-car pileup you can't look away from.
+**CAMERA SWEEP — THE ROOM:**  
+Packed wall to wall, maybe forty people, maybe more. Every color in motion — sequins, scarves, painted skin. A haze of incense and vape clouds. A surge of smiles and energy. It’s overwhelming and magnetic, like stepping into a festival compressed into a basement.
 
-Aella exhales, smoke curling.
+A woman, gilded with floral garments and costume wings,  glides up to AELLA with a bracelet, presses it into her palm with a hug that lingers fractionally long.
+
+WOMAN  
+Welcome. Take one. Stay as long as you like.
+
+AELLA takes the bracelet, charmed. ZADIE is already being eye-balled — a topless reveler sidles in, half-dance.  She closes in on Zadie.
+
+ZADIE  
+(leaning away, grinning)  
+While I appreciate the attention, miss, I’m strictly cutting random grinding with forest nymphs out of my diet.  (beat) And carbs. Carbs are no bueno.
+
+The reveler laughs, tosses a handful of petals in his face, sashays off.
+**ZADIE**  
+(to himself, deadpan)  
+Welcome to the fever dream. Population: us.
 
 **AELLA**  
-You're twisted.
+Come on. This is amazing.
+
+She lets herself be pulled into a **brief dance** by a stranger — a messy, spinning twirl, more joy than grace. She laughs joyfully.
+
+Zadie watches, leaning against a post, pretending bored detachment. But the corners of his mouth twitch.
 
 **ZADIE**  
-Takes one to stroll with one.
-
-They walk on, smoke trailing, laughter faint. The city hums around them — neon, oddballs, a drunk bro yelling at a cab.
-
-**ZADIE** (snaps fingers, lit up)  
-The speakeasies. Prohibition nights. We were there. Flappers, jazz, bathtub gin…  
-(grins)  
-I was hard the entire time.
-
-**AELLA** (laughing, groaning)  
-Gross, dude. Even then you were impossible.
-
-**ZADIE**  
-That joint on 52nd — had to knock twice and say _"Jack sent me."_ Place reeked of gin and cheap perfume.
+(calling out)  
+Careful. This is how cult recruitment starts. First it’s garlands, next thing you know you’re chanting about the moon.
 
 **AELLA**  
-Yeah, and you face-planted into a trumpet player on the way out. Smooth. Real smooth.
+(throws him a look, breathless)  
+Not everything’s a cult, Z.
+
+A reveler pats Zadie on the back, pressing a drink into his hand. Zadie takes it without hesitation, sips, winces.
 
 **ZADIE**  
-The dresses, though. Sequins catching candlelight, feathers brushing your face on the dance floor…
+(holding it up like a specimen)  
+Yep. Definitely moon juice.
+
+The crowd surges, laughing, cheering at nothing in particular. Someone climbs a chair to wave a neon scarf. A man in a glitter vest spins with a child’s kite overhead, like it belongs there.
+
+AELLA is in it — not performing, just soaking it up, alive in the noise. She drifts through, brushing hands, swapping grins.
+
+Zadie trails behind, slower, less open, but watching everything. Sunglasses hide his eyes but not his smirk.
+
+The two push deeper into the room, swallowed by noise and light.
+
+A woman draped in yellow scarves stops them both, pressing petals into their palms. She looks at them with too much intensity, as if they’re honored guests.
+
+**WOMAN**  
+You belong here.
+
+Aella beams, closes her fist around the petals. Zadie rolls his eyes — but tucks them into his pocket.
 
 **AELLA**  
-And the smoke. Don't romanticize it. You couldn't breathe without coughing up tar.
+(tugging him onward)  
+Come on. Just… feel it.
 
 **ZADIE**  
-Ellington live, Armstrong on fire — trumpet blasting in my chest.
+I am feeling it. I feel a rash forming.
 
-**AELLA**  
-And you puking in the alley after. Creation at its finest.
+She spins again, laughing.
 
-**ZADIE**  
-Come on, that was humanity creating joy out of nothing. The law said no, and they built entire worlds underground.
+**WIDE SHOT — THE ROOM**  
+Bodies swirl, neon kites cut through incense, tambourines clatter, voices rise without reason. It’s not sex, not worship, not a rave. It’s something in-between — a celebration too big for the basement it’s trapped in.
 
-**AELLA**  
-They built excuses to drink. Same thing, different décor.
+**CLOSE ON AELLA** — flushed, eyes alight.  
+**CLOSE ON ZADIE** — sunglasses reflecting the chaos, grin flickering wider.
 
-**AELLA** (grinning, flicks her cigarette)  
-Please. Speakeasies were nothing compared to the Sanskrit Vasantotsava parties. Whole cities painted in color, music in every street.
+Together, they vanish into the current.
 
-**ZADIE** (eyes lighting up, nods)  
-Oh, yeah… even Lucian and Kaelarys let themselves go for those. You remember?  
-(beat, smirks)  
-Kaelarys with flower garlands. She pretended she hated it, but she danced.
+(Hold on the party.  Let the scene breath.)
 
-**AELLA** (laughs)  
-She did. And Lucian trying to look solemn with dye smeared across his face.
+The music stops. A hush spreads, like a wave.
 
-They both laugh, smoke curling, their steps loose.
+**A GONG.**  
+Low. Resonant. The sound hangs in the air.
 
-**ZADIE**  
-You know what still gets me? Woodstock.  
-(beat, grinning)  
-Three days of rain, mud, music, and every drug in the solar system. You crying during Hendrix's anthem—don't deny it.
+The crowd cheers — then begins to part, bodies shifting, creating a circle in the middle of the floor.
 
-**AELLA** (mock offended)  
-That was _allergies._
+A figure emerges. **MATTY.** Tall, floral jacket , face covered in paint,  lit with an intensity that borders on feverish. Every eye follows him.
 
-**ZADIE**  
-Yeah, sure. Allergies to freedom.
+Beside him, a WOMAN draped in scarves moves with deliberate grace. She lowers herself to the floor at the center of the circle, kneeling, facing away from him. Her eyes close. A faint, calm smile flickers across her face.
 
-They laugh, walking a few steps in silence. Smoke trailing. The city hums around them.
+The crowd falls silent.
 
-Zadie flicks ash, then perks up.
+Matty steps forward, deliberate. He clasps something in his hands, hidden, pressed to his chest. Crossed arms. Reverent.
 
-**ZADIE**  
-You ever hear of Songkran?
+**CLOSE — AELLA**  
+Her breath catches. She can’t look away.
 
-**AELLA** (snorts)  
-What the fuck is that? A new Chris Brown song?
+**CLOSE — ZADIE**  
+A grimace. Brows drawn.
 
-Zadie bursts out laughing, nearly doubles over.
+**ZADIE**
+What the fuuuuuuuuck?
 
-**ZADIE**  
-No, no—listen. It's Thailand. Imagine an entire city at war, right? Streets packed, chaos everywhere—  
-(he flashes his hands dramatically)  
-But their military is made up entirely of… squirt guns.
+Matty raises his arms, slow, ritualistic, lifting the object above the woman’s head. His head tilts downward, gaze heavy.
 
-**AELLA** (eyes wide, cigarette dangling)  
-What? You're serious?
+The crowd waits. Breathless.
 
-**ZADIE**  
-Serious as a heart attack. Buckets, hoses, water balloons—everybody's armed. Three-day flood fight.
+Silence stretches.
 
-**AELLA** (grinning, shaking her head)  
-When is this? I'm totally in.
+Then —
+Keyboard notes. Oddly out of place.  Familiar.
 
-They burst out laughing again, their footsteps light, as though the weight of centuries just fell away.
+**MATTY**  
+(soft, almost a chant)  
+Turn around…
+
+**Beat.**
+
+**MATTY**  
+(louder, breaking into melody)  
+Every now and then I get a little bit lonely—
+
+The room ERUPTS. Cheers, laughter, applause. Petals thrown.
+
+The woman sways to the music, complimenting Matty's passionate singing..
+
+Matty belts into the microphone, whole body alive with song.
+
+**CLOSE — AELLA**  
+She exhales, half-laugh, half-shock, shoulders trembling.
+
+**CLOSE — ZADIE**  
+His grimace melts into disbelief. Then a crooked grin.
+
+The crowd surges forward, swept into the chorus. Firecrackers pop. The space transforms back into chaos and joy, as if the silence never happened.
+
+**CLOSE – ZADIE**  
+Head tilted, shades sliding just enough to reveal his eyes. He shoots Aella a look: flat, incredulous. _Are you fucking kidding me?_
+
+**CLOSE – AELLA**  
+She stares back for half a beat, then cracks — laughter spilling out, shoulders shaking.
+
+The crowd hits the chorus.
+
+**MATTY & CROWD**  
+♪ …Total eclipse of the heart! ♪
+
+Aella _gives in_. She throws her head back and joins them, off-key but loud, laughing between lines, swept up in the absurdity.
+
+Zadie exhales, crooked grin tugging at his mouth. He doesn’t sing, but sways.  He smiles at Aella — some judgment, mostly affection.
+
+**WIDE – THE ROOM**  
+Petals flying, tambourines rattling, voices ragged and joyous.  
+Aella in the middle, singing her heart out.  
+Zadie beside her, the too-cool foil, letting her have it.
+
+FADE OUT.
+
