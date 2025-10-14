@@ -108,7 +108,7 @@ Hungry in the same way you were.
 Adrian's finger drumming against his glass.  Stills.
 
 (quiet, assured)  
-You grew up never quite good aenough for your father.  
+You grew up never quite good enough for your father.  
 Always chasing the nod, the hand on the shoulder that never came.  
 And now you  (beat) _arrive_ — loud, certain — so the room will give you what he wouldn’t.
 
