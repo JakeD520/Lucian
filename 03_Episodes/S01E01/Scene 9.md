@@ -9,7 +9,7 @@ A YOUNG WOMAN -JENNIFER (20s, radiant, mischievous) lies across his chest, skin 
 She studies him for a long moment, tracing idle circles on his ribs.
 
 **JENNIFER**  
-You talk like a poet who contemplates everything.  
+You talk like a poet who has seen too much.  
 (sly smile)  
 You ever stop thinking and just… float?
 
