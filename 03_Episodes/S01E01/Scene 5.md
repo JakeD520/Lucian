@@ -1,6 +1,6 @@
 **INT. NIGHTCLUB – VIP BOOTH**
 
-The club floor is chaos — bodies in strobe-light seizure, bass rolling like thunder under the skin.
+The club floor is chaos — bodies in strobe-light seizure, dark-techno bass rolling like thunder under the skin.
 
 At the far wall, behind a velvet rope and a black-suited bouncer, a **VIP booth** rises like an island. Leather curves in a half-circle, a low table gleaming with bottles, glasses, ice buckets.
 
@@ -26,11 +26,12 @@ Not so subtle. Not to VAL’s eyes.
 
 VAL watches, glass halfway to their lips. A faint narrowing — irritation? amusement? Hard to tell.
 
-The rope opens. The man steps through without hesitation, as though expected, as though this space were his second home. The entourage hardly notices.
+The rope opens. The man steps through without hesitation, as though expected, as though this space were his second home.
 
 He slides into the booth opposite Val, the woman tucked neatly against his side. Comfortable. Confident. Certain.
 
-**INTRUDER** (pleasant, declarative) This is the best seat in the house. Thought I’d join you.
+**INTRUDER** (pleasant, declarative) 
+This is the best seat in the house. Thought I’d join you.
 
 The entourage titter — some notice the new faces, some oblivious. The man lets the line hang, expecting his reputation to do the rest.
 
@@ -38,24 +39,55 @@ VAL’s eyes linger. A squint, tiny, surgical. Then… the smile. Slow. Dangerou
 
 At last, something to do.
 
-**INTRUDER** (to Val, easy) I’d have remembered seeing you here before. You’re not the sort to blend.
+**INTRUDER** (to Val, easy) 
+I’d have remembered seeing you here before. You’re not the sort to blend.
 
 _Val arches a brow, not flattered but entertained. They sip, eyes locked._
 
-**VAL** And you’re not the sort to miss anyone worth remembering.
+**VAL** 
+Mattering is not what I seek.  I merely looking for-
+
+A pause.  Too long.
+Val breaks for a beat, let's their gaze drift around the space.
+
+**VAL**
+... Experiences.
 
 _The INTRUDER smiles at that, appreciative — not many return his serve with precision. He leans in a little, lowering his voice so it cuts through the music._
 
-**INTRUDER** I make it a point to know everyone who matters in a room. You? You matter.
+**INTRUDER** 
+I make it a point to know everyone who matters in a room. You? You matter.
 
 _VAL lets the words hang, then laughs softly — not dismissive, but genuinely pleased. They tip their glass toward him._
 
 **VAL** How refreshing. Most men recite their triumphs. You lead with recognition.
 
-**INTRUDER** Recognition is the triumph. The rest is chatter.
+**INTRUDER** Recognition is the triumph.my friend. The rest is fucking chatter.
 
 _VAL nods slowly, savoring the line. They like this man. They could like him a lot._
 
-**VAL** (leaning forward, conspiratorial) Then consider yourself recognized.
+**VAL** (leaning forward, conspiratorial) Then consider yourself (beat) recognized.
 
-_The INTRUDER grins, raising his glass. They clink, eyes steady. For a beat, it’s not adversarial at all. It’s possibility. Two sovereigns meeting on neutral ground, enjoying the game for its own sake._
+The INTRUDER grins.  Settling into the cushions a bit more confident.
+
+**CUT TO:**
+The club, outside the booth.  Push through the crowd.  Camera captures the vibe.  The noise.  The beat.  Hypnotic.  Revelers dancing, as if in a trance.  Lasers. Lights. Silhouettes against the backdrop of techno bliss.
+
+Stay with the environment.  A living organism in its own right.
+
+**BACK AT THE BOOTH:**
+
+The intruder is relaxed now.  His companion, settled, yet stiff.  An accessory.  He whispers something to her.  She laughs. Strokes his arm dutifully.
+
+Val is sitting back, one leg crossed over the other.  Like royalty on a throne.
+
+**INTRUDER:**(to Val)
+Tell me, Where would I have seen you?  This booth ... I've been here many times.  It's reserved for the best of the best.  A-list celebs, NFL elites, spoiled rich trust fund kids.  All little bitches, in my opinion.  You seem like you can stand on your own two feet.  I respect that.  Like me.  I want something, I fucking take it.
+
+Val lets his gaze move - slowly - to the INTRUDER.
+
+A pause.
+
+**VAL**
+
+
