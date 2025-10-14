@@ -12,9 +12,11 @@ Rexus glances at Lucian, then casually plants his foot against the frame, stoppi
 
 Lucian raises a brow.
 
-**LUCIAN** Really.
+**LUCIAN** 
+Really.
 
-**REXUS** (half-grin) If we only walk the halls they give us, we’ll never see what’s worth stealing.
+**REXUS** (half-grin) 
+If we only walk the halls they give us, we’ll never see what’s worth stealing.
 
 He eases the door open. The golden light of the corridor spills into shadowed concrete.
 
@@ -40,13 +42,15 @@ Rexus steps in first, eyes bright.
 
 He strolls along one of the benches, running his hand over unfinished crowns, a drying pistol, the frame of a chandelier waiting for glass. He picks things up, sets them down again, like a kid in someone else’s toy box.
 
-**REXUS** (natural, without looking back) Nice to see you out of Serim for once.
+**REXUS** (natural, without looking back) 
+Nice to see you out of Serim for once.
 
 Lucian stands a few paces back, still at the threshold. Watching.
 
 Lucian steps further in, gaze drifting across the benches — half-painted props, sabers on a rack, a mask drying in resin.
 
-**LUCIAN** Yeah. I’ve been doing a lot of… thinking.
+**LUCIAN** 
+Yeah. I’ve been doing a lot of… thinking.
 
 Lucian picks up a prop saber, turns it idly in his hand.
 
@@ -57,7 +61,7 @@ A long beat.
 Finally, Rexus exhales, voice softer than usual.
 
 **REXUS** (shrugging, as if finishing a story mid-thought)  
-Yeah. I wanted to stay with her.
+Yeah. I wanted to stay with Taresh.
 
 He moves on, absently toying with numerous props.
 
@@ -112,17 +116,20 @@ Rexus lets the weight of the silence linger just long enough… then breaks it w
 
 He glances down. Notices the saber still in Lucian’s hand, idly turning.
 
-**REXUS** (smirk tugging wider) Whatcha gonna do with that, First Light?
+**REXUS** (smirk tugging wider) 
+Whatcha gonna do with that, First Light?
 
 Lucian glances at the blade in his hand.
 
-**LUCIAN** Oh, this?
+**LUCIAN** 
+Oh, this?
 
 His smile grows as he lifts the saber, presenting it with a sudden flourish. The motion is effortless, elegant — and for the first time, we glimpse how truly skilled he is. His stance alone betrays a history of precision.
 
 Rexus tilts his head, grin curling.
 
-**REXUS** Careful there, Lucian. Wouldn’t want you to hurt yours—
+**REXUS** 
+Careful there, Lucian. Wouldn’t want you to hurt yours—
 
 In a flash, Rexus snatches up a nearby matching saber, moving quicker than expected.
 

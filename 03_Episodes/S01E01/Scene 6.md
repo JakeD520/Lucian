@@ -23,17 +23,23 @@ The pinnacle?
 _(beat, her tone light, thoughtful)_  
 But on Earth, this tapestry is faded. Patched, even reworked. Isn't that still art? Doesn't the decay add to it? The stains, the wear… aren't those part of the story?
 
+(beat)
+Lyra glances at the tapestry.
+
+**LYRA** (cont'd, a small sigh) 
+If I were to make something, I think I'd want the whole journey to matter.
+
 (HOLD. CU: Kaelarys. A flicker of surprise. She didn't expect the question.)
 
 **KAELARYS**  
-Decay can reveal beauty, yes…  
+Decay can reveal (pause, selecting the right word) history, yes…  
 _(beat)_  
 But the vision—the spark that began it—that is what we preserve. The moment it became whole.
 
-**LYRA**  
+**LYRA** (a bit disheartened)
 When the creator has moved on?
 
-(HOLD. Silence stretches. Kaelarys stiffens. CU: her eyes flicker—something sharp, painful. An intrusive thought.)
+(Kaelarys stiffens. HOLD. Silence stretches. CU: her eyes flicker—something sharp, painful. An intrusive thought.)
 
 She forces a small smile, brushing it aside.
 
@@ -51,41 +57,42 @@ Do you ever wonder… if I painted something? Or if you sculpted a statue? Would
 _(quiet, but firm)_  
 That's not what we do, Lyra.
 
-(HOLD. Lyra absorbs it. Her playfulness ebbs away.)
+(HOLD. Lyra absorbs it. Her playfulness ebbs away. Sit with Lyra internal shift)
 
 **LYRA**  
-The humans fill their world with works—paintings, poems, cathedrals.  
-_(beat, voice dipping)_  
-And us… nothing.
+The humans fill their world with works—paintings, poems, cathedrals. 
 
-She turns slightly, catching her reflection on the marble floor.
+She turns slightly, catching her reflection on the marble floor.  She examines it, swaying gently, as if seeing herself for the first time.
+
+(HOLD)
+(HOLD a little longer.  Let's take Lyra's journey with her.)
 
 **LYRA**  
 Funny, isn't it? Everything about me screams 'artist.'
 
-(HOLD. She spins the charm at her neck, glances down at tattoos, fabrics, wild hair. She laughs softly—uncertain, not joyous.)
+She spins the charm at her neck, glances down at tattoos, fabrics, wild hair. She laughs softly—uncertain, not joyous.
 
 **LYRA**  
 But none of it is mine. The style, the ink, the songs I hum… all borrowed. From them.  
 _(beat — quieter, her voice catching)_  
 It's like I'm only wearing the mask. Pretending to be what I can never really be.
 
-Her eyes glisten. She presses her hand into her palm, nails biting.
+Her eyes glisten. She unconsciously balls her fist, nails biting into her palm.
 
 (HOLD. Kaelarys watches, face softening.)
 
 Kaelarys steps closer, slow, deliberate. She takes Lyra's hand, pries the fingers open gently, and traces the **star tattoo** there.
 
-(HOLD. Her thumb moves in slow circles. CU: Lyra's breath trembling.)
+(HOLD. Her thumb moves in slow circles.)
 
-**KAELARYS**  
-Oh, no, Lyra… don't you see?  
+**KAELARYS** (softly, comforting) 
+No, Lyra… don't you see?  
 _(beat — her voice low, steady, intimate)_  
 You are not only a creator.  
 _(she meets her sister's eyes)_  
-You are creation.
+You are the creation.
 
-(HOLD. Lyra's lips part. She doesn't pull away. For the first time, she lets Kaelarys hold her.)
+ Lyra's lips part. She doesn't pull away. She lets Kaelarys hold her.
 
 **KAELARYS**  
 _(she glances up at the tapestry, then back to Lyra)_  
@@ -96,7 +103,7 @@ Do you think they harvested the madder root for red, the weld for gold?
 She gestures softly to the tapestry.
 
 **KAELARYS** _(cont'd)_  
-Do you think Bishop Odo rode into battle? Swung the sword? Burned the villages?
+Do you think they rode into battle? Swung the sword? Burned the villages?
 
 _(beat — softer now, tracing the tattoo on Lyra's palm)_  
 No. They worked with what already was. Wool. Dye. Blood. Memory…  
@@ -133,14 +140,14 @@ Two souls, looking at the same threads... and finding different truths.
 **KAELARYS** _(cont'd)_  
 That's the gift of creation, Lyra. It doesn't just reveal the maker—  
 _(beat)_  
-—it reveals the one who receives it.
+—it also reveals the one who receives it.
 
 (HOLD. Her voice drops, almost reverent.)
 
 **KAELARYS** _(cont'd)_  
 Art is a conversation across time. Across worlds.  
 _(she looks back at the tapestry)_  
-The embroiderer speaks. Bishop Odo speaks. The wool, the blood, the battle—they all speak.
+The embroiderer speaks. The wool, the blood, the battle—they all speak.
 
 _(she meets Lyra's eyes)_  
 And when you look... _you_ speak back.
