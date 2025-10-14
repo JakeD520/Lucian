@@ -54,6 +54,10 @@ You mistake this for an audition.
 
 The booth stills. The bass drops into a low, heavy roll.
 
+Move through the club organism again.  Music. Bass. Dancing.  Lasers.  We are ingested by this being.  Floating between bodies and revelry.
+
+**BACK AT BOOTH**
+
 (HOLD - The shift is sharp.  Jarring.)
 
 Adrian blinks, then forces an easy grin.
@@ -74,10 +78,6 @@ To stride into another kingdom uninvited, to sit upon its throne, whisper to its
 Confidence.  
 You should try it sometime.
 
-Move through the club organism again.  Music. Bass. Dancing.  Lasers.  We are ingested by this being.  Floating between bodies and revelry.
-
-**BACK AT BOOTH**
-
 Val takes a sip from their glass.  Adrian is speaking directly in Candace's ear.  She is fully focused  on him. 
 
 **VAL**  
@@ -95,6 +95,10 @@ Otherwise. are you presence  —
 Or are you trespass.
 
 Val’s tone drops — softer, deadlier.
+
+Another trip through the club. The vibe is dark. Ominous.  Claustrophobic.
+
+**BACK AT BOOTH:**
 
 **VAL**  
 
@@ -126,7 +130,7 @@ Adrian shifts back in the booth’s cushion, putting an inch more distance betwe
 **VAL (cont’d)**  
 Make no mistake: you didn’t _arrive_, Adrian.  
 You were _tolerated._  
-A guest indulged only while you amuse.  
+A guest indulged only while you amuse. 
 (leans in)  
 Bore me, presume beyond your station, and this kingdom will remind you how short a fall power really is.
 
