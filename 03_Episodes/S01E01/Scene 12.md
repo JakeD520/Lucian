@@ -20,7 +20,9 @@ CLANG. Lucian parries. The impact reverberates. These aren't just props in their
 
 **CUT TO:**
 
-**NYC STREETS - GOLDEN HOUR** Aella and Zadie drifting down the sidewalk. Cigarette smoke curls between them. They bump shoulders—giggling.
+**NYC STREETS - GOLDEN HOUR** Aella and Zadie drifting out of the alley doorway. Cigarette smoke curls between them. They bump shoulders—giggling.
+
+They step out onto the sidewalk.
 
 SCREECH. Electric scooter VEERS. They SCATTER—
 
