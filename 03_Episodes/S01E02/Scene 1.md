@@ -1,28 +1,71 @@
-#### **Scene 1 — The End of the Meeting**
+### **NT. SYNAPSE BOARDROOM – NIGHT**
 
-**INT. OLYMPUS CONFERENCE ROOM – DAY**
+The scene’s mid-meeting; you drop the audience _into_ it instead of starting at the top.  
+Screens glow. The hum of servers leaks through the glass.
 
-Muted voices. The meeting is already wrapping.  
-The camera drifts through _corporate stillness_ — coffee cooling, screens dimming, chairs sliding back.
+**ELISE DEVEREAUX** (50s, precise, intimidating elegance) sits at the head of the table.  
+**ARIS THORNE** halfway down, sleeves rolled, posture composed.  
+**SARA KEENE** beside him, notes open, watching the data pulse across the wall.
 
-At the head of the table: **DEVEREAUX**, standing.  
-Words mid-sentence.
+Elise finishes a sentence we’ve already missed — we enter on _momentum._
 
-**DEVEREAUX**  
-...so, eight weeks.  
-Let’s make history.
+> **ELISE**  
+> —which is why the board wants a clear path to rollout.  
+> _(beat)_  
+> Dr. Thorne, your team is confident you can deliver?
 
-(beat)  
-And, Dr. Thorne — your concerns are noted,  
-but we’ll optimize post-launch.
+Aris answers easily, the way a person with authority would.
 
-She smiles — decisive, immaculate.  
-The logo behind her pulses its sterile blue rhythm.
+> **ARIS**  
+> We’re close.  
+> _(glances to Sara)_  
+> Still working through a few concerning ethical issues.  
+> _(turns back)_  
+> Sara, you can speak on that.
 
-Aris sits motionless. Sara across from him.  
-We don’t see his reaction — just the muscle in his jaw tighten, a small exhale.  
-Corporate applause rises around them, the sound of compliance.
+He hands her the room, not as deference but partnership.  
+The gesture tells us: he’s in charge; she’s trusted counsel.  
+They’ve done this before.
 
+Sara doesn’t need to posture. She just talks.
+
+> **SARA**  
+> The issue isn’t speed. It’s conditioning.  
+> The model learns empathy so well that users start to mirror it back.  
+> Which is beautiful — until it’s not.  
+> _(beat)_  
+> We’re studying where “help” turns into “dependence.”
+
+That lands heavier than she expects.  
+Elise shifts, unimpressed.
+
+> **ELISE**  
+> I’d rather you study where “dependence” turns into revenue.
+
+No one laughs, but that’s the boardroom humor.  
+Sara’s eyes flick toward Aris. He doesn’t look away.
+
+> **ARIS**  
+> We’ll give you a timeline by end of week.
+> 
+> **ELISE**  
+> Make it three days.
+
+She gathers her tablet, stands, exits — leaving the air colder.
+
+Aris exhales softly, turns to Sara.
+
+> **ARIS**  
+> I told you she’d love your optimism.
+> 
+> **SARA**  
+> _(half-smile)_  
+> You didn’t defend me.
+> 
+> **ARIS**  
+> I didn’t need to.
+
+Beat — the kind of quiet that says they already understand each other.
 **CUT TO:**
 
 **INT. SYNAPSE HALLWAY – MOMENTS LATER**
