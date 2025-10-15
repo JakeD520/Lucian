@@ -294,7 +294,7 @@ clinging to silence as if it were love.
 We elevate ourselves above the humans. 
 We watch them as if our existence is superior.
 We live as gods…  
-but (beat) we’re nothing more than orphans.
+but (beat) we’re nothing more than discarded orphans.
 
 (HOLD. The words hang in the silence. Lyra clutches her tighter, trembling, unable to answer. The gallery looms vast, the unfinished tapestry watching over them.)
 
