@@ -30,7 +30,7 @@ Zadie catches Aella's arm. They BURST into laughter, bodies pressed against a st
 
 **APARTMENT - PLUSHIE PILE** Evander's POV—ceiling spinning slowly. Colors breathing. A woman's face drifts into frame, smiling, distant.
 
-REVERSE - Evander sits up through a sea of stuffed animals. Bodies everywhere. A couple entwined on the couch. Someone dancing alone by the window, backlit. Two people deep in conversation, gesturing wildly about nothing.
+REVERSE - Evander sits up through a sea of stuffed animals. Jennifer and Mandy on either side. A couple entwined on the couch. Someone dancing alone by the window, backlit. Two people deep in conversation, gesturing wildly about nothing.
 
 Evander's hand reaches out—SLOW MOTION—fingers closing around a joint on the coffee table. He brings it to his lips. Lighter FLARES. Orange glow. Inhale. Hold. Exhale—smoke fills frame.
 
