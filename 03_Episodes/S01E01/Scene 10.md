@@ -58,7 +58,7 @@ Move through the club organism again.  Music. Bass. Dancing.  Lasers.  We are in
 
 **BACK AT BOOTH**
 
-(HOLD - The shift is sharp.  Jarring.)
+(HOLD - The shift in tension is sharp.  Jarring.)
 
 Adrian blinks, then forces an easy grin.
 
@@ -78,11 +78,15 @@ To stride into another kingdom uninvited, to sit upon its throne, whisper to its
 Confidence.  
 You should try it sometime.
 
-Val takes a sip from their glass.  Adrian is speaking directly in Candace's ear.  She is fully focused  on him. 
+Val takes a sip from their glass.  Adrian turns to Candace speaking directly in her ear.  She is fully focused  on him. 
 
 **VAL**  
 You say you arrive, Adrian —  
-but arrival is nothing.  
+
+Adrian returns his focus to Val.
+
+**VAL**
+... but arrival is nothing.  
 Anyone can cross a threshold,  
 sit where they don’t belong.
 
@@ -103,7 +107,7 @@ Another trip through the club. The vibe is dark. Ominous.  Claustrophobic.
 **VAL**  
 
 (they lean in, eyes steady)  
-Yes, Adrian… I know you.  
+Yes, Adrian… I know of you.  
 You and your brother.  
 Your millions of disciples — boys, mostly —  
 hungry for a father’s voice.  
@@ -114,7 +118,7 @@ Adrian's finger drumming against his glass.  Stills.
 (quiet, assured)  
 You grew up never quite good enough for your father.  
 Always chasing the nod, the hand on the shoulder that never came.  
-And now you  (beat) _arrive_ — loud, certain — so the room will give you what he wouldn’t.
+And now you (beat) _arrive_ — loud, certain — so the room will give you what he wouldn’t.
 
 Their tone softens, but the weight doesn’t ease.
 
@@ -134,7 +138,7 @@ A guest indulged only while you amuse.
 (leans in)  
 Bore me, presume beyond your station, and this kingdom will remind you how short a fall power really is.
 
-Adrian’s grin twitches, caught between laughter and fear.  
+Adrian’s grin twitches, caught between laughter and something else.  Uncertainty?
 He checks Cadence’s eyes — she’s silent, unsure which way to lean.
 
 (HOLD.  Dark Techno music is louder. Let the tension build. )
@@ -148,7 +152,7 @@ I’ve got another party waiting anyway. Tyla, you know the hot little singer fr
 He squeezes Cadence’s hand, flashes one last grin.
 
 **ADRIAN (cont’d)**  
-Pleasure. Nice empire you’ve got.
+Pleasure. Nice empire you’ve got here.
 
 He slips through the rope. The crowd folds around him instantly, hungry for the story he’s already retelling. His voice is swallowed by bass — distorted, mechanical, relentless.
 
