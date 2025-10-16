@@ -1,5 +1,7 @@
 ### **Scene Concept — “The Blackout” (mid-Season 4)**
 
+Always, always, always, never - The Details
+
 **Setting:** Evan’s high-rise apartment, Elysium District. Vast windows overlook the shimmering lattice of the central server farms — a skyline of vertical data towers glowing like artificial stars.
 
 **Mood:** Stillness after chaos. The power has failed across the city, but the heavens (the servers) still blaze.
