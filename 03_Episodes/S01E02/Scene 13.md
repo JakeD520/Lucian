@@ -61,4 +61,4 @@ Two people frozen in the glow of their creation, realizing it may already be out
 
 **FADE OUT.**
 
-**ROLL CREDITS.**
+**ROLL CREDITS.** STONE SOUR - THROUGH GLASS

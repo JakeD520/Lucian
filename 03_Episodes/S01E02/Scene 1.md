@@ -1,4 +1,4 @@
-### **NT. SYNAPSE BOARDROOM – NIGHT**
+### **NT. SYNAPSE BOARDROOM – NIGHT** (Stone Sour - Through Glass)
 
 The scene’s mid-meeting; you drop the audience _into_ it instead of starting at the top.  
 Screens glow. The hum of servers leaks through the glass.
