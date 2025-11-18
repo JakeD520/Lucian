@@ -2,7 +2,7 @@
 
 Bass thumps through velvet walls, muffled but constant — a heartbeat under every breath. Neon spills across low glass tables littered with half-empty bottles and scattered limes. The crowd beyond is all blur and strobe, but here, in the booth, time slows.
 
-The INTRUDER - ADRIAN and his companion are sitting across from them.  His arms stretched across the seat, his legs spread, one ankle resting on his knee ... taking up more space than necessary. 
+The INTRUDER - ADRIAN and his companion, CADENCE, are sitting across from them.  His arms stretched across the seat, his legs spread, one ankle resting on his knee ... taking up more space than necessary. 
 
 Val leans forward, voice steady, eyes warm.
 
@@ -17,12 +17,11 @@ Val’s smile curves; they tip the glass slightly, eyes never leaving hers.
 
 **VAL**  
 Pleased to meet you, Cadence.  
-(beat; turns back to the woman, not the man)  
+(beat)  
 Is he taking good care of you tonight?
 
-A subtle shift — focus on _her_, not _him._  
 Adrian catches it instantly.
-
+A subtle shift — focus on _her_, not _him._  
 He straightens, smooth grin sharpening.
 
 **ADRIAN**  
