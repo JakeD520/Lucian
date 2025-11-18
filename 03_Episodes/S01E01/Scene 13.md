@@ -41,6 +41,6 @@ Lyra's breath catches. She rests her forehead against Kaelarys', holding her a l
 (soft)  
 I love you too, sister.
 
-(HOLD — the two of them, huddled beneath the unfinished tapestry. Still. Safe. Together.)
+(HOLD — the two of them, huddled in front of the unfinished tapestry. Still. Safe. Together.)
 
 **CUT TO CREDITS — montage music rises, carrying us out.**
