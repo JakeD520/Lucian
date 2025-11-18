@@ -122,7 +122,7 @@ Kaelarys blinks, the compliment, and energy breaking the tension.
 Lyra…  
 
 **LYRA** (insistent, whisper-light)  
-Truly. Regal. Untouchable.  Like marble.
+Truly regal. Untouchable.  Like marble.
 (beat, teasing)  
 Very pretty marble.  
 
