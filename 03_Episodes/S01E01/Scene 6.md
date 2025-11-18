@@ -16,7 +16,7 @@ Why do we keep these here, anyway? Why in Serim?
 _(fond, almost rote)_  
 We always have. We capture creations at the pinnacle of their being… when they most fully embody their creator's vision.
 
-(HOLD. Kaelarys' voice lingers against the silence.)
+(Kaelarys' voice lingers against the silence.)
 
 **LYRA**  
 The pinnacle?  
@@ -60,7 +60,7 @@ That's not what we do, Lyra.
 (HOLD. Lyra absorbs it. Her playfulness ebbs away. Sit with Lyra internal shift)
 
 **LYRA**  
-The humans fill their world with works—paintings, poems, cathedrals. 
+The humans ... they fill their world with works—paintings, poems, cathedrals. 
 
 She turns slightly, catching her reflection on the marble floor.  She examines it, swaying gently, as if seeing herself for the first time.
 
@@ -77,13 +77,9 @@ But none of it is mine. The style, the ink, the songs I hum… all borrowed. Fro
 _(beat — quieter, her voice catching)_  
 It's like I'm only wearing the mask. Pretending to be what I can never really be.
 
-Her eyes glisten. She unconsciously balls her fist, nails biting into her palm.
-
 (HOLD. Kaelarys watches, face softening.)
 
-Kaelarys steps closer, slow, deliberate. She takes Lyra's hand, pries the fingers open gently, and traces the **star tattoo** there.
-
-(HOLD. Her thumb moves in slow circles.)
+Kaelarys steps closer, slow, deliberate. She takes Lyra's hand and traces the **star tattoo** there.
 
 **KAELARYS** (softly, comforting) 
 No, Lyra… don't you see?  
@@ -92,7 +88,7 @@ You are not only a creator.
 _(she meets her sister's eyes)_  
 You are the creation.
 
- Lyra's lips part. She doesn't pull away. She lets Kaelarys hold her.
+Lyra's lips part. She doesn't pull away. She lets Kaelarys hold her.
 
 **KAELARYS**  
 _(she glances up at the tapestry, then back to Lyra)_  
@@ -159,7 +155,7 @@ What you see in art—what moves you, what haunts you—
 _(quieter)_  
 That is you, Lyra. Your soul, answering theirs.
 
-(HOLD. She releases Lyra's hand, but the trace of her touch lingers.)
+(She releases Lyra's hand, but the trace of her touch lingers.)
 
 **KAELARYS** _(cont'd)_  
 That's why it matters. Not because it's new, but because it speaks. Because it connects.

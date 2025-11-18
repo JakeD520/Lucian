@@ -60,13 +60,16 @@ I’d have remembered seeing you here before. You’re not the sort to blend.
 
 _VAL lets the words hang, then laughs softly — not dismissive, but genuinely pleased. They tip their glass toward him._
 
-**VAL** How refreshing. Most men recite their triumphs. You lead with recognition.
+**VAL** 
+How refreshing. Most men recite their triumphs. You lead with recognition.
 
-**INTRUDER** Recognition IS the triumph, my friend. The rest is just fucking chatter.
+**INTRUDER** 
+Recognition IS the triumph, my friend. The rest is just fucking chatter.
 
-_VAL nods slowly, savoring the line. They like this man. They could like him a lot._
+VAL nods slowly, savoring the line
 
-**VAL** (leaning forward, conspiratorial) Then consider yourself (beat) recognized.
+**VAL** (leaning forward, conspiratorial) 
+Then consider yourself (beat) recognized.
 
 The INTRUDER grins.  Settling into the cushions a bit more confident.
 
@@ -104,7 +107,7 @@ But here’s the truth no one likes to admit — they took _because they had no 
 (beat, a faint smirk)
 
 **VAL**  
-Always hungry, always reaching.  (beat) The strong don’t need to seize. (beat) The weak… they compensate.
+Always hungry, always reaching.  (beat) The strong don’t need to seize. The world comes to them.(beat) The weak… they compensate.
 
 (Val sips, looks back at the Intruder, smile faint, unreadable.)
 
