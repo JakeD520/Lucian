@@ -96,7 +96,7 @@ Nope. Neither do I.
 He paces down the bench, knocking aside a half-painted mask.
 
 **REXUS** (cont’d, voice harder now)  
-I saw it coming. The fault line. Fifty years out, I could see the stress building.
+I saw it coming. The fault line. Twenty years out, I could see the stress building.
 
 (beat, swinging the saber idly)
 
@@ -122,7 +122,7 @@ Lucian glances at the blade in his hand.
 **LUCIAN** 
 Oh, this?
 
-His smile grows as he lifts the saber, presenting it with a sudden flourish. The motion is effortless, elegant — and for the first time, we glimpse how truly skilled he is. His stance alone betrays a history of precision.
+His smile grows as he lifts the saber, presenting it with a sudden flourish. The motion is effortless, elegant — and for the first time, we glimpse how truly skilled he is. His stance alone shows a history of precision.
 
 Rexus tilts his head, grin curling.
 
