@@ -87,7 +87,7 @@ That’s… a big family.
 
 **EVANDER**  
 Its what I know.  
-(beat, soft smile)  
+( soft smile)  
 Ours just… takes longer to get through dinner.
 
 She laughs, nestling back against him.  
@@ -107,7 +107,7 @@ She frowns — exaggerated, sweetly drunk empathy. Her palm rubs slow circles on
 **JENNIFER**  
 Boo, that’s so sad.  
 I’m sure they had their reasons.  
-(beat, earnest)  
+(earnest)  
 How are you with that?
 
 Evander smiles faintly, as if the question itself is adorable in its smallness.
@@ -229,7 +229,7 @@ Mandy leans down, kisses Jennifer lightly. Jennifer leans in, closes her eyes, s
 
 A smile spreads slowly across Evander's face.
 
-Jennifer's kiss moves to Evander — slow, deliberate. They kiss deeply. Then she begins her descent, kissing down his chest. Mandy moves up, lips finding Evander's mouth as Jennifer continues lower, passionately kissing down his body until she moves OUT OF FRAME.
+Jennifer's kiss moves to Evander — slow, deliberate. They kiss deeply. Then she begins to descend, kissing down his chest. Mandy moves up, lips finding Evander's mouth as Jennifer continues lower, passionately kissing down his body until she moves OUT OF FRAME.
 
 Evander leans back in ecstasy, eyes closed.
 
