@@ -36,7 +36,7 @@ I’d hang it here, with this tapestry. Why not?
 Yes… why not?
 
 (she steps nearer, gaze moving between Lyra and the tapestry)  
-I can almost see it — your colors spilling, refusing the old patterns.
+I can almost see it — your colors spilling, refusing old patterns.
 
 (beat — softer now) It would belong here.
 
