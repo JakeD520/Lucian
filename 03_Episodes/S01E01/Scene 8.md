@@ -140,18 +140,19 @@ Holy shit.
 **CAMERA SWEEP — THE ROOM:**  
 Packed wall to wall, maybe forty people, maybe more. Every color in motion — sequins, scarves, painted skin. A haze of incense and vape clouds. A surge of smiles and energy. It’s overwhelming and magnetic, like stepping into a festival compressed into a basement.
 
-A woman, gilded with floral garments and costume wings,  glides up to AELLA with a bracelet, presses it into her palm with a hug that lingers fractionally long.
+A woman, gilded with floral garments,  glides up to AELLA with a bracelet, presses it into her palm with a hug that lingers fractionally long.
 
 WOMAN  
 Welcome. Take one. Stay as long as you like.
 
-AELLA takes the bracelet, charmed. ZADIE is already being eye-balled — a topless reveler sidles in, half-dance.  She closes in on Zadie.
+AELLA takes the bracelet, charmed. ZADIE is already being eye-balled — a topless reveler with costume wings sidles in, half-dance.  She closes in on Zadie.
 
 ZADIE  
 (leaning away, grinning)  
 While I appreciate the attention, miss, I’m strictly cutting random grinding with forest nymphs out of my diet.  (beat) And carbs. Carbs are no bueno.
 
 The reveler laughs, tosses a handful of petals in his face, sashays off.
+
 **ZADIE**  
 (to himself, deadpan)  
 Welcome to the fever dream. Population: us.
@@ -161,7 +162,7 @@ Come on. This is amazing.
 
 She lets herself be pulled into a **brief dance** by a stranger — a messy, spinning twirl, more joy than grace. She laughs joyfully.
 
-Zadie watches, leaning against a post, pretending bored detachment. But the corners of his mouth twitch.
+Zadie watches, leaning against a post. The corners of his mouth twitch.
 
 **ZADIE**  
 (calling out)  
@@ -224,7 +225,7 @@ Beside him, a WOMAN draped in scarves moves with deliberate grace. She lowers he
 
 The crowd falls silent.
 
-Matty steps forward, deliberate. He clasps something in his hands, hidden, pressed to his chest. Crossed arms. Reverent.
+Matty steps forward, deliberate. He clasps something in his hands, hidden, pressed to his chest. Reverent.
 
 **CLOSE — AELLA**  
 Her breath catches. She can’t look away.
