@@ -76,7 +76,7 @@ They stitched their own wounds into history.
 
 **CUTAWAY – ECU THREADS. Pulled taut. Imperfect. Echoed across panels.**  
 SFX: Moans, swords clashing.  Battle sounds.
-(HOLD — let the fabric itself speak.)  
+(Let the fabric itself speak.)  
 
 Back to Kaelarys.
 
@@ -99,19 +99,16 @@ She turns to Kaelarys.
 **LYRA**  
 And you, Kaelarys? What was your frequency meant to be?  
 
-**ECU**: Kaelarys - looking inward. Eyes scanning.  
-(HOLD — almost too long.)  
+**ECU**: Kaelarys - looking inward. Eyes scanning. 
 
 **KAELARYS** (quiet)  
 I protect what must not be lost. I ensure... what is created endures.  
 Even when the creator is gone.
 
-WIDE SHOT: The entire tapestry, Alone... juxtaposed against the quiet, perfect setting of the gallery.
-
 Kaelarys holds her gaze on Lyra.
-(HOLD. She is not just speaking of artifacts.)  
+(She is not just speaking of artifacts.)  
 
-Lyra studies her in silence, reading the unspoken.)  
+Lyra studies her in silence.)  
 
 A slow, knowing smile curves across Lyra’s face.  
 She steps closer, a sudden move, clashing with the softness.  
@@ -127,7 +124,7 @@ Lyra…
 **LYRA** (insistent, whisper-light)  
 Truly. Regal. Untouchable.  Like marble.
 (beat, teasing)  
-Pretty marble.  
+Very pretty marble.  
 
 Kaelarys exhales — and this time, it breaks.  
 Her lips twitch, then curve into a reluctant smirk.  
@@ -149,7 +146,7 @@ Kaelarys raises her arms, pressing her hands against Lyra's arms.
 Lyra grins, emboldened. 
 
 **LYRA**
-Dance with me.
+Dance with me. Kaelarys.
 
 She steps back, takes Kaelarys' hands, trying to coax her into a slow spin.  
 Kaelarys resists, stiff, indulgent at best.
@@ -171,9 +168,7 @@ Lyra opens her eyes, laughs—delighted.
 **LYRA** (soft, joyful)  
 Protector. Preserver. Even of me.
 
-Kaelarys’ expression shifts; she cannot deny it.)  
-
-(Hold.  Kaelarys contemplating.)
+Kaelarys’ expression shifts; she cannot deny it.
 
 **KAELARYS**  
 (quiet, certain)  
@@ -197,6 +192,7 @@ She turns, almost twirling, then half-laughs to herself.
 **LYRA** (teasing, light, like a passing thought.)  
 I'm not even sure what He wants from us anymore.  
 (beat, playful)  
+I mean, He never really gave us instructions.
 What if I'm meant to be YOUR protector, pretty marble statue.
 
 Her soft laugh spills into a hum, dissolving into melody as she drifts away.  
@@ -208,7 +204,7 @@ Lyra's hum fades into the distance, swallowed by the gallery's vastness.
 
 Kaelarys turns back to the tapestry—but her eyes drift.
 
-She glances toward Lyra across the gallery. Distant now. Still humming.
+She glances toward Lyra dancing, humming.
 
 (HOLD. Kaelarys' expression—concern, unsure.)
 
