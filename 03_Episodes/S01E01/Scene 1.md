@@ -211,8 +211,7 @@ She glances toward Lyra dancing, humming.
 Her gaze lingers. Then slowly, she looks back to the tapestry.
 
 **CUT TO: ECU – PANEL 26.**
-
-A divine hand reaching from the sky.
+**A divine hand reaching from the sky.**
 
 (HOLD.)
 
