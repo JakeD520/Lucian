@@ -16,7 +16,7 @@ Think about it. Your home - whether that's a house, a neighborhood, a way of lif
 _His fingers gesture lazily, drawing invisible connections in the air._
 
 **EVANDER (CONT'D)** 
-The suburbanite who calls the cops on kids skating in "his" parking lot. The activist who doxxes people for using the wrong pronouns. The patriot who bombs abortion clinics. The liberal who tries to get people fired for old tweets. Different tribes, same fucking circuit firing.
+The suburbanite who calls the cops on kids skating in his parking space. The activist who doxxes people for using the wrong pronouns. The patriot who bombs abortion clinics. The liberal who tries to get people fired for old tweets. Different tribes, same fucking circuit firing.
 
 _He pauses, studying the joint like it contains cosmic wisdom._
 
@@ -55,7 +55,7 @@ _EVANDER, completely nude, sprawled luxuriously in what can only be described as
 
 Evander lowers the joint toward her. She takes a drag with practiced ease.
 
-_Nearby, another COUPLE lies among the plushies - the MAN strategically covering himself with what appears to be a large elephant plush toy, while his FEMALE PARTNER lies on her back, completely unselfconscious in her nudity._
+_Nearby, another COUPLE lies among the plushies - the MAN strategically covering himself with what a large elephant plush toy, while his FEMALE PARTNER lies on her back, completely unselfconscious in her nudity._
 
 _The entire scene is surreal, philosophical - like if Alan Watts had been reborn as a hedonistic guru in a toy store._
 

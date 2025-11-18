@@ -313,7 +313,7 @@ Lucian laughs.
 
 They stand. Head for the exit.
 
-**CUT TO BLACK**
+**FADE OUT**
 
 
 

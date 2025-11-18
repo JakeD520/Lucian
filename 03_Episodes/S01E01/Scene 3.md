@@ -14,7 +14,9 @@ These things will be soup before she comes back.
 
 She raises a hand for the WAITRESS—no dice.
 
-**AELLA** 
+(beat)
+
+**AELLA** (pondering)
 Do you have enhanced hearing?
 
 **ZADIE** (flat) 
@@ -28,7 +30,7 @@ More butter please!
 The waitress glances over, annoyed, vanishes toward the kitchen.
 
 **AELLA** 
-Jesus, Z. Great. Now she’s spitting in my butter.
+Jesus, Z! Great. Now she’s spitting in my butter.
 
 **ZADIE** (smirk) 
 Not gonna happen, Red. They only spit in items where the spittle can be obscured. Soup? Yup. Salad? Probably. Butter? Only a truly deranged server attempts a butter-spit. Too much surface area. No camouflage.
@@ -39,7 +41,7 @@ Not gonna happen, Red. They only spit in items where the spittle can be obscured
 Do you have a pouch?
 
 **ZADIE** (grinning) 
-Tragically. Entirely sans pouch.
+Tragically, Aella. Entirely sans pouch.
 
 **AELLA** 
 Fuck.
@@ -50,8 +52,6 @@ She shoves a bite in, unimpressed. He savors his coffee like it’s a retort.
 That’s— mm —nineteen, by the way.
 
 Aella narrows her eyes.
-
-(beat)
 
 **AELLA** 
 Why the fuck are we even here, Z? What’s your thing with these divey places?
@@ -90,7 +90,7 @@ She pauses.  Turns to Zadie.  Focused.
 Wait ... No.   A T-Rex?
 
 **ZADIE**(raising his fist in victory)
-And that's another win for me.
+And that's another win for me.  20 Questions champion of the world.
 
 A prolonged moment of silence.
 
@@ -109,7 +109,7 @@ What the fuck even is that, Z?
 Proteus anguinus A sad blind bastard of a salamander that lives in caves and hasn't seen sunlight in like a million years. Only found in—
 
 **AELLA**(cutting him off.  Wagging her fork at him)
-Uh, uh..That doesn’t count.
+Uh, uh, Zadie. That doesn’t count.
 
 **ZADIE**
 Oh….it counts.
@@ -151,7 +151,7 @@ She _yoinks_ the plate in one smooth swipe.  She raises the plate in triumph  an
 Aella slides back into the booth, her smile larger than life as she eyes her pancakes with newfound excitement.
 
 ZADIE (chuckling) 
-You’re an absolute menace.
+You’re an absolute menace, Aella.
 
 AELLA (smug) 
 That’s called initiative, my friend.
@@ -159,8 +159,6 @@ That’s called initiative, my friend.
 She slathers. Eats. 
 
 Lost in bliss, she does a little happy food-shimmy.
-
-(Hold on Aella's gleeful eating.)
 
 Zadie chuckles.  Takes a sip of his coffee. 
 
