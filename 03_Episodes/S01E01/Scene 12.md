@@ -10,7 +10,7 @@ Music EXPLODES.
 
 **MUSEUM PROP ROOM - BURST OF MOVEMENT** Doors SLAM open. Lucian and Rexus barrel out, prop swords gleaming under fluorescent lights. Staff member frozen, mouth agape.
 
-**HALLWAY - RUNNING** Lucian's feet POUNDING marble. Rexus behind him, gaining. Their breath visible in the cold air-conditioned space.
+**HALLWAY - RUNNING** Lucian's feet POUNDING marble. Rexus behind him, gaining. Both laughing like schoolkids.
 
 **LUCIAN SPINS** - half-speed, coat flaring.
 
@@ -30,23 +30,25 @@ Zadie catches Aella's arm. They BURST into laughter, bodies pressed against a st
 
 **CUT TO:**
 
-**APARTMENT - PLUSHIE PILE** Evander's POV—ceiling spinning slowly. Colors breathing. A woman's face drifts into frame, smiling, distant.
+**APARTMENT - PLUSHIE PILE** Evander's POV—ceiling spinning slowly. Colors breathing.
 
-REVERSE - Evander sits up through a sea of stuffed animals. Jennifer and Mandy on either side. A couple entwined on the couch. Someone dancing alone by the window, backlit. Two people deep in conversation, gesturing wildly about nothing.
+REVERSE - Evander sits up through a sea of stuffed animals. Jennifer and Mandy on either side. 
 
-Evander's hand reaches out—SLOW MOTION—fingers closing around a joint on the coffee table. He brings it to his lips. Lighter FLARES. Orange glow. Inhale. Hold. Exhale—smoke fills frame.
+Someone dancing alone by the window, backlit. Two people deep in conversation, gesturing wildly about nothing.
+
+Evander's hand reaches out—SLOW MOTION—fingers closing around a joint in an ashtray. He brings it to his lips. Lighter FLARES. Orange glow. Inhale. Hold. Exhale—smoke fills frame.
 
 **CUT TO:**
 
-**CLUB - VIP SECTION** PUSH IN on Val's face. That smirk. Adrian's silhouette disappearing into the crowd below. Val leans back, scotch in hand.
+**CLUB - VIP SECTION** PUSH IN on Val's face. That smirk. Adrian's silhouette disappearing into the crowd. Val leans back, scotch in hand.
 
-Below him: CHAOS. Bodies moving. Lights strobing. Bass THUMPING through everything.
+Around him: CHAOS. Bodies moving. Lights strobing. Bass THUMPING through everything.
 
 Val raises his glass slightly. Victory.
 
 **CUT TO:**
 
-**MUSEUM GALLERY - WIDE OVERHEAD SHOT** Kaelarys crumpled in Lyra's arms. The Bayeux Tapestry stretches across the entire background—medieval figures frozen in their ancient war.
+**MUSEUM GALLERY - WIDE OVERHEAD SHOT** Kaelarys wrapped in Lyra's arms. The Bayeux Tapestry stretches across the entire background—medieval figures frozen in their ancient war.
 
 Just music.
 
@@ -60,7 +62,7 @@ Lyra's hand strokes Kaelarys' hair.
 
 Patrons TURN—
 
-An elderly woman clutches her pearls.
+An elderly woman clutches her purse.
 
 A teenager pulls out his phone, filming.
 

@@ -48,20 +48,14 @@ You think so? Truly?
 Then maybe it wouldn’t just be mine. Maybe it would be ours.
 
 **KAELARYS**  
-(tilts her head, warmed by Lyra’s spark)  
-Ours, yes.  
-A new breath woven into the old.
-
-**KAELARYS**  
 (quiet, touched)  
 Ours… yes. 
 
-She spins, hands sketching invisible brushstrokes in the air.
+Lyra spins, hands sketching invisible brushstrokes in the air.
 
 Kaelarys watches.  
 
-(she lifts a hand, mirroring Lyra’s gesture, stopping just short of the tapestry’s threads)  
-Your wild blues against their solemn reds… I can almost see it.
+She lifts a hand, mirroring Lyra’s gesture, stopping just short of the tapestry’s threads.
 
 Her hand moves, slow. Fingers hover just above the tapestry — tracing the outline of a figure without touching.
 
@@ -109,19 +103,16 @@ Unfinished. Yes. Strange that they would leave it so.
 Didn’t even stay to see it through.  
 Didn’t even wait… to see what it became.
 
-**LYRA**  
-(confused, watching her closely)  
-Kaelarys…?
+Lyra listens.
 
-**KAELARYS**  
-(voice sharpening, gaining momentum)  
+**KAELARYS**   
 We preserve it.  
 We study it.  
 We call it whole.
 
-(Her breath quickens, tone rising)
+(Her breath quickens)
 
-As though the absence was holy!
+As though the absence was holy.
 
 **LYRA**  
 (steps closer, unsettled)  
@@ -143,17 +134,17 @@ He didn’t even wait to see what we became.
 Who?  The embroiderers?  What  are -
 
 **KAELARYS**(cutting Lyra off)
-No!  Him!  The Architect.  He made us and then just ...
+No.  Him.  The Architect.  He made us and then just ...
 
 **LYRA**  
-(reaches out, desperate)  
-Kaelarys—stop. The Architect gave you purpose—
+(reaches out, gently)  
+Kaelarys. The Architect gave you purpose—
 
 **KAELARYS**  
-(cuts her off again, fierce)  
+(cuts her off)  
 Purpose? 
 
-(HOLD. Lyra recoils. Kaelarys presses her palm against the tapestry, trembling.)
+(HOLD. Lyra recoils. Kaelarys presses her palm against the tapestry.)
 
 We are the loose threads, Lyra.  
 We are the unfinished embroidery.  
@@ -162,24 +153,11 @@ Fraying at the edge.
 (HOLD — silence stretches. Lyra’s face stricken.)
 
 **LYRA**  
-(forced calm)  
-Kaelarys, please—stop. You’re frightening me.
-
-**KAELARYS**  
-(turns on her, sharp, accusing)  
-Frightening you?
-
-(steps closer, eyes blazing)
-
-You want me to comfort—say words that fit. Neat little lines you can recite.  
-That’s not truth, Lyra. That’s a lullaby.
-
-**LYRA**  
-(stammering, desperate)  
+(Calmly)  
 No—He _sees_. The Architect always sees. He gave you your resonance, your—
 
 **KAELARYS**  
-(interrupts, raw)  
+(interrupts)  
 My burden. My emptiness.
 
 (Her voice cracks, brittle with frustration.)
@@ -188,20 +166,15 @@ What if He never meant to be with us?
 What if we’re nothing more than scraps He abandoned?
 
 **LYRA**  
-(tearful)  
-No—don’t say that. Please don’t.
+No—don’t say that.
 
 **KAELARYS**  
 (softer, quieter)  
-It's true.
+It's true. He didn’t stay.
 
-(Her rage falters; breath shakes. She clutches the tapestry.)
+(Silence floods the gallery.)
 
-…He didn’t stay.
-
-(Her knees buckle slightly; she braces against the fabric. Silence floods the gallery.)
-
-Lyra, from behind,  places her hands on Kaelarys' shoulders.  Steadying her.
+Lyra, from behind,  places her hands on Kaelarys' shoulders.
 
 **LYRA** (softly)
 Kaelarys… don’t lose yourself. Remember The Pattern.
@@ -211,7 +184,7 @@ Kaelarys… don’t lose yourself. Remember The Pattern.
 It’s written into everything. Every path, every choice, every end. It doesn't fail us.
 
 **KAELARYS**  
-(lifts her head slowly — her voice rough, bitter)  
+(lifts her head slowly)  
 The Pattern.
 
 (she laughs once, hollow)
@@ -219,45 +192,12 @@ The Pattern.
 We say it cannot lie.  
 That it charts the future like scripture.
 
-(beat — her hand tightens on the threads)
+(beat — her hand gestures to the final panel)
 
 But look here, Lyra.
 
 The Pattern did not finish this tapestry.  
 The Pattern did not stay when He left.
-
-**LYRA**  
-(pleading, stepping closer)  
-It _is_ His hand! The Architect’s gift—guidance, law, truth—
-
-**KAELARYS**  
-(spins on her, furious)  
-Law? Truth?
-
-(shouting now)
-
-It is numbers, Lyra.  
-Probabilities.
-
-(beat — softer, biting)
-
-A mirror.
-
-(Her eyes blaze, stepping closer)
-
-We follow it like a map.  
-Bow to it like it loves us.
-
-But The Pattern does not love us.  
-It does not see us.
-
-**LYRA**  
-(tearful)  
-Without it, we’re lost! We would scatter, fall apart—
-
-**KAELARYS**  
-(cuts her down, voice fierce, almost breaking)  
-Without it… (her voice calms ) we are free.
 
 (HOLD — silence. The words echo in the marble hall. Lyra recoils as though struck.)
 
@@ -271,32 +211,13 @@ It only predicts.
 And what is a prophecy worth…  
 if the one who wrote it is already gone?
 
-(HOLD — her shoulders sag. The fight drains into dread. She sways, then her knees give. Kaelarys drops, crumpling to the marble floor.)
-
-**LYRA**  
-(gasping, rushing forward)  
-Kaelarys!
-
-(she falls to her knees, catching her sister in her arms, holding her close)
+Lyra wraps her arms around her sister, from behind, hugs her tightly.
 
 **KAELARYS**  
 (breath ragged, voice breaking )  
 He’s never coming back.
 
 (beat — she grips Lyra’s hand, eyes wet)
-
-**KAELARYS**  
-Abandoned in His half-made world,  
-clinging to silence as if it were love.
-
-(beat — her voice drops, trembling)
-
-We elevate ourselves above the humans. 
-We watch them as if our existence is superior.
-We live as gods…  
-but (beat) we’re nothing more than discarded orphans.
-
-(HOLD. The words hang in the silence. Lyra clutches her tighter, trembling, unable to answer. The gallery looms vast, the unfinished tapestry watching over them.)
 
 **CUT TO: MONTAGE.**
 
