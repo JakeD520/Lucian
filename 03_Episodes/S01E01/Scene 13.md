@@ -2,7 +2,7 @@ Bridge of montage, volume drops-
 
 **INT. SERIM GALLERY – TIMELESS**
 
-Kaelarys rests in Lyra’s arms, her head against her sister’s chest. Her eyes are open, calm but wet, fixed on the tapestry’s unfinished edge. Lyra gently strokes her hair, steady and tender.
+Kaelarys stands in Lyra’s arms. Her eyes are open, calm but wet, fixed on the tapestry’s unfinished edge. Lyra gently strokes her hair, steady and tender.
 
 ---
 
@@ -18,7 +18,7 @@ Kaelarys exhales—a quiet, broken chuckle.
 
 (beat)
 
-She tilts her head up slightly, looking at Lyra. Her sister's face—calm, steady, still holding her.
+She turns to face Lyra. Her sister's face—calm, steady, still holding her.
 
 **KAELARYS**  
 (quieter now, raw)  
@@ -35,7 +35,7 @@ Lyra's smiles. Tender. She strokes Kaelarys' hair once more.
 (barely a whisper)  
 I love you.
 
-Lyra's breath catches. She leans down, resting her forehead against Kaelarys', holding her a little tighter.
+Lyra's breath catches. She rests her forehead against Kaelarys', holding her a little tighter.
 
 **LYRA**  
 (soft)  
