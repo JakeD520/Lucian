@@ -86,11 +86,7 @@ To make something of your own.
 **KAELARYS**  
 (steady, measured, breaking the silence.)  
 The Normans began this work with such certainty. A grand vision.
-
-(she gestures faintly at the tapestry)
-
 And yet… they left it hanging.
-
 They didn’t finish. They slipped away.
 
 Lyra, captured by Kaelarys' sudden words, stops dancing. Turns towards Kaelarys.
@@ -107,7 +103,6 @@ Lyra listens.
 
 **KAELARYS**   
 We preserve it.  
-We study it.  
 We call it whole.
 
 (Her breath quickens)
@@ -118,16 +113,15 @@ As though the absence was holy.
 (steps closer, unsettled)  
 Kaelarys?
 
-Lyra moves towards Kaelarys, with urgency.
+Lyra moves towards Kaelarys.
 
-**KAELARYS**  
-(turning, eyes burning)  
+**KAELARYS**   
 He didn’t stay.
 
 **LYRA** (reaching out to her sister)
 Kaelarys, what's wrong?
 
-**KAELARYS**() trembles)
+**KAELARYS**(trembles)
 He didn’t even wait to see what we became.
 
 **LYRA** (worried, confused)
@@ -141,14 +135,13 @@ No.  Him.  The Architect.  He made us and then just ...
 Kaelarys. The Architect gave you purpose—
 
 **KAELARYS**  
-(cuts her off)  
+(cuts her off again)  
 Purpose? 
 
-(HOLD. Lyra recoils. Kaelarys presses her palm against the tapestry.)
+(HOLD. Lyra recoils. Kaelarys presses her palm against the tapestry, making contact with it for the first time.)
 
 We are the loose threads, Lyra.  
 We are the unfinished embroidery.  
-Fraying at the edge.
 
 (HOLD — silence stretches. Lyra’s face stricken.)
 
@@ -157,10 +150,7 @@ Fraying at the edge.
 No—He _sees_. The Architect always sees. He gave you your resonance, your—
 
 **KAELARYS**  
-(interrupts)  
-My burden. My emptiness.
-
-(Her voice cracks, brittle with frustration.)
+(interrupts, her voice cracks, brittle with frustration.)
 
 What if He never meant to be with us?  
 What if we’re nothing more than scraps He abandoned?
