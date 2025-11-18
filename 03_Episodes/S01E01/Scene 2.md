@@ -1,8 +1,7 @@
 EXT. PALAIS GARNIER – NIGHT
 
 Paris. A palace of light.  
-Statues glint gold against the facade, columns bathed in amber glow.  
-Carriages and black cars line the boulevard.  
+Statues glint gold against the facade, columns bathed in amber glow.   
 
 Patrons ascend the marble steps — gowns sweeping, tuxedos gleaming.  
 A night to be seen.  
@@ -55,7 +54,7 @@ Handsome. Tailored suits—but Rexus' tie is loosened, top button undone. Lucian
 
 They look like they wandered into a wedding reception and decided to stay.
 
-Champagne glasses. Rexus has his feet propped on the railing (scandalous).
+Champagne glasses. Rexus has his feet propped on the railing.
 
 They're watching the stage—but casually. Like you'd watch a rerun of a show you love.
 
@@ -72,8 +71,6 @@ Better than last season.
 They settle back. Comfortable. The opera continues.
 
 **In the neighboring box:**
-
-**In the neighboring box:**  
 
 CHARLOTTE, mid-20s, beautiful, polished. The kind of beauty trained to withstand scrutiny.  
 Her dress is expensive but understated — nothing that could spark gossip.
@@ -99,7 +96,7 @@ He catches her eye. Holds it.
 
 Charlotte smiles—quick, then looks away. But she looks back.
 
-Marshall notices immediately. His jaw tightens.
+Marshall notices immediately. He clocks Rexus. His jaw tightens.
 
 (The opera continues. The soprano's voice tender, building.)
 
@@ -110,17 +107,26 @@ She bites back a smile. Glances at Marshall, then back.
 **REXUS** (to Lucian, still watching her)  
 She has Taresh's smile.
 
-**LUCIAN** (glances at him, recognizing the name)  
-Taresh...from Crete?
+(Beat)
 
-**REXUS** (grin softening, nostalgic)  
+**LUCIAN** (glances at him, recognizing the name)  
+Taresh...from Crete?  
+
+He pauses...second-guesses himself, then proceeds anyway.
+
+**Lucian**
+The earthquake.
+
+Rexus pauses.  His smile falters a bit, but he shakes it off quickly.
+
+**REXUS** (nostalgic)  
 Yeah. That same... I don't know. Mischief hiding behind manners.
 
 Charlotte tilts her head slightly—curious about him.
 
-Rexus mouths something. She can't quite make it out, squints, smiles anyway.
+Rexus locks eyes with her. She smiles and coyly looks away.
 
-**REXUS** (to Lucian, still playing)  
+**REXUS** (to Lucian, still looking at Charlotte)  
 Taresh used to do that too. This look like she was deciding whether I was worth the trouble.
 
 **LUCIAN**  
@@ -135,7 +141,7 @@ For a while, anyway.
 
 Marshall leans toward Charlotte, whispers something. Warning.
 
-Charlotte nods—polite, dismissive—doesn't look away from Rexus.
+Charlotte nods—polite, dismissive.
 
 **REXUS** (watching, amused)  
 Her people had these... advisors too.  Always hovering. Always worried she'd make the wrong choice.
@@ -199,7 +205,7 @@ Yeah. I can never follow it like you can, Lucian. Sure, I see it. But not like y
 Charlotte rises. Marshall's hand on her elbow, guiding.
 
 **REXUS** (watching her stand)  
-With Taresh... I thought I could see enough. Her city, her people—I knew what was coming. I had fifty years to figure it out
+Like, with Taresh. I thought I could see enough. Her kingdom, her people—I knew what was coming.  Saw the fault line stressing.  Almost immediately after meeting her.
 
 Charlotte looks back one last time. Apologetic smile.
 
@@ -210,18 +216,21 @@ She waves back—coy, a little regretful.
 Then she's gone.
 
 **REXUS** (still watching the empty doorway)  
-Turns out fifty years isn't long at all.
+I had twenty years to figure out how to save her.
 
 (pause, the grin fading)
 
-Not when you've lived millions.
+Lucian watches silently.  Listening.
+
+**Lucian**(consoling)
+Rexus,  we chose to not intervene.  We let the humans live their lives as they choose.
 
 Rexus settles back in his seat. The playfulness drains.
 
 **REXUS** (indifferent)  
-I wanted to stay with her.
+I wanted to stay with her.  Follow her until that fucking quake sunk her entire world.
 
-Lucian looks at him. This is new.
+Lucian looks at him.
 
 Rexus takes a sip of champagne.
 
@@ -303,5 +312,8 @@ Rexus grabs it. Chugs that too.
 Lucian laughs.
 
 They stand. Head for the exit.
+
+**CUT TO BLACK**
+
 
 
