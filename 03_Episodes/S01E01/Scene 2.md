@@ -205,7 +205,7 @@ Yeah. I can never follow it like you can, Lucian. Sure, I see it. But not like y
 Charlotte rises. Marshall's hand on her elbow, guiding.
 
 **REXUS** (watching her stand)  
-Like, with Taresh. I thought I could see enough. Her kingdom, her people—I knew what was coming.  Saw the fault line stressing.  Almost immediately after meeting her.
+Like, with Taresh. I thought I could see enough. Her kingdom, her people—I knew what was coming.  Almost immediately after meeting her.
 
 Charlotte looks back one last time. Apologetic smile.
 

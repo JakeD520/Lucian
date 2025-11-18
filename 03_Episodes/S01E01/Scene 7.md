@@ -24,7 +24,7 @@ Lucian hesitates just a breath, then follows him through.
 
 **INT. BACK-OF-HOUSE – SERVICE CORRIDOR – NIGHT**
 
-The shift is instant. Velvet and marble give way to raw plaster, exposed pipes, the hum of machinery. The air smells faintly of dust and rosin. Fluorescents buzz overhead, casting everything in stark, unflattering light.
+The shift is instant. Velvet and marble give way to raw plaster, exposed pipes, the hum of machinery.  Fluorescents buzz overhead, casting everything in stark, unflattering light.
 
 They move past stacked flight cases, wheeled risers, signage taped to the wall in Sharpie: **“ACT II – STAGE LEFT”**, **“COSTUMES TO GREEN ROOM.”**
 
@@ -61,7 +61,7 @@ A long beat.
 Finally, Rexus exhales, voice softer than usual.
 
 **REXUS** (shrugging, as if finishing a story mid-thought)  
-Yeah. I wanted to stay with Taresh.
+Yeah. As I was saying, I wanted to stay with Taresh.
 
 He moves on, absently toying with numerous props.
 
@@ -75,8 +75,6 @@ I wanted what she had. That... weight. Where things _matter_ because they're sli
 Turns out infinity flattens everything.
 
 Lucian watches from the threshold. He doesn’t interrupt — just lets Rexus talk, lets him drain it out.
-
-(Hold)
 
 **REXUS** (flat, like wrapping up a thought)  
 I kept thinking… what if I just became like her? What if I stopped being… this?
