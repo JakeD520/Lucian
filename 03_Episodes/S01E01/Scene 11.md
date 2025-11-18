@@ -59,7 +59,7 @@ She lifts a hand, mirroring Lyra’s gesture, stopping just short of the tapestr
 
 Her hand moves, slow. Fingers hover just above the tapestry — tracing the outline of a figure without touching.
 
-Her eyes track the weave. Threads tight. Colors bleeding.
+Her eyes track the weave as she walks along. Threads tight. Colors bleeding.
 
 **SFX:** Lyra keeps talking, bright, her words spilling. The words are muddled, as if far away.
 
