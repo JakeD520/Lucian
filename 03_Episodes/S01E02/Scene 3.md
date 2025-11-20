@@ -1,36 +1,49 @@
-### **SCENE 3 — ARIS / OFFICE – NIGHT**
+ **INT. SYNAPSE DYNAMICS — ARIS THORNE’S OFFICE — NIGHT**
 
-**INT. SYNAPSE DYNAMICS – ARIS THORNE’S OFFICE**
+The building rests in low hum.  
+Aris’s office glows softly — enough to see, not enough to feel awake.
 
-Late. Everyone’s gone.  
-The glass walls catch the city’s glow, but the room feels small, personal—books stacked, two mugs, a jacket over a chair.
+He’s sitting near the window, slouched slightly, tension still coiled in his shoulders.
 
-Aris sits by the window, not at his desk.  
-The presentation tablet lies unopened on the table beside him.  
-He’s looking at his reflection in the glass, half-there in the lights outside.
+The photo on the sill catches a glint of city light.
+
+He looks at it.  
+Just looks.
+
+Then — a flicker of shame or exhaustion crosses his expression.  
+He reaches out and **turns the frame face-down**.
 
 A beat.
 
-He takes off his badge, sets it beside the mug.  
-The small gesture lands heavier than it should.
+Something about it feels wrong.
 
-He rubs his eyes, leans back, lets the silence settle.  
-The tension of the boardroom is still in his shoulders.
+Aris stares at the inverted rectangle, frowning — not at the photo, but at himself.
 
-On the windowsill: a framed photo—fieldwork in Africa, a circle of villagers mid-laughter.  
-He turns it face-down for a moment, then flips it upright again.
+His gaze moves towards the window - his reflection.  He looks deeply at himself.
 
-> **ARIS**  
-> (quiet, almost to himself)  
-> We meant to make things gentler.  
-> So why does it already feel heavier?
+He reaches out, picks up the frame.
 
-He smiles at the absurdity of hearing his own voice in the empty room, then stops smiling.  
-The quiet hum of the building answers nothing.
+Holds it.
 
-He gathers his coat, hesitates at the door, looks back once—  
-the office half-lit, a good man trying to believe in what he’s building.
+The image:  
+Him younger, dusty, laughing in the middle of a village.  
+A cluster of children tugging at his sleeve, pulling him into a game.  
+One kid’s face mid-laugh, another climbing him like a tree.  
+Aris’s own expression — mock exasperation, hand up like _“wait, hold on”_,  
+but his smile betrays how much he loves this moment.
 
-He turns off the light.
+Aris touches the glass with two fingers.  
+His thumb grazes the younger version of himself — a man who didn’t carry this weight.
 
-**FADE OUT.**
+A small smile breaks through.  
+Brief.  
+Real.
+
+He inhales — deeper than before.  
+Something in him steadies.
+
+He gently sets the photo back on the sill.  
+Not perfectly aligned.  
+Just _placed_ — with intention, with softness.
+
+**CUT TO BLACK.**

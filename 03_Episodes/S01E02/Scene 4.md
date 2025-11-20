@@ -1,73 +1,167 @@
-### **SCENE 4 — SARA’S OFFICE / MORNING**
+### **INT. SYNAPSE DYNAMICS – ETHICS DIVISION – SARA’S OFFICE**
 
-**INT. SYNAPSE DYNAMICS – SARA KEENE’S OFFICE**
+Sara’s office is messy in a charming way — notebooks stacked, empathy maps sketched on a whiteboard, a mug half-full of cold coffee. The door is open, sunlight drifting across her desk.
 
-Soft morning light, coffee steam curling from a mug.  
-Sara’s space feels lived-in compared to the rest of the glass palace—plants, half-read books, sticky notes layered like thoughts in motion.
+She flips through usage data, brow furrowed.  
+A soft knock interrupts.
 
-A light knock.
+**ARIS**  
+Morning.
 
-> **ARIS**  
-> Morning.
+Sara looks up — surprised but pleased.
 
-She looks up, smiles—real warmth, not formality.
+**SARA**  
+You actually made it out of Elise’s black hole of despair.  
+Impressive.
 
-> **SARA**  
-> You survived Elise?
+Aris steps in, closes the door halfway — not fully, but enough to create a quieter bubble.
 
-> **ARIS**  
-> Barely.  
-> (beat)  
-> This deadline, Sara… the tech’s ready, but the usage patterns—  
-> it’s not enough time.  
-> Tell me I’m wrong.
+He exhaled on the way here; you can see it.
 
-She studies him, the way people do when they already know the answer.
+**ARIS**  
+She wants the rollout tightened.  
+Again.
 
-> **SARA**  
-> You’re not.  
-> I’m still seeing concerning trends.  
-> Not bugs—behavior.  
-> Patterns not unlike substance abuse.  
-> It worries me, Aris.
+Sara rubs her temple.
 
-He nods, quiet; not defensive, just absorbing it.
+**SARA**  
+Of course she does.  
+And the data still looks…  
+(gestures vaguely)  
+Off.  
+Like gravitational pull off.
 
-> **ARIS**  
-> It should.  
-> (after a beat)  
-> I’ll talk to Elise again, try to buy us breathing room.
+He nods.  
+They both know what she means.
 
-> **SARA**  
-> You won’t get it.
-> 
-> **ARIS**  
-> Probably not.  
-> (small smile)  
-> But you worry; I negotiate.  
-> It’s how we make progress.
+A beat.
 
-She shakes her head, still smiling—this is their rhythm.
+**ARIS**  
+I’ll go back to her later. Try for more time.
 
-> **SARA**  
-> Just don’t let progress look like dependency.
+**SARA**  
+Aris…  
+(small laugh, resigned)  
+You’re not going to get it.
 
-> **ARIS**  
-> Deal.
+**ARIS**  
+Yeah. I know.  
+(beat)  
+But we have to try.
 
-A small silence—comfortable, mutual respect intact.
+This is familiar territory — the “we push / they push back” dance they’ve done for years.  
+But Sara watches him more closely today.
 
-He glances at her desk, the mess of empathy charts and handwritten notes.
+She tilts her head.
 
-> **ARIS**  
-> You should eat something before noon.
+**SARA**  
+Hey.  
+(softer)  
+How are _you_ though?
 
-> **SARA**  
-> You should listen to your own advice.
+Aris freezes for half a breath — like he wasn’t expecting the question in the middle of metrics and corporate fires.
 
-Their smiles linger, faint but genuine.
+**ARIS**  
+I’m—  
+(he searches for accuracy rather than instinct)  
+—I’m okay.
 
-He leaves; the door hisses shut.  
-Sara exhales, looks back at her screen—the warmth gone, replaced by that quiet worry only she admits to herself.
+Sara raises an eyebrow.
 
-**FADE OUT.**
+Not buying it.
+
+**SARA**  
+Aris.
+
+He exhales — not a breakdown, just… honesty.
+
+**ARIS**  
+Last night was…  
+(he smiles, self-deprecating)  
+long.  
+That’s all.
+
+Sara studies him.  
+He doesn’t look broken.  
+He just looks like a man carrying a lot he won’t set down.
+
+She softens.
+
+**SARA**  
+Well…  
+you can talk to me, you know.
+
+Aris meets her eyes — the contact holds a beat too long, but neither pulls away.
+
+**ARIS**  
+I know.  
+(quiet, sincere)  
+Thank you.
+
+Sara smiles gently.
+
+**SARA**  
+Now sit before you fall over.  
+You look like you slept inside a spreadsheet.
+
+**ARIS**  
+I did not—  
+(beat)  
+…completely.
+
+She gives him a look.  
+He gives the smallest laugh — rare, but real.
+
+Aris sits.  
+The tension in the room dissolves into something warmer.
+
+He glances at her desk — sticky notes about “ethical thresholds,” “user mirroring,” “dependency vectors.”
+
+**ARIS**  
+You’re carrying a lot too.
+
+**SARA**  
+We’ll figure it out.
+
+**ARIS**  
+We always do.
+
+A silence — comfortable, shared.
+
+Then—
+
+Jian’s voice erupts faintly from down the hallway:
+
+**JIAN (O.S.)**  
+MARISOL, DON’T GASLIGHT ME, THAT WAS DEFINITELY NOT A PLAIN BAGEL!
+
+Aris and Sara both break into smiles — involuntary, synchronized.
+
+**SARA**  
+You want coffee?  
+I’m making another round.
+
+**ARIS**  
+Yeah.  
+Thanks.
+
+He stands to go — then pauses at the doorway.
+
+Turns back.
+
+**ARIS**  
+(soft)  
+I’m good…  
+because you’re here, Sara.
+
+Sara blinks — not flustered, just hit somewhere honest.
+
+A tiny smile.
+
+**SARA**  
+Go.  
+Before Jian bursts in and kills the moment.
+
+Aris nods, stepping out as Sara returns to her chair — her expression shifting from warmth back to subtle worry, but steadier than before.
+
+### **FADE OUT.**

@@ -1,4 +1,4 @@
-### **EXT. SERIM – QUIET HORIZON**
+ **EXT. SERIM – QUIET HORIZON**
 
 Endless light. Ocean breathing far below.  
 Lucian stands at the railing — still as carved air.
@@ -29,7 +29,7 @@ With the humans.
 Evander’s expression softens — unsurprised.
 
 **EVANDER**  
-The humans always have dissonance, brother.  
+The humans always have dissonance.  
 Noise, harmony, collapse, miracle.  
 They adapt. They overcome.  
 It’s their way.
@@ -77,6 +77,9 @@ Let the future arrive when it’s ready.
 
 Lucian doesn’t move. He softens — barely.
 
+Evander turns and walks off.  Lucian pauses, then turns, accompanies Evander.
+They walk away from the balcony into a grand space.
+
 Evander reaches into a small leather pouch.
 
 **EVANDER**  
@@ -117,7 +120,7 @@ This shadow feels loud.
 Like something they believe they’re holding,  
 even when it isn’t there.
 
-Evander taps ash over the cliff.
+Evander taps ash into a nearby flowerpot.
 
 **EVANDER**  
 Shadow, symbol, object — doesn’t matter.  
@@ -127,13 +130,12 @@ Let them.
 Lucian draws slow, contemplative.
 
 **LUCIAN**  
-When the illusion becomes the thing they trust…  
-the Pattern bends around it.
+When the illusion becomes the thing they trust… 
 
-Evander shrugs, inspecting the cigar wrapper.
+Evander shrugs, inspecting the cigar.
 
 **EVANDER**  
-Patterns bend.  
+Illusions bend.  
 You stare long enough, you’ll find earthquakes in the grain.
 
 Lucian looks at him — not annoyed, just tired.
@@ -146,23 +148,6 @@ Watching isn’t worrying, brother.
 You confuse the two.
 
 Lucian says nothing — which says everything.
-
-They smoke in silence.  
-Two gods.  
-Two wavelengths.
-
-Evander finally nods at Lucian’s ember.
-
-**EVANDER**  
-Don’t stare at it like it’s an omen.  
-It’s a cigar.  
-Let the future arrive when it’s ready.
-
-Lucian takes one last drag.
-
-**LUCIAN**  
-(quiet)  
-That’s what I’m deciding.
 
 They stand together, ocean breathing below.  
 Smoke rising into a sky that suddenly feels less certain.

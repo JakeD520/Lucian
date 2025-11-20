@@ -118,7 +118,7 @@ A totally ordinary house.
 
 A couple sits on a couch, TV casting harsh reality show light across their faces.
 
-**MARK** (40, beer resting on belly) watches casually.  
+**MARK** (40, beer in hand) watches casually.  
 **JESS** (late 30s, scrolling on her phone) glances up at the screen.
 
 On the TV: Kelsey still crying, face buried in her hands.
