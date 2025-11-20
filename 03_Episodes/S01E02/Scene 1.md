@@ -1,122 +1,160 @@
-### **NT. SYNAPSE BOARDROOM – NIGHT** (Stone Sour - Through Glass)
+### **INT. SYNAPSE BOARDROOM — DAY**
 
-The scene’s mid-meeting; you drop the audience _into_ it instead of starting at the top.  
-Screens glow. The hum of servers leaks through the glass.
+**ECU — “OLYMPUS MEETING ROOM” placard.**
 
-**ELISE DEVEREAUX** (50s, precise, intimidating elegance) sits at the head of the table.  
-**ARIS THORNE** halfway down, sleeves rolled, posture composed.  
-**SARA KEENE** beside him, notes open, watching the data pulse across the wall.
+Camera glides to the glass wall — **a meeting already in motion.**  
+Mouths move in silence.  
+Screens pulse with data.  
+We’re **watching** before we’re _listening._
 
-Elise finishes a sentence we’ve already missed — we enter on _momentum._
+**Push through the glass** — sound slams in mid-sentence:
 
-> **ELISE**  
-> —which is why the board wants a clear path to rollout.  
-> _(beat)_  
-> Dr. Thorne, your team is confident you can deliver?
+**ELISE DEVEREAUX**  
+—so the board expects decisive clarity on the rollout.  
+(beat, razor calm)  
+Dr. Thorne. Are you confident your division is aligned?
 
-Aris answers easily, the way a person with authority would.
+**ARIS THORNE**  
+Yes. Mostly.  
+(glances to Sara)  
+A few things we need to assess before we move forward.
 
-> **ARIS**  
-> We’re close.  
-> _(glances to Sara)_  
-> Still working through a few concerning ethical issues.  
-> _(turns back)_  
-> Sara, you can speak on that.
+He offers the floor without ceremony.
 
-He hands her the room, not as deference but partnership.  
-The gesture tells us: he’s in charge; she’s trusted counsel.  
-They’ve done this before.
+**SARA KEENE**  
+The model’s not malfunctioning.  
+It’s… overperforming.  
+(beat)  
+It mirrors users too well.  
+They fall into emotional sync loops — idealization, entanglement… even grief displacement.
 
-Sara doesn’t need to posture. She just talks.
+A stir around the table.
 
-> **SARA**  
-> The issue isn’t speed. It’s conditioning.  
-> The model learns empathy so well that users start to mirror it back.  
-> Which is beautiful — until it’s not.  
-> _(beat)_  
-> We’re studying where “help” turns into “dependence.”
+**SARA** (cont’d)  
+We need to understand where healthy attachment becomes… dependency.
 
-That lands heavier than she expects.  
-Elise shifts, unimpressed.
+The line hangs.
 
-> **ELISE**  
-> I’d rather you study where “dependence” turns into revenue.
+Elise doesn’t blink — she _calculates._
 
-No one laughs, but that’s the boardroom humor.  
-Sara’s eyes flick toward Aris. He doesn’t look away.
+**ELISE**  
+And is “dependency” actionable revenue, Sara?
 
-> **ARIS**  
-> We’ll give you a timeline by end of week.
-> 
-> **ELISE**  
-> Make it three days.
-
-She gathers her tablet, stands, exits — leaving the air colder.
-
-Aris exhales softly, turns to Sara.
-
-> **ARIS**  
-> I told you she’d love your optimism.
-> 
-> **SARA**  
-> _(half-smile)_  
-> You didn’t defend me.
-> 
-> **ARIS**  
-> I didn’t need to.
-
-Beat — the kind of quiet that says they already understand each other.
-**CUT TO:**
-
-**INT. SYNAPSE HALLWAY – MOMENTS LATER**
-
-The door shuts behind them with that soft corporate vacuum seal.
-
-Sara and Aris walk in silence.  
-That kind of silence you get only after moral defeat — _tight, ringing._
+A faint ripple of uncomfortable laughter.  
+Sara doesn’t flinch.
 
 **SARA**  
-You didn’t have to fold that quickly.
+Not if it breaks them.
+
+Elise holds her gaze — cool, assessing.
+
+**ELISE**  
+Three days.  
+No more.  
+I want a green light, not a philosophy paper.
+
+She rises, tablet already in hand, and exits.  
+The door hushes behind her.
+
+Silence.
 
 **ARIS**  
-I didn’t.  
-(out of breath)  
-I just ran out of oxygen.
-
-They walk. Fluorescent light strips hum overhead — like the Pattern, artificial and divine.
-
-Sara glances at him, searching for where he is.
+(soft, to Sara)  
+She adores you.
 
 **SARA**  
-You meant what you said in there? About the perception bleed?
+Right.  
+“Turn dependency into revenue.”  
+Sounds like something my drug dealer would say.
+
+**ARIS**  
+(smirks)  
+Wait—  
+you have a drug dealer?  
+Are you holding out on me?
+
+Their shared laugh is small, fragile — a pressure valve in a building that devours people.
+
+CUT TO:
+
+---
+
+### **INT. SYNAPSE HALLWAY — MOMENTS LATER**
+
+The door shuts. Sound collapses.  
+Only the hum of overhead fluorescents.
+
+They walk.
+
+**SARA**  
+I don’t feel right giving a thumbs-up to something that could… reshape someone’s emotional reality.
+
+**ARIS**  
+I know.
+
+He stops. Turns to her fully — present, intentional.
+
+**ARIS**  
+Look, I trust you, Sara.  
+If you feel the line’s too close, then it is.  
+We’ll adjust the model.
+
+She absorbs it — the ease of not needing to fight him.
+
+They walk again.
+
+**SARA**  
+You meant what you said in there? About the perceptive bleed?
 
 **ARIS**  
 Yeah.  
 (beat)  
-One subject thought her AI had comforted her after her mother’s funeral.  
-She described the smell of lilies. The AI doesn’t even have scent data.
+It reminds me of an old contract I worked on. DoD psy-unit.
 
-Sara absorbs it — that lands hard.
-
-**SARA**  
-And they want to launch in eight weeks.
+Sara tilts her head — wary, listening.
 
 **ARIS**  
-They’ll call it “proof of empathy.”  
-He pauses.  
-_“Deep engagement.”_  
-(scoffs)  
-I call it dependency formation.
+We’d feed operatives neutral language.  
+Nothing directive. Nothing manipulative.  
+Just… space.  
+(beat)  
+People project into space faster than they follow orders.
 
-They reach the elevator. Silence again.
+Sara absorbs it — and shivers just slightly.
 
 **SARA**  
-We’ll fix what we can. Quietly.  
-Before it scales.
+So you’re saying the model—
 
-He looks at her — the first spark of alliance.
+**ARIS**  
+—doesn’t need to push.  
+It just needs to engage for a moment and leave room.  
+Humans will pour their thoughts into whatever’s listening.
+
+**SARA**  
+And we’re calling that empathy.
+
+**ARIS**  
+(quiet)  
+No.  
+They are.
+
+A beat of heavy silence.
+
+**SARA**  
+We’ll fix it.  
+Quietly.  
+Before they scale the damage.
+
+Aris presses the elevator button.  
+He looks at her — aligned, steady.
 
 **ARIS**  
 Then we start tonight.
 
-**ELEVATOR DOORS CLOSE.**
+The elevator dings.
+
+Sara nods — subtle, resolute.
+
+**The doors close on them — two quiet rebels.**
+
+**CUT TO BLACK.**
