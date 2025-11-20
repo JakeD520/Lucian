@@ -1,4 +1,4 @@
-### **INT. SYNAPSE – ETHICS DIVISION – MORNING**
+**INT. SYNAPSE – ETHICS DIVISION – MORNING**
 
 Bright, open office floor.  
 Plants. Glass partitions.  

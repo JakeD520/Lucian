@@ -1,4 +1,4 @@
-### **EXT. CITY STREET – NIGHT**
+**EXT. CITY STREET – NIGHT**
 
 A steady hum: traffic, chatter, phones buzzing, a bus braking, a car horn half a block away.
 
@@ -64,9 +64,6 @@ each alone in their own world of blue light.
 Lucian stops again — small, subtle.
 
 He watches them a moment longer than comfort allows.
-
-The air around him shifts —  
-a faint tremor, an echo of the Pattern.
 
 He lifts his gaze.
 

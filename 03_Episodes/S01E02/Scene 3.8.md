@@ -1,4 +1,4 @@
-### **INT. SMALL APARTMENT — NIGHT (MULTI-CAM LIVESTREAM SETUP)**
+ **INT. SMALL APARTMENT — NIGHT (MULTI-CAM LIVESTREAM SETUP)**
 
 A ring light.  
 RGB strip lights.  
@@ -56,8 +56,6 @@ Kelsey fans in shambles.
 
 **TREY**  
 Kelsey fans don’t exist.
-
-They high-five.
 
 Behind them, Kelsey gasps through tears, unable to compose herself.
 

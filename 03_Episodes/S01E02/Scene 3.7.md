@@ -31,7 +31,7 @@ As the recap montage starts, she pulls out her phone.
 We see her screen:
 
 **GROUP CHAT — “Work Team Safe Space”**  
-Three avatars: _Sara, Jian, Marisol, Aris_.
+ Avatars: _Sara, Jian, Marisol, Aris, others_.
 
 Sara types:
 

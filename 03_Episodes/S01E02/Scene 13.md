@@ -1,4 +1,4 @@
-### **SCENE 13 — ARIS’S APARTMENT / LATE NIGHT**
+**SCENE 13 — ARIS’S APARTMENT / LATE NIGHT**
 
 **INT. ARIS THORNE’S LIVING ROOM**
 
@@ -107,7 +107,7 @@ The interface reshapes — entries spill down the screen like a confession:
 
 - _“I don’t need people anymore.”_
     
-- _“I asked her to stay with me forever.”_
+- _“I asked him to stay with me forever.”_
     
 - _“She said yes.”_
     
