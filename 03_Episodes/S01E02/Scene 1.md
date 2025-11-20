@@ -1,4 +1,4 @@
-### **INT. SYNAPSE BOARDROOM — DAY**
+**INT. SYNAPSE BOARDROOM — DAY**
 
 **ECU — “OLYMPUS MEETING ROOM” placard.**
 
@@ -17,7 +17,7 @@ Dr. Thorne. Are you confident your division is aligned?
 **ARIS THORNE**  
 Yes. Mostly.  
 (glances to Sara)  
-A few things we need to assess before we move forward.
+A few ethics-related things we need to assess before we move forward.
 
 He offers the floor without ceremony.
 
@@ -79,10 +79,9 @@ CUT TO:
 
 ---
 
-### **INT. SYNAPSE HALLWAY — MOMENTS LATER**
+ **INT. SYNAPSE HALLWAY — MOMENTS LATER**
 
-The door shuts. Sound collapses.  
-Only the hum of overhead fluorescents.
+The door shuts. Sound collapses.
 
 They walk.
 
@@ -109,7 +108,7 @@ You meant what you said in there? About the perceptive bleed?
 **ARIS**  
 Yeah.  
 (beat)  
-It reminds me of an old contract I worked on. DoD psy-unit.
+It reminds me of an old contract I worked on back when I was with the Department of Defense.
 
 Sara tilts her head — wary, listening.
 
