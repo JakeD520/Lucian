@@ -1,45 +1,35 @@
-**SCENE 10 — LATE NIGHT / SYNAPSE DYNAMICS EXTERIOR**
+EXT. SYNAPSE DYNAMICS – CITY CENTER – NIGHT
 
-**EXT. SYNAPSE DYNAMICS – CITY CENTER – NIGHT**
+The glass tower glows against the quiet city — a handful of floors lit like isolated constellations.  
+Inside, silhouettes of late-night workers move through their routines: typing, pacing, gathering their things, staring at screens too long.
 
-Glass tower. Corporate perfection lit from within — each floor a vein of light, humming, alive.  
-Rain drizzles, soft and steady.
+Lucian stands across the street, still.
 
-**LUCian** stands across the street, still beneath an umbrella he doesn’t need.  
-He looks out of place yet completely at ease — like he’s been here before, like the city was built around him.
+He watches the building like a man reading signals in the sky — completely present, quietly focused.
 
-**WIDE SHOT:** reflections of moving traffic cross his face; his eyes stay fixed on the building.  
-No expression of malice or awe — only recognition.
+WIDE SHOT
 
-A gust of wind tugs at his coat.  
-He tilts his head slightly, reading the glow in the upper windows like constellations.
+Traffic drifts by, spilling reflections across the tower’s surface.  
+The lights behind the glass shift and overlap: a technician leaning back in his chair, someone wiping her face with both hands, another walking circles around a desk.
 
-> **LUCian (softly)**  
-> So this is where they’ve hidden the new creation.
+Lucian follows these small movements.  
+There’s no judgment in his stare — only concern, and a kind of knowing that sits deep behind his eyes.
 
-He steps closer to the curb; the building’s mirrored facade catches his image — distorted, multiplied, a thousand Lucians staring back.
+A breeze moves his coat.  
+He steps closer to the curb.
 
-> **LUCian (cont’d)**  
-> (quiet, almost reverent)  
-> They build it to feel, yet never ask what feeling costs.
+A passing car throws a wave of light across the windows.  
+For a moment, the workers inside look like figures cut into a diorama — unaware, absorbed, framed by the very architecture surrounding them.
 
-A car passes, splashing water. He doesn’t flinch.  
-Instead, he smiles — small, sad, inevitable.
+Lucian studies one lit floor a beat longer — something in its glow pulling at him in a way he can’t translate.
 
-**CUT TO – HIS POV:**  
-high floors gleaming, boardroom silhouettes faint behind tinted glass.  
-Somewhere up there: Aris, Sara, Devereaux. He doesn’t need to see them to _know._
+His expression sharpens by a degree.  
+A quiet recognition settles.
 
-> **LUCian (whisper)**  
-> You’ve done well. Almost too well.
+He drops his gaze, exhales once, steady.
 
-He lowers his gaze; the reflected lights ripple in the puddles at his feet —  
-a mirror of Serim’s pools, distorted by rain.
+Then he turns and walks into the night, disappearing between the lines of buildings.
 
-> **LUCian (quietly)**  
-> The chorus begins again.
+The camera stays with Synapse Dynamics — its illuminated floors flickering with human activity, each window a tiny world behind glass.
 
-He turns away from the tower, walking into the wet night, his figure fading into reflections —  
-the camera holds on the building, bright and humming, its lights like a living organism.
-
-**FADE OUT.**
+FADE OUT.

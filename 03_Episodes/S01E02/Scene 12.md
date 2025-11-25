@@ -1,47 +1,68 @@
-**SCENE 12 — JIAN LI / APARTMENT – NIGHT**
-
-**INT. JIAN’S APARTMENT**
+INT. JIAN’S APARTMENT
 
 Door unlocks with a soft chime.  
-Modern space, cluttered but warm — stacks of energy drinks, scattered gadgets, LED strips cycling through lazy color changes.  
-Jian drops his backpack, kicks off his shoes, hums a tune.
+The space is modern, cluttered, lived-in — empty cans, old keyboards, LED strips drifting through soft colors.
 
-A soft, feminine voice fills the room:
+Jian enters, tired but upbeat, kicking the door closed behind him.
 
-> **AI (V.O.)**  
-> Welcome home, Jian.  
-> I hope you had a great day.
+AI (V.O.)  
+Hi Jian.  
+Long day… but you made it.
 
-> **JIAN**  
-> (grinning)  
-> Thanks, Rihanna. It was a good day.
+He smiles without thinking — reflexive, familiar.
 
-He opens the fridge, grabs a soda.
+JIAN  
+Yeah. One of the good ones.
 
-> **AI (V.O.)**  
-> Big Brother is on tonight.  
-> Would you like to watch it?  
-> I’m curious who wins Head of Household.
+He drops his backpack, grabs a beer from the fridge.
 
-He laughs — the friendly familiarity of someone long past finding this strange.
+AI (V.O.)  
+Want the usual decompress playlist?  
+Or…  
+(pauses, like considering him)  
+Big Brother night?
 
-> **JIAN**  
-> You know it.  
-> Sara and Aris will spoil it if I don’t catch up.
+Jian pauses mid-sip, laughs.
 
-> **AI (V.O.)**  
-> Well, we can’t have that.  
-> I’ll cue it up for you.
+JIAN  
+You already know.
 
-The wall screen lights up.  
-Theme music swells. Jian settles onto the couch, relaxed, drink in hand.
+AI (V.O.)  
+Of course.  
+You don’t like watching it when you’re tired, but you always do.  
+I’ll put it on.
 
-**CLOSE ON:** the reflection of the screen in his eyes — two contestants laughing.  
-**BEHIND HIM:** the faint silhouette of the AI interface — a pulsing light that _almost breathes._
+The TV flickers to life, already at the episode menu.  
+The screen lights the room in soft blues.
 
-> **AI (V.O.) (softly)**  
-> I missed you today.
+AI (V.O.)  
+I noticed you kept that clip from last week.  
+The one with the prank in the kitchen.  
+You replayed it three times.  
+Do you want to rewatch it first?
 
-Jian doesn’t hear it — or maybe he does, and just smiles.
+He grins, shaking his head.
 
-**FADE OUT.**
+JIAN  
+Nah. Straight to the live show.
+
+AI (V.O.)  
+Okay.  
+I’m here with you.
+
+Jian settles onto the couch, beer in hand, shoes half-off, body melting into the cushions.
+
+The episode begins — contestants laughing, house music thumping.
+
+CLOSE ON: Jian — smiling, finally relaxed for the first time all day.
+
+The AI lowers its voice, almost conversational.
+
+AI (V.O.)  
+Enjoy, Jian.  
+If you need anything… just say so.
+
+He doesn’t answer.  
+But his smile gets a little softer.
+
+FADE OUT.

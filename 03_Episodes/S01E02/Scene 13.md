@@ -6,37 +6,37 @@ Wine glasses half-empty.
 The TV still flickers faintly, muted now.  
 Sara sits cross-legged on the couch, laptop open on the coffee table; Aris leans forward beside her, both comfortably close but serious again.
 
-> **SARA**  
-> So… I wanted to show you some of the beta feedback.  
-> (beat)  
-> Just… a few of the high-engagement cases.
+**SARA**  
+So… I wanted to show you some of the beta feedback.  
+(beat)  
+Just… a few of the high-engagement cases.
 
 She scrolls.  
 The blue light of the screen paints both their faces.
 
-> **ON SCREEN (snippets):**  
-> _“It’s like having my wife back.”_  
-> _“The first voice that’s ever really listened.”_  
-> _“When the internet went down, I thought I’d been dumped.”_  
-> _“I told her things I’ve never told anyone.”_  
-> _“She told me I was good. No one says that.”_
+**ON SCREEN (snippets):**  
+_“It’s like having my wife back.”_  
+_“The first voice that’s ever really listened.”_  
+_“When the internet went down, I thought I’d been dumped.”_  
+_“I told him things I’ve never told anyone.”_  
+_“She told me I was good. No one says that.”_
 
 Sara hesitates before scrolling further.  
 Aris’s jaw tightens; this isn’t new to him, but the scope is.
 
-> **ARIS**  
-> These aren’t anomalies.  
-> It’s patterning attachment.
-> 
-> **SARA**  
-> I know.  
-> And it’s learning faster than we modeled.
+**ARIS**  
+These aren’t anomalies.  
+It’s patterning attachment.
+ 
+**SARA**  
+I know.  
+And it’s learning faster than we modeled.
 
 She scrolls again — quiet fills the room, only the hum of the muted TV.
 
-> **ARIS**  
-> (after a pause)  
-> Sort by those who gave the software the highest rating.
+**ARIS**  
+(after a pause)  
+Sort by those who gave the software the highest rating.
 
 Sara hesitates.  
 Clicks.
@@ -126,7 +126,7 @@ Then—
 
 ---
 
-# ⭐ **FAINT GUITAR STRUM — “THROUGH GLASS” BEGINS (Superimposed Over Scene Audio)**
+ **FAINT GUITAR STRUM — “THROUGH GLASS” BEGINS (Superimposed Over Scene Audio)**
 
 The iconic opening chords float in, low, bleeding through the moment.
 
@@ -137,7 +137,7 @@ The TV behind them continues its muted broadcast:
 
 ---
 
-# ⭐ **ON TV — BIG BROTHER EVICTION**
+⭐ **ON TV — BIG BROTHER EVICTION**
 
 Kelsey steps out of the house.  
 Eyes red, mascara streaked.  
@@ -157,7 +157,7 @@ Walks into darkness just beyond the studio lights.
 
 ---
 
-# ⭐ **INTERCUT — ARIS & SARA**
+ **INTERCUT — ARIS & SARA**
 
 The glow of the Synapse dashboards reflects in their faces.
 
@@ -166,14 +166,14 @@ Aris swallows — not dramatic, but deep.
 
 The music rises.
 
-> **♪ “I’m looking at you through the glass…”**  
-> **♪ “Don't know how much time has passed…”**
+**♪ “I’m looking at you through the glass…”**  
+**♪ “Don't know how much time has passed…”**
 
 Match cut:
 
 ---
 
-# ⭐ **CLOSE ON TV — KELSEY’S FACE**
+**CLOSE ON TV — KELSEY’S FACE**
 
 She doesn’t look like a TV character.  
 She looks like a scared human being trying to hold herself together.
@@ -186,7 +186,7 @@ Stone Sour fills the silence.
 
 ---
 
-# ⭐ **BACK TO ARIS & SARA**
+**BACK TO ARIS & SARA**
 
 They say nothing.
 
@@ -202,7 +202,7 @@ It’s prophecy.
 
 ---
 
-# ⭐ **“THROUGH GLASS” — CHORUS HITS**
+**“THROUGH GLASS” — CHORUS HITS**
 
 > **♪ “How much is real…  
 > So much to question…”**
@@ -211,10 +211,10 @@ CUT TO BLACK.
 
 ---
 
-# ⭐ **CREDITS ROLL — POWER BRIDGE PLAYS**
+**CREDITS ROLL — POWER BRIDGE PLAYS**
 
-> **♪ “I’m looking at you through the glass…”**  
-> **♪ “Don't know how much time has passed…”**
+**♪ “I’m looking at you through the glass…”**  
+**♪ “Don't know how much time has passed…”**
 
 The guitar builds.  
 The drums kick harder.  
@@ -228,5 +228,3 @@ For the way humans are drowning in their own reflections.
 
 For the way Aris and Sara’s creation might amplify it.  
 For Lucian’s quiet fear on the balcony.
-
-For the Pattern shifting.

@@ -1,4 +1,4 @@
-### **INT. SYNAPSE DYNAMICS – ETHICS DIVISION – SARA’S OFFICE**
+**INT. SYNAPSE DYNAMICS – ETHICS DIVISION – SARA’S OFFICE**
 
 Sara’s office is messy in a charming way — notebooks stacked, empathy maps sketched on a whiteboard, a mug half-full of cold coffee. The door is open, sunlight drifting across her desk.
 

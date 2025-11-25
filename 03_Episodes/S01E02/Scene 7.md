@@ -1,80 +1,92 @@
-**SCENE 7 — ARIS / HOME – NIGHT**
+INT. ARIS THORNE’S APARTMENT – NIGHT
 
-**INT. ARIS THORNE’S APARTMENT**
+Minimalist, elegant.  
+Warm woods. Clean concrete. Soft glass reflections.
 
-Minimalist, elegant, warm in tone — wood, glass, concrete.  
-Floor-to-ceiling windows open onto the city below: movement, lights, people — all distant, abstract.  
-Aris stands at the window, a drink in hand, the faint hum of _Through Glass_ playing on a nearby speaker.
+Floor-to-ceiling windows reveal the city below — a distant hum of life, headlights drifting like fireflies across a circuitry grid.
 
-The lyrics hover just under audibility — not on-the-nose, just a coincidence of mood.
+MUSIC: A faint wash of “Through Glass” plays on a nearby speaker. Just texture — low enough that you’d need to lean in to catch the melody.
 
-He watches the traffic weave far beneath him, like circuitry.  
-He looks peaceful, but not content — a man too used to observation.
+Aris stands at the window, drink in hand.  
+His posture is calm; his eyes aren’t.  
+A man comfortable in silence, but not at peace.
 
-**PHONE RINGS.**  
-He glances at the screen: _Sara Keene._
+His phone buzzes.
 
-He answers, voice softening instantly.
+CALL INCOMING: Sara Keene.
 
-> **ARIS**  
-> Evening, stranger.
-> 
-> **SARA (V.O.)**  
-> You sound tired.
-> 
-> **ARIS**  
-> You sound like someone eating dinner at her desk again.
+He answers without hesitation.
 
-> **SARA (V.O.)**  
-> (mock offense)  
-> I’ll have you know it was gourmet Chinese takeout.
+ARIS  
+Evening, stranger.
 
-He chuckles, pacing toward the kitchen.  
-Grabs a glass, pours water.
+SARA (V.O.)  
+You sound tired.
 
-> **ARIS**  
-> Living the dream, huh?
-> 
-> **SARA (V.O.)**  
-> Mmhmm. You?
+He smirks, drifting toward the kitchen.
 
-He looks back out at the skyline.
+ARIS  
+You sound like someone eating dinner at her desk again.
 
-> **ARIS**  
-> Just admiring the empire we’ve accidentally built.
+SARA (V.O.)  
+(mock scandalized)  
+Excuse you — it was gourmet Chinese takeout.
 
-> **SARA (V.O.)**  
-> Don’t say that — it makes us sound ominous.
+He grabs a glass, fills it with water, shaking his head.
 
-> **ARIS**  
-> Maybe we are.
+ARIS  
+Living the dream, huh?
 
-A pause. It’s not awkward — they’re used to quiet.
+SARA (V.O.)  
+Mmhmm. You?
 
-> **SARA (V.O.)**  
-> Hey… look, I really think you should see some of these beta reviews.
-> 
-> **ARIS**  
-> Alright. Tomorrow? First thing?
-> 
-> **SARA (V.O.)**  
-> Or... I mean… I’m just leaving. I could stop by.  
-> _(beat)_  
-> If that’s okay.
+He glances back at the window — the skyline glittering like a motherboard.
 
-He smiles — small, involuntary.
+ARIS  
+Just basking in the energy of the city before Skynet takes over.
 
-> **ARIS**  
-> You’re just using me for my coffee.
-> 
-> **SARA (V.O.)**  
-> And your ridiculously big TV. Big Brother’s on.
-> 
-> **ARIS**  
-> (laughs)  
-> I’m in.
+SARA (V.O.)  
+Don’t say that. Makes us sound ominous.
 
-**WIDE SHOT:** Aris sets down his glass, glancing back out the window one more time — the city reflecting in his eyes.  
-He turns toward the door as the music fades to silence.
+ARIS  
+Maybe we are.
 
-**FADE OUT.**
+A small pause — comfortable, lived-in.
+
+SARA (V.O.)  
+Hey… look, I really think you should see some of these beta reviews.
+
+ARIS  
+Alright. Tomorrow? First thing?
+
+A beat.
+
+SARA (V.O.)  
+Or…  
+(soft)  
+I mean, I’m just leaving the office.  
+I could stop by.  
+If that’s okay.
+
+A smile catches him off-guard — soft, genuine.
+
+ARIS  
+You’re just using me for my wine selection.
+
+SARA (V.O.)  
+And your ridiculously big TV.  
+Big Brother’s on tonight.
+
+He laughs — the tension in his shoulders easing.
+
+ARIS  
+I’m in.
+
+WIDE SHOT
+
+Aris sets down his glass.  
+He looks out once more — smiling.
+
+The music fades.
+
+FADE OUT.

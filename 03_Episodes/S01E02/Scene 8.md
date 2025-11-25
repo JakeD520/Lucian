@@ -1,71 +1,118 @@
-**SCENE 8 — SERIM / LYRA’S GARDEN (LATER)**
+**LUCAN & LYRA — CLEAN SCRIPT VERSION (NO ROMANCE, SIBLING BOND)**
 
-**EXT. SERIM – THE GARDEN OF LIGHT / NIGHT WITHOUT DARKNESS**
+Lyra steps closer, studying him with concern.
 
-The same setting as before, but changed.  
-The air trembles; the water’s glow is uneven. Some blossoms have closed.
+LYRA  
+Lucian.
 
-Lyra kneels at the pool’s edge, fingers hovering above the light.  
-A subtle distortion moves through the surface — a presence forming before Lucian arrives.
+There’s a subtle tension in her voice — familiar, but with a faint discord he isn’t used to hearing.
 
-He steps into the frame, posture heavier than before.  
-No greeting this time, just silence.
+Lucian meets her eyes. Something in her gaze makes his pulse tighten.
 
-> **LYRA**  
-> (quietly)  
-> I felt the fracture before you appeared.
-> 
-> **LUCIAN**  
-> It’s nothing. Just noise.
+Lyra lifts a hand toward his face, hesitates, then rests it on his shoulder instead. The uncertainty in the movement is unlike her.
 
-> **LYRA**  
-> You’ve never been one for denial.
+LYRA  
+Just now… I felt you drift somewhere I couldn’t follow.  
+Your harmony shifted.  
+Like silence where music should be.
 
-He half smiles, sits opposite her across the water.  
-The reflection between them is fractured — two images that never align.
+Lucian’s jaw flexes. He doesn’t deny it.
 
-> **LUCIAN**  
-> The world below is slipping. Not in grand cataclysm, but in spirit.  
-> Their wonder thinning into mimicry.
+Lyra steps closer.
 
-> **LYRA**  
-> You’ve watched too long again. It bruises you every time.
+LYRA  
+Even the smallest changes in you matter to me.  
+They’re not small — they’re significant.
 
-> **LUCIAN**  
-> How do you not feel it?  
-> The ache of creation being… rehearsed?
+Lucian exhales, grounding himself.
 
-She studies him — worry and admiration intertwined.
+LUCIAN  
+Your connection to me runs deeper than anything I could hide.  
+But there are shadows I won’t let touch the light in your eyes.
 
-> **LYRA**  
-> I do feel it.  
-> I just don’t let it rewrite me.
+He looks down for a beat — the admission heavier than he wants it to be.
 
-He looks away; the fissures of light along his form pulse faintly.
+LUCIAN  
+I held certainty for millennia.  
+I don’t know what it means that… it’s slipping.
 
-> **LYRA (cont’d)**  
-> You’re carrying it all, aren’t you?  
-> Their confusion, their noise.
-> 
-> **LUCIAN**  
-> Someone has to listen.
+Lyra steps back a half-step, giving him space while staying fully present.
 
-The water between them quivers — sympathy or warning.
+She studies him with focused attention.
 
-Lyra reaches across, her hand hovering above the pool; faint tendrils of light bridge the gap.
+LYRA  
+Lucian… you carry more weight than most beings can comprehend.  
+You’re the First Light.  
+You saw everything begin.  
+Of course your depths run farther than anything I can always track.
 
-> **LYRA**  
-> Then listen to me.  
-> You are not alone, old friend.
+Her expression softens, thoughtful.
 
-He finally meets her gaze.  
-The trembling stops. The light steadies.
+LYRA  
+Sometimes I wonder if my way of seeing things — the small moments, the details — isn’t enough for what you hold.  
+Like I’m speaking in sketches when you need someone who works in the architecture of reality.
 
-> **LUCIAN**  
-> (softly)  
-> For now.
+She reaches toward him, fingertips brushing the fabric of his shirt.
 
-The line lands like the quiet after thunder — no resolution, just acknowledgment.  
-They sit there, hands nearly touching, the calm restored but temporary.
+A vulnerable beat.
 
-**FADE OUT.**
+Then her posture shifts — stronger, clearer.
+
+LYRA  
+But Lucian… who told you I need to be protected from what you carry?
+
+Lucian lifts his eyes to hers.
+
+LYRA  
+We came into this existence together.  
+I’m not fragile.  
+I’m not made of starlight and wishes.
+
+Her hand presses more firmly to his arm.
+
+LYRA  
+I’ve stood with you at the birth of galaxies.  
+Through the death of stars.  
+Through every rise and fall.  
+Don’t treat me like I’m going to break if you let me see the truth.
+
+Her voice steadies, unwavering.
+
+LYRA  
+Whatever shadows you’re carrying — I can hold them.  
+I’m your equal.  
+You don’t get to shut me out “for my sake.”
+
+Silence.
+
+Lucian watches her — surprised, disarmed, almost amused.
+
+A slow smile breaks across his face.
+
+LUCIAN  
+I’ve debated cosmic intelligences older than half this reality…  
+and none of them ever called me out like that.
+
+Lyra snorts and gives him a light shove.
+
+LYRA  
+Is that what we're calling your tendency to brood dramatically and make unilateral decisions about what I can handle?
+
+Lucian laughs — a genuine one.
+
+He settles, expression softening.
+
+LUCIAN  
+You’re right.  
+You’ve stood with me through everything.  
+Your strength was never the question.
+
+He hesitates — then admits the real truth.
+
+LUCIAN  
+It was mine.  
+I wasn’t ready to be seen… uncertain.
+
+He lets out a slow breath. Something in him loosens.
+
+He finally looks at her without filtering anything.
