@@ -652,24 +652,27 @@ The human struggle. Lucian seeks counsel.
 
 # ⭐ **EPISODE 5 — 
 
+Lucian's bourbon street flashback. 
+
 
 ---
 
 # ⭐ **EPISODE 6 — “VIENNA”**
 
-Lucian starts to test the boundaries of non-intervention. His family feels the shift: some resist, some dismiss, some fear what it means. Lyra senses the fracture most acutely, Kaelarys becomes brittle, and Aella lashes out.  
-On Earth, Maya and Marcus experience a pivotal disruption — the moment Lucian’s hopeful thread begins to collapse. The fragility of human connection becomes unmistakable.
+Kaelarys' solo episode.
 
 ---
 
 # ⭐ **EPISODE 7 —
 
-Lucian’s internal tension becomes visible. He grows more distant, more analytical, more desperate for clarity. His siblings react with confusion, frustration, or concern, each revealing their emotional stance toward humanity’s decline.  
-In the human storyline, Aris and Sara experience parallel pressure: the tech grows faster, darker, more addictive. Their unease mirrors Lucian’s, though neither side is aware of the other.
+The family is at odds. cracks form. Lucian's glimmer of hope. Maya and Marcus get closer.
+
 
 ---
 
 # ⭐ **EPISODE 8 — 
+
+Rexus/Lucian Monaco Lambo scene - take the driver's seat metaphor.   Lucian/Kaelarys dark reveal scene.
 
 
 ---
