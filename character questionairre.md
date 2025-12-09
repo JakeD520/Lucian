@@ -267,84 +267,105 @@ Freedom of judgment.  He carries some shame for "slumming" with humans.
 ### **1. How do they appear when the audience first meets them?**
 
 (What’s the initial “read”? Energy, posture, attitude, behavior.)
+Adventurous, needy, foulmouthed, sardonic, animated.
 
 ### **2. What is their emotional wound?**
 
 (The deep insecurity, fear, or pain they carry — even if they hide it.)
+fear of no control. of the unknown
 
 ### **3. What pressure are they under when the series begins?**
 
 (Not cosmic lore — the immediate emotional situation affecting them.)
+keep things predictable...easy.
 
 ### **4. How do they typically behave around the other siblings?**
 
 (Do they soften? Harden? Get louder? Perform? Withdraw?)
+teasing, irreverently humoruous
 
 ### **5. What do the other siblings misunderstand about them?**
 
 (Every character is misinterpreted by their family in some way.)
+she has internal power...she is silently confident.
 
 ### **6. What do _they_ misunderstand about themselves?**
 
 (This reveals their arc foundation.)
+that she isnt important or necessary to the families decisions.
+
 
 ### **7. What is their Season 1 trajectory?**
 
 (Emotionally — not plot-wise. How are they being pulled or pushed?)
+pulled towards responsibility. Manifests as anger towards the changing scope.
 
 ### **8. What contradictions make them interesting to play?**
 
 (Examples: gentle but stubborn, confident but insecure, smart but impulsive.)
+irreverent yet caring.  sardonic, yet appreciative.  smart, yet goofy, impulsive.
 
 ### **9. What is one small, human behavior that reveals who they are?**
 
 (A gesture, habit, micro-action: e.g., “picks lint off things,” “doesn’t make eye contact,” “arrives early but pretends they didn’t.”)
+heavily animated....hand gestures, facial emotes, large movements.
 
 ### **10. What is the thing they want but don’t know how to ask for?**
 
 (This is gold for actors — it tells them what’s under all the behavior.)
+harmony and joy
 
 ---
 # Val- 
 ### **1. How do they appear when the audience first meets them?**
 
 (What’s the initial “read”? Energy, posture, attitude, behavior.)
+bored, angry, confrontational
 
 ### **2. What is their emotional wound?**
 
 (The deep insecurity, fear, or pain they carry — even if they hide it.)
+fear of  weakness.
 
 ### **3. What pressure are they under when the series begins?**
 
 (Not cosmic lore — the immediate emotional situation affecting them.)
+fighting boredom.  apathy
 
 ### **4. How do they typically behave around the other siblings?**
 
 (Do they soften? Harden? Get louder? Perform? Withdraw?)
+ennui, snark
 
 ### **5. What do the other siblings misunderstand about them?**
 
 (Every character is misinterpreted by their family in some way.)
+they are authentic
 
 ### **6. What do _they_ misunderstand about themselves?**
 
 (This reveals their arc foundation.)
+they are compensating for emptiness
 
 ### **7. What is their Season 1 trajectory?**
 
 (Emotionally — not plot-wise. How are they being pulled or pushed?)
+pulled towards opening up...engagement.
 
 ### **8. What contradictions make them interesting to play?**
 
 (Examples: gentle but stubborn, confident but insecure, smart but impulsive.)
+confrontational, yet caring.  cocky, but not self-aware. explosive, yet quiet.
 
 ### **9. What is one small, human behavior that reveals who they are?**
 
 (A gesture, habit, micro-action: e.g., “picks lint off things,” “doesn’t make eye contact,” “arrives early but pretends they didn’t.”)
+gender ambiguous.  Fashionista
 
 ### **10. What is the thing they want but don’t know how to ask for?**
 
 (This is gold for actors — it tells them what’s under all the behavior.)
+inner peace
 
 ---
 
@@ -352,42 +373,52 @@ Freedom of judgment.  He carries some shame for "slumming" with humans.
 ### **1. How do they appear when the audience first meets them?**
 
 (What’s the initial “read”? Energy, posture, attitude, behavior.)
+philosophical, hedonistic, 
 
 ### **2. What is their emotional wound?**
 
 (The deep insecurity, fear, or pain they carry — even if they hide it.)
+of making mistakes
 
 ### **3. What pressure are they under when the series begins?**
 
 (Not cosmic lore — the immediate emotional situation affecting them.)
+to take a position.
 
 ### **4. How do they typically behave around the other siblings?**
 
 (Do they soften? Harden? Get louder? Perform? Withdraw?)
+perform.
 
 ### **5. What do the other siblings misunderstand about them?**
 
 (Every character is misinterpreted by their family in some way.)
+He is never actively choosing....lives in nonduality mindset. his wisdom is merely avoidance.
 
 ### **6. What do _they_ misunderstand about themselves?**
 
 (This reveals their arc foundation.)
+His lack of choosing is tantamount to relinquishing free will.
 
 ### **7. What is their Season 1 trajectory?**
 
 (Emotionally — not plot-wise. How are they being pulled or pushed?)
+empathy, connecting with those who do make choices.
 
 ### **8. What contradictions make them interesting to play?**
 
 (Examples: gentle but stubborn, confident but insecure, smart but impulsive.)
+philosophical, yet hedonistic.  divine, yet human.  intelligent, well spoken, yet crass.
 
 ### **9. What is one small, human behavior that reveals who they are?**
 
 (A gesture, habit, micro-action: e.g., “picks lint off things,” “doesn’t make eye contact,” “arrives early but pretends they didn’t.”)
+heavy focus when speaking.
 
 ### **10. What is the thing they want but don’t know how to ask for?**
 
 (This is gold for actors — it tells them what’s under all the behavior.)
+security, comfort
 
 ---
 
@@ -395,42 +426,52 @@ Freedom of judgment.  He carries some shame for "slumming" with humans.
 ### **1. How do they appear when the audience first meets them?**
 
 (What’s the initial “read”? Energy, posture, attitude, behavior.)
+cocky, frustrated, dissappointed
 
 ### **2. What is their emotional wound?**
 
 (The deep insecurity, fear, or pain they carry — even if they hide it.)
+not knowing answers
 
 ### **3. What pressure are they under when the series begins?**
 
 (Not cosmic lore — the immediate emotional situation affecting them.)
+(Doesnt appear until Season 2)To help the family regain their resonance with each other.
 
 ### **4. How do they typically behave around the other siblings?**
 
 (Do they soften? Harden? Get louder? Perform? Withdraw?)
+uppity, confident, irreverent - as if above everyone's problems. snarky
 
 ### **5. What do the other siblings misunderstand about them?**
 
 (Every character is misinterpreted by their family in some way.)
+that she is more powerful than them
 
 ### **6. What do _they_ misunderstand about themselves?**
 
 (This reveals their arc foundation.)
+that her quest for answers was detachment...hiding
 
 ### **7. What is their Season 1 trajectory?**
 
 (Emotionally — not plot-wise. How are they being pulled or pushed?)
+to reconnect..emotionally, with her family..feelings of loss, regret.
 
 ### **8. What contradictions make them interesting to play?**
 
 (Examples: gentle but stubborn, confident but insecure, smart but impulsive.)
+snarky, yet wise.  genius, yet ignorant.  confident, yet lonely
 
 ### **9. What is one small, human behavior that reveals who they are?**
 
 (A gesture, habit, micro-action: e.g., “picks lint off things,” “doesn’t make eye contact,” “arrives early but pretends they didn’t.”)
+eclectic attire..mismatched, unique.
 
 ### **10. What is the thing they want but don’t know how to ask for?**
 
 (This is gold for actors — it tells them what’s under all the behavior.)
+belonging
 
 ---
 
