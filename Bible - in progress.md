@@ -652,7 +652,7 @@ The human struggle. Lucian seeks counsel.
 
 # ⭐ **EPISODE 5 — 
 
-Lucian's bourbon street flashback. 
+Lucian's bourbon street flashback. Maya and Marcus get closer. The Enneagon worry about Lucian.
 
 
 ---
@@ -665,21 +665,21 @@ Kaelarys' solo episode.
 
 # ⭐ **EPISODE 7 —
 
-The family is at odds. cracks form. Lucian's glimmer of hope. Maya and Marcus get closer.
+The family is at odds. cracks form. Lucian's glimmer of hope. Fragile Intimacy concept. Lucian/Lyra glimmer of hope.
 
 
 ---
 
 # ⭐ **EPISODE 8 — 
 
-Rexus/Lucian Monaco Lambo scene - take the driver's seat metaphor.   Lucian/Kaelarys dark reveal scene.
+Rexus/Lucian Monaco Lambo scene - take the driver's seat metaphor.   
 
 
 ---
 
 # ⭐ **EPISODE 9 — THE PATTERN
 
-Cosmic intervention episode.
+Cosmic intervention episode.  Lucian/Kaelarys - Nola dark future reveal.
 
 ---
 
