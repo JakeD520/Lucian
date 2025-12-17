@@ -1852,106 +1852,6 @@ The music carries them.
 
 ---
 
-**INT. KITTYKAT24’S ROOM – NIGHT**
-
-Kitty is stretched across her bed, scrolling her phone casually while the others chatter.  
-She pauses.  
-Brows lift.
-
-**KITTY**  
-“Oh— hey, Skatter.  
-What’s this link you just posted on Insta?”
-
-**INTERCUT TO:**
-
-**INT. SKATTERBRAIN’S ROOM – SAME**
-
-SkatterBrain doesn’t flinch.  
-Just shrugs, sipping from a can.
-
-**SKATTERBRAIN**  
-“Oh.  
-My uncle’s GoFundMe.  
-Hospital bill stuff.”
-
-**INTERCUT TO:**
-
-**INT. KAI’S APARTMENT – SAME**
-
-Kai perks up, leaning a little closer to his mic.
-
-**KAI**  
-“Send it.”
-
-Kitty already is.  
-Her thumbs move fast.
-
-**KITTY (V.O.)**  
-“Just did.  
-Sucks, man.  
-Hope he’s doing okay.”
-
-SkatterBrain nods once — not emotional, not guarded — just matter-of-fact.
-
-**SKATTERBRAIN**  
-“Yeah, he’s hanging in there.”
-
-**INTERCUT TO: KITTY**
-
-She taps on her screen a few times, sits upright slightly.
-
-**KITTY**  
-“I tossed in a few bucks.  
-Nothing wild.  
-Just— you know.”
-
-**INTERCUT TO: KAI**
-
-Kai’s already doing the same on his phone.
-
-**KAI**  
-“Me too.”
-
-**INTERCUT BACK TO: SKATTERBRAIN**
-
-SkatterBrain smiles — a real one — small, warm.
-
-**SKATTERBRAIN**  
-“Thanks, guys.  
-Seriously.”
-
-**INTERCUT: KITTY**
-
-She waves a hand dismissively, even though they can’t see it.
-
-**KITTY**  
-“Dude, please.  
-We’re friends.  
-That’s what this is.”
-
-**INTERCUT: KAI**
-
-Kai nods, relaxed.
-
-**KAI**  
-“Yeah.  
-Love you, man.”
-
-**INTERCUT: SKATTERBRAIN**
-
-He smirks, leaning back in his chair like he’s brushing off embarrassment he doesn’t actually feel.
-
-**SKATTERBRAIN**  
-“Love you too, dorks.”
-
-They sit in a comfortable, unforced silence for half a beat —  
-then someone burps, or coughs, or rustles a chip bag,  
-and life just… continues.
-
-**END INTERCUT.**
-
----
-
 **EXT. BOURBON STREET – NIGHT**
 
 Music spills out from a bar — brass, bass, people yelling in joy and half-drunken chaos.  
@@ -2317,7 +2217,7 @@ He keeps eating anyway.
 Kitty wanders downstairs into a quiet, too-big, softly lit kitchen.
 
 She opens the fridge.  
-Inside: a half-eaten pizza box from a place fancy people pretend is casual.
+Inside: a half-eaten pizza box from Craig's.
 
 She steals a cold slice like she’s breaking into a vault.
 
