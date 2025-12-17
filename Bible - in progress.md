@@ -475,7 +475,7 @@ Zadie shows up with the kind of cocky, irreverent energy that makes people under
 
 ---
 
-# ⭐ **9. Jasmerai (Jazz) — The Returner** (Cailee Spaeny)
+# ⭐ **9. Jasmerai (Jazz) — The Returner** (Karen Fukuhara)
 
 Jazz re-enters the story with the swagger of someone who’s been out in the universe collecting insights, knowledge, experiences — and comes home to find none of it prepared her for what really mattered. She appears cocky, sharp, slightly irritated by everyone, the sibling who walks in as if she’s above the conflict but is secretly terrified she’s too late to fix any of it. Her wound is simple and devastating: she spent centuries searching for answers and still doesn’t have them. Her quest for cosmic understanding was never enlightenment — it was detachment, a way to avoid the vulnerability of belonging. Around her siblings she performs superiority, snarking from the sidelines, acting unimpressed by their struggles because admitting she cares would expose how guilty she feels for leaving. They misinterpret her distance as power, assuming she’s transcended their problems, never realizing she’s just as lost as they are and far more emotionally starved. What Jazz misunderstands about herself is the lie she’s built her identity on — that knowledge can replace connection, that wisdom can substitute for family. Her Season 2 trajectory is driven by regret and longing: the painful work of trying to reconnect with the people she left behind, of realizing they aren’t who they were when she left, and neither is she. Beneath the bravado and irritable cleverness, what she wants but can’t articulate is belonging — a way back into the family she walked away from, and the hope that they’ll let her in despite everything she missed.
 
@@ -517,7 +517,7 @@ He is the “control group.” The baseline human outcome. He tells the audience
 
 ---
 
-# ⭐ **ARIS — “The Precision Mind”**  (Joe Kerry)
+# ⭐ **ARIS — “The Precision Mind”**  ()
 
 **What he symbolizes:**  
 Human rationality turned inward — a brilliant mind who understands human behavior so well that his insights become the skeleton of a technology he didn’t actually build. Aris is not the engineer of Synapse; he is the _psychological cartographer_ whose research becomes the DNA of the collapse. He models cognitive patterns, emotional needs, reward cycles, and attention flows — never realizing how perfectly his work enables exploitation.

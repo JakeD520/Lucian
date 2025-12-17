@@ -31,7 +31,7 @@ She pockets it.
 
 **Maya (to mirror):**
 
-> “Okay… stay together this time.”
+> “Okay.  we stay together this time.”
 
 She kills the bathroom light.
 
@@ -46,15 +46,13 @@ She kills the bathroom light.
 Kai adjusts his headset in his monitor reflection — the same “mirror moment” as Maya’s, but digital.
 
 He fixes a stray piece of hair with his palm.  
-Not for vanity.  
-For the camera.
 
 He taps his mic.
 
 **Discord connects — little bloop-bloop sounds.**  
 Tiny face icons flash to life across his screen.
 
-Saber_Knight:
+KittyKat:
 
 > “Yoo! Kaiii! There he is!”
 
@@ -72,11 +70,6 @@ Kai:
 
 They all cheer.
 
-**His webcam preview flickers.**  
-For half a second, Kai’s reflected face freezes — a tiny glitch, like foreshadowing.
-
-He doesn’t notice.  
-He puts his headphones on fully.
 
 **CUT TO—**
 
