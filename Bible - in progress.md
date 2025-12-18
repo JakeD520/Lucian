@@ -680,14 +680,14 @@ Lucian NOLA flashback - cold open. The family is at odds. cracks form. Fragile I
 
 # ⭐ **EPISODE 9 — "THE PATTERN"
 
-Cosmic intervention episode.  Lucian/Kaelarys - Nola -  dark future reveal. Aella/Rexus casino.
+Cosmic intervention episode.  Aella/Rexus casino. Lyra/Lucian Glimmer, full reveal.
 
 ---
 
 # ⭐ **EPISODE 10 — “THE CHOICE” (Season Finale)**
 
 The glimmer collapses around Maya and Marcus. The hope Lucian invested into them shatters, leaving him with the unbearable truth: he was wrong. Humanity will not save itself.  
-In Serim Aeterna, the siblings witness Lucian take a step no one saw coming. His final act is subtle but seismic — the first fault line in the divine family. The season closes with the emotional and philosophical stakes locked in place. Aris and Sara first kiss.
+In Serim Aeterna, the siblings witness Lucian take a step no one saw coming. His final act is subtle but seismic — the first fault line in the divine family. The season closes with the emotional and philosophical stakes locked in place. Aris and Sara first kiss. Kalaerys/Lucian dark reveal.
 
 ---
 
