@@ -639,21 +639,21 @@ In the human world, Synapse’s influence grows. Aris spots early signs of unhea
 
 ---
 
-# ⭐ **EPISODE 3 — “DARK RAIN”**
+# ⭐ **EPISODE 3 — “TOGETHER”**
 
 The spotlight shifts to Maya and Kai.
 
 ---
 
-# ⭐ **EPISODE 4 — IRL
+# ⭐ **EPISODE 4 — "IRL"
 
-The human struggle. Lucian seeks counsel. The Enneagon gather together. Aris and Sara approach Elise.
+The human struggle. Lucian seeks counsel. The Enneagon gather together. Aris and Sara approach Elise. Lucian feels alone.
 
 ---
 
-# ⭐ **EPISODE 5 — 
+# ⭐ **EPISODE 5 — "COLORBLIND"
 
-Maya and Marcus get closer.  Lyra/Kai at the computer store.  Zadie and Artie.
+Maya and Marcus get closer.  Lyra/Kai at the computer store.  Zadie and Artie friendship.  Aris and Sara aligned.  
 
 
 ---
@@ -664,30 +664,30 @@ Kaelarys' solo episode.
 
 ---
 
-# ⭐ **EPISODE 7 —
+# ⭐ **EPISODE 7 — 
 
 Lucian NOLA flashback - cold open. The family is at odds. cracks form. Fragile Intimacy concept. THe enneagon worry about Lucian. Lucian meets Maya.
 
 
 ---
 
-# ⭐ **EPISODE 8 — 
+# ⭐ **EPISODE 8 — "DEAR GOD"
 
-  Rexus/Lucian Monaco Lambo scene - take the driver's seat metaphor.   Enneagon power struggles. Kaelarys absent. Lyra/Lucian growing connection.
+  Rexus/Lucian Monaco Lambo scene - take the driver's seat metaphor.   Enneagon power struggles. Kaelarys absent. Lyra/Lucian growing connection. Val with Hollywood couple. Aris and Sara get closer.  "Battery" culture.
 
 
 ---
 
-# ⭐ **EPISODE 9 — THE PATTERN
+# ⭐ **EPISODE 9 — "THE PATTERN"
 
-Cosmic intervention episode.  Lucian/Kaelarys - Nola -  dark future reveal.
+Cosmic intervention episode.  Lucian/Kaelarys - Nola -  dark future reveal. Aella/Rexus casino.
 
 ---
 
 # ⭐ **EPISODE 10 — “THE CHOICE” (Season Finale)**
 
 The glimmer collapses around Maya and Marcus. The hope Lucian invested into them shatters, leaving him with the unbearable truth: he was wrong. Humanity will not save itself.  
-In Serim Aeterna, the siblings witness Lucian take a step no one saw coming. His final act is subtle but seismic — the first fault line in the divine family. The season closes with the emotional and philosophical stakes locked in place.
+In Serim Aeterna, the siblings witness Lucian take a step no one saw coming. His final act is subtle but seismic — the first fault line in the divine family. The season closes with the emotional and philosophical stakes locked in place. Aris and Sara first kiss.
 
 ---
 

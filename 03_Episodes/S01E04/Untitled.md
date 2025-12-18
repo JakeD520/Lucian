@@ -1,6 +1,4 @@
-Absolutely — here is a **clean, production-ready concept report** you can drop directly into your Episode 4 development notes.  
-It captures intention, dynamics, blocking, character psychology, and thematic purpose.
-
+Stereophonics - Maybe Tomorrow
 ---
 
 # **CONCEPT REPORT — EPISODE 4 “THE SERIM CASTLE GATHERING”**
